@@ -297,8 +297,12 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-name="半岛新闻台(英语)" tvg-logo="https://live.fanmingming.com/tv/aljazeera.png" group-title="境外频道",半岛新闻台（英语）
 https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+#EXTINF:-1 tvg-name="半岛新闻台(英语标清)" tvg-logo="https://live.fanmingming.com/tv/aljazeera.png" group-title="境外频道",半岛新闻台（英语标清）
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 tvg-name="半岛新闻台(阿语)" tvg-logo="https://live.fanmingming.com/tv/aljazeera.png" group-title="境外频道",半岛新闻台（阿语）
-https://live-hls-v3-aje.getaj.net/AJA-V3/index.m3u8
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+#EXTINF:-1 tvg-name="半岛新闻台(阿语标清)" tvg-logo="https://live.fanmingming.com/tv/aljazeera.png" group-title="境外频道",半岛新闻台（阿语标清）
+https://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:-1 tvg-name="RT新闻台" tvg-logo="https://live.fanmingming.com/tv/RTNews.png" group-title="境外频道",RT新闻台
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-name="Euronews" tvg-logo="https://live.fanmingming.com/tv/Euronews.png" group-title="境外频道",Euronews
