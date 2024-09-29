@@ -295,10 +295,14 @@ https://0472.org/hls/cgtna.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-name="BBC" tvg-logo="https://live.fanmingming.com/tv/BBC.png" group-title="境外频道",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-name="半岛新闻台" tvg-logo="https://live.fanmingming.com/tv/aljazeera.png" group-title="境外频道",半岛新闻台
+#EXTINF:-1 tvg-name="半岛新闻台(英语)" tvg-logo="https://live.fanmingming.com/tv/aljazeera.png" group-title="境外频道",半岛新闻台（英语）
 https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+#EXTINF:-1 tvg-name="半岛新闻台(阿语)" tvg-logo="https://live.fanmingming.com/tv/aljazeera.png" group-title="境外频道",半岛新闻台（阿语）
+https://live-hls-v3-aje.getaj.net/AJA-V3/index.m3u8
 #EXTINF:-1 tvg-name="RT新闻台" tvg-logo="https://live.fanmingming.com/tv/RTNews.png" group-title="境外频道",RT新闻台
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-name="Euronews" tvg-logo="https://live.fanmingming.com/tv/Euronews.png" group-title="境外频道",Euronews
+https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="NHK World" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="境外频道",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-name="日テレNEWS24" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="境外频道",日テレNEWS24
@@ -307,6 +311,8 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-name="MBC" tvg-logo="https://live.fanmingming.com/tv/MBC.png" group-title="境外频道",MBC
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 tvg-name="SBS" tvg-logo="https://live.fanmingming.com/tv/SBS.png" group-title="境外频道",SBS
+http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 tvg-name="FOX NEWS" tvg-logo="https://live.fanmingming.com/tv/FoxLIVE.png" group-title="境外频道",FOX NEWS
 http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
 #EXTINF:-1 tvg-name="NBC NEWS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-news-now-us.png?raw=true" group-title="境外频道",NBC NEWS
