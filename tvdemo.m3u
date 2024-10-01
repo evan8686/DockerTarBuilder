@@ -298,11 +298,11 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://live.fanmingming.com/tv/aljazeera.png" group-title="境外频道",半岛新闻台（英语）
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://live.fanmingming.com/tv/aljazeera.png" group-title="境外频道",半岛新闻台（英语标清）
-https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera Arabic" tvg-logo="https://live.fanmingming.com/tv/aljazeera.png" group-title="境外频道",半岛新闻台（阿语）
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera Arabic" tvg-logo="https://live.fanmingming.com/tv/aljazeera.png" group-title="境外频道",半岛新闻台（阿语标清）
-https://live-hls-web-aja.getaj.net/AJA/02.m3u8
+https://live-hls-web-aja.getaj.net/AJA/03.m3u8
 #EXTINF:-1 tvg-name="RT News" tvg-logo="https://live.fanmingming.com/tv/RTNews.png" group-title="境外频道",RT新闻台
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-name="Euronews" tvg-logo="https://live.fanmingming.com/tv/Euronews.png" group-title="境外频道",Euronews
