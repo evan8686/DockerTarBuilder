@@ -319,8 +319,16 @@ https://sc2024.stream-link.org/live/1221019888.php?id=eng3550efhh
 https://sc2024.stream-link.org/live/1221019888.php?id=eng5173zfgb
 #EXTINF:-1 tvg-id="NBCNews" tvg-name="NBC News" tvg-logo="http://content.stream-link.org/images/nbc_news_now.png" group-title="境外频道",NBC News Now
 https://sc2024.stream-link.org/live/1221019888.php?id=eng3301sdmn
-#EXTINF:-1 tvg-id="CBSNews.us" tvg-name="CBS News" tvg-logo="http://content.stream-link.org/images/cbs_news.png" group-title="境外频道",CBS News
-https://sc2024.stream-link.org/live/1221019888.php?id=eng1992vvwd
+#EXTINF:-1 tvg-name="CBS News" tvg-logo="http://content.stream-link.org/images/cbs_news.png" group-title="境外频道",CBS News
+http://eja.tv/?2120111aa10dfc3c926acdad262538a4.m3u8
+#EXTINF:-1 tvg-id="CBSNews.NY" tvg-name="CBSN2" tvg-logo="http://content.stream-link.org/images/cbs_news.png" group-title="境外频道",CBS News NY
+https://eja.tv/?0b62c0be581cbeb9af1bb60973de79c2.m3u8
+#EXTINF:-1 tvg-id="CBSNews.LA" tvg-name="CBSN2" tvg-logo="http://content.stream-link.org/images/cbs_news.png" group-title="境外频道",CBS News LA
+https://eja.tv/?572acd8269b37c1490ffce85d7ac7037.m3u8
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="http://content.stream-link.org/images/cbs_news.png" group-title="境外频道",ABC News
+https://eja.tv/?1267011ebe2730fd04819f6a90ed31ad.m3u8
+#EXTINF:-1 tvg-name="Global News" tvg-logo="http://content.stream-link.org/images/GlobalNews.png" group-title="境外频道",Global News
+https://eja.tv/?3bf49234605c29ad03d38c04ca14a4fc.m3u8
 #EXTINF:-1 tvg-name="KBS World" tvg-logo="https://live.fanmingming.com/tv/KBSWorld.png" group-title="境外频道",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-name="MBC" tvg-logo="https://live.fanmingming.com/tv/MBC.png" group-title="境外频道",MBC
@@ -363,6 +371,8 @@ http://37.27.111.214:8080/live/30/hls.m3u8
 http://37.27.111.214:8080/live/34/hls.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://live.fanmingming.com/tv/Nickelodeon.png" group-title="境外频道",Nickelodeon尼克儿童频道
 http://37.27.111.214:8080/live/12/hls.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network Asia" tvg-logo="https://live.fanmingming.com/tv/CartoonNetwork.png" group-title="境外频道",CN卡通频道
+http://eja.tv/?05313f65bee0422cdd4a3188b70b40f4.m3u8
 #EXTINF:-1 tvg-name="AsiaTravel" tvg-logo="https://live.fanmingming.com/tv/AsiaTravel.png" group-title="境外频道",AsiaTravel亚洲旅游台
 http://37.27.111.214:8080/live/10/hls.m3u8
 #EXTINF:-1 tvg-name="幸福空间居家台" tvg-logo="https://live.fanmingming.com/tv/幸福空间居家台.png" group-title="境外频道",幸福空间居家频道
@@ -373,49 +383,19 @@ http://37.27.111.214:8080/live/46/hls.m3u8
 http://37.27.111.214:8080/live/53/hls.m3u8
 #EXTINF:-1 tvg-name="Discovery" tvg-language="English" tvg-logo="https://live.fanmingming.com/tv/Discovery.png" group-title="境外频道",Discovery
 http://45.159.74.14:80/DiscoveryChannel/index.m3u8
-#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://live.fanmingming.com/tv/mtv.png" group-title="境外频道",MTV Live
+#EXTINF:-1 tvg-name="MTV LIVE International" tvg-logo="https://live.fanmingming.com/tv/mtv.png" group-title="境外频道",MTV Live 国际
 http://37.27.111.214:8080/live/25/hls.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://live.fanmingming.com/tv/mtv.png" group-title="境外频道",MTV Live 美国
+https://eja.tv/?ad4be71c373350cca1db28959c69e016.m3u8
 #EXTINF:-1 tvg-name="AMC电影" tvg-logo="https://live.fanmingming.com/tv/amc.png" group-title="境外频道",AMC电影
 http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1 tvg-name="LifeTime" tvg-logo="https://live.fanmingming.com/tv/lifetime.png" group-title="境外频道",LifeTime
 http://37.27.111.214:8080/live/71/hls.m3u8
 #EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="境外频道",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://live.fanmingming.com/tv/ViuTV.png" group-title="境外频道",ViuTV
-http://cdn12.1678520.xyz/live/?id=viu
-#EXTINF:-1 tvg-id="HBOAsia" tvg-name="HBO Asia" tvg-logo="http://content.stream-link.org/images/hbo.png" group-title="境外频道",HBO Asia
-https://sc2024.stream-link.org/live/1221019888.php?id=sgp3247ntte
-#EXTINF:-1 tvg-id="HBOFamilyAsia" tvg-name="HBO Family Asia" tvg-logo="http://content.stream-link.org/images/hbo_family.png" group-title="境外频道",HBO Family Asia
-https://sc2024.stream-link.org/live/1221019888.php?id=sgp5548dwma
-#EXTINF:-1 tvg-id="HBOHitsAsia" tvg-name="HBO Hits Asia" tvg-logo="http://content.stream-link.org/images/hbo_hits.png" group-title="境外频道",HBO Hits Asia
-https://sc2024.stream-link.org/live/1221019888.php?id=sgp9508skak
-#EXTINF:-1 tvg-id="HBOSignatureAsia" tvg-name="HBO Signature Asia" tvg-logo="http://content.stream-link.org/images/hbo_signature.png" group-title="境外频道",HBO Signature Asia
-https://sc2024.stream-link.org/live/1221019888.php?id=sgp3004bnss
-#EXTINF:-1 tvg-id="CinemaxAsia" tvg-name="Cinemax Asia" tvg-logo="http://content.stream-link.org/images/Cinemax.png" group-title="境外频道",Cinemax Asia
-https://sc2024.stream-link.org/live/1221019888.php?id=sgp7701gpqt
-#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="http://content.stream-link.org/images/tvb_504.png" group-title="境外频道",Animax
-https://sc2024.stream-link.org/live/1221019888.php?id=hkt2603azmq
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://content.stream-link.org/images/tvb_502.png" group-title="境外频道",AXN
-https://sc2024.stream-link.org/live/1221019888.php?id=hkt6642vbjt
-#EXTINF:-1 tvg-id="tvNAsia" tvg-name="tvN Asia" tvg-logo="http://content.stream-link.org/images/tvb_505.png" group-title="境外频道",tvN Asia
-https://sc2024.stream-link.org/live/1221019888.php?id=hkt0054tqgw
-#EXTINF:-1 tvg-id="I-NEWS" tvg-name="無綫新聞台" tvg-logo="http://content.stream-link.org/images/tvb_news.png" group-title="境外频道",無綫新聞台
-https://sc2024.stream-link.org/live/1221019888.php?id=hkt0246hphs
-#EXTINF:-1 tvg-id="AstroQuanJiaHD" tvg-name="Astro AQuanJia" tvg-logo="http://content.stream-link.org/images/astro_qj.png" group-title="境外频道",Astro全佳
-https://sc2024.stream-link.org/live/1221019888.php?id=sgp3921eqau
-#EXTINF:-1 tvg-id="AstroHuaHeeDai" tvg-name="Astro Hua Hee Dai" tvg-logo="http://content.stream-link.org/images/astro_hhd.png" group-title="境外频道",Astro欢喜台
-https://sc2024.stream-link.org/live/1221019888.php?id=sgp3855wzpw
-#EXTINF:-1 tvg-id="AstroiQIYI" tvg-name="Astro iQIYI" tvg-logo="http://content.stream-link.org/images/astro_iqiyi.png" group-title="境外频道",Astro爱奇艺
-https://sc2024.stream-link.org/live/1221019888.php?id=sgp7118unsg
-#EXTINF:-1 tvg-id="8TV" tvg-name="八度空間" tvg-logo="http://content.stream-link.org/images/8tv.png" group-title="境外频道",八度空間
-https://sc2024.stream-link.org/live/1221019888.php?id=sgp2285pcgz
-#EXTINF:-1 tvg-id="Channel5.sg" tvg-name="Channel 5" tvg-logo="http://content.stream-link.org/images/channel_5.png" group-title="境外频道",新加坡5頻道
-https://sc2024.stream-link.org/live/1221019888.php?id=sgp5920vmqh
-#EXTINF:-1 tvg-id="Channel8.sg" tvg-name="Channel 8" tvg-logo="http://content.stream-link.org/images/channel_8.png" group-title="境外频道",新加坡8頻道
-https://sc2024.stream-link.org/live/1221019888.php?id=sgp8134ndmr
-#EXTINF:-1 tvg-id="ChannelU.sg" tvg-name="Channel U" tvg-logo="http://content.stream-link.org/images/channel_u.png" group-title="境外频道",新加坡U頻道
-https://sc2024.stream-link.org/live/1221019888.php?id=sgp2170gakp
-#EXTINF:-1 tvg-id="e-Le" tvg-name="e乐" tvg-logo="http://content.stream-link.org/images/e_le.png" group-title="境外频道",e乐
-https://sc2024.stream-link.org/live/1221019888.php?id=sgp8851kjhg
-#EXTINF:-1 tvg-id="Jia-Le" tvg-name="佳乐" tvg-logo="http://content.stream-link.org/images/jia_le.png" group-title="境外频道",佳乐
-https://sc2024.stream-link.org/live/1221019888.php?id=sgp8251zpep
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="http://content.stream-link.org/images/hbo.png" group-title="境外频道",HBO2
+https://eja.tv/?380fde5ef0d2a4c21156df5a8cd9f01a.m3u8
+#EXTINF:-1 tvg-name="AMC PLUS" tvg-logo="https://live.fanmingming.com/tv/AMCPLUS.png" group-title="境外频道",AMC PLUS
+https://eja.tv/?912a17c4051a1822f20fb9b664b05d92.m3u8
+#EXTINF:-1 tvg-name="Sony Movies" tvg-logo="https://live.fanmingming.com/tv/SonyMovies.png" group-title="境外频道",索尼电影台
+https://eja.tv/?912a17c4051a1822f20fb9b664b05d92.m3u8
