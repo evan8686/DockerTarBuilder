@@ -377,8 +377,10 @@ http://37.27.111.214:8080/live/30/hls.m3u8
 http://37.27.111.214:8080/live/34/hls.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://live.fanmingming.com/tv/Nickelodeon.png" group-title="境外频道",Nickelodeon尼克儿童频道
 http://37.27.111.214:8080/live/12/hls.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network Asia" tvg-logo="https://live.fanmingming.com/tv/CartoonNetwork.png" group-title="境外频道",CN卡通频道
+#EXTINF:-1 tvg-name="Cartoon Network Asia" tvg-logo="https://live.fanmingming.com/tv/CartoonNetwork.png" group-title="境外频道",CN卡通频道(亚洲)
 http://eja.tv/?05313f65bee0422cdd4a3188b70b40f4.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="境外频道",Cartoon Network
+http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="AsiaTravel" tvg-logo="https://live.fanmingming.com/tv/AsiaTravel.png" group-title="境外频道",AsiaTravel亚洲旅游台
 http://37.27.111.214:8080/live/10/hls.m3u8
 #EXTINF:-1 tvg-name="幸福空间居家台" tvg-logo="https://live.fanmingming.com/tv/幸福空间居家台.png" group-title="境外频道",幸福空间居家频道
@@ -389,10 +391,18 @@ http://37.27.111.214:8080/live/46/hls.m3u8
 http://37.27.111.214:8080/live/53/hls.m3u8
 #EXTINF:-1 tvg-name="Discovery" tvg-language="English" tvg-logo="https://live.fanmingming.com/tv/Discovery.png" group-title="境外频道",Discovery
 http://45.159.74.14:80/DiscoveryChannel/index.m3u8
-#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="Asian Food Network" tvg-logo="https://i.imgur.com/pux6WN8.png" group-title="境外频道",Asian Food Network
-https://ushls.ballbar.net/afc_twn/playlist-15.m3u8a?t=1728040129&token=164483938d889e044773d7762f7aaa15
+#EXTINF:-1 tvg-id="TLCEast.us" tvg-name="TLC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="境外频道",TLC East
+http://fl2.moveonjoy.com/TLC/index.m3u8
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="境外频道",HGTV
+http://212.102.60.231/HGTV/index.m3u8
+#EXTINF:-1 tvg-id="FoodNetworkEast.us" tvg-name="Food Network" tvg-logo="https://i.imgur.com/ljYzkQT.png" group-title="境外频道",Food Network
+http://212.102.60.231/HGTV/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.fi" tvg-name="National Geographic (Finland)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="境外频道",	National Geographic 芬兰线路
 https://live-fi.tvkaista.net/national-geographic/live.m3u8?src=videojs
+#EXTINF:-1 tvg-id="NationalGeographicEast.us" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="境外频道",	National Geographic
+http://fl2.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWildEast.us" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="境外频道",	National Geographic Wild
+http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 tvg-name="MTV LIVE International" tvg-logo="https://live.fanmingming.com/tv/mtv.png" group-title="境外频道",MTV Live 国际
 http://37.27.111.214:8080/live/25/hls.m3u8
 #EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://live.fanmingming.com/tv/mtv.png" group-title="境外频道",MTV Live 美国
@@ -405,12 +415,12 @@ http://37.27.111.214:8080/live/71/hls.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-id="HOYTV.hk" tvg-name="HOY TV" tvg-logo=https://i.imgur.com/NfVZPTT.png" group-title="境外频道",HOY TV
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="http://content.stream-link.org/images/hbo.png" group-title="境外频道",HBO2
-https://eja.tv/?380fde5ef0d2a4c21156df5a8cd9f01a.m3u8
 #EXTINF:-1 tvg-name="AMC PLUS" tvg-logo="https://live.fanmingming.com/tv/AMCPLUS.png" group-title="境外频道",AMC PLUS
 https://eja.tv/?912a17c4051a1822f20fb9b664b05d92.m3u8
 #EXTINF:-1 tvg-name="Sony Movies" tvg-logo="https://live.fanmingming.com/tv/SonyMovies.png" group-title="境外频道",索尼电影台
 https://eja.tv/?912a17c4051a1822f20fb9b664b05d92.m3u8
+#EXTINF:-1 tvg-id="StarzEast.us" tvg-name="Starz East" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="境外频道",Starz East
+http://fl2.moveonjoy.com/starz/index.m3u8
 #EXTINF:-1 tvg-id="StarzEdgeEast.us" tvg-name="Starz Edge East" tvg-logo="https://i.imgur.com/MvH3Cz2.png" group-title="境外频道",Starz Edge East
 http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
 #EXTINF:-1 tvg-id="FXEast.us" tvg-name="FX East" tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="境外频道",FX East
@@ -418,8 +428,26 @@ http://fl2.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 tvg-id="FXXEast.us" tvg-name="FXX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png" group-title="境外频道",FXX East
 http://fl2.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1 tvg-id="HBOEast.us" tvg-name="HBO East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="境外频道",HBO East
-http://fl2.moveonjoy.com/FXX/index.m3u8
+http://fl2.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 tvg-id="HBO2East.us" tvg-name="HBO2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/512px-HBO_2_%282014%29.svg.png" group-title="境外频道",HBO2
+https://eja.tv/?380fde5ef0d2a4c21156df5a8cd9f01a.m3u8
+#EXTINF:-1 tvg-id="CinemaxEast.us" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png" group-title="境外频道",Cinemax
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="SyfyEast.us" tvg-name="Syfy" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="境外频道",Syfy
+http://fl2.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-name="Showtime East" tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="境外频道",Showtime
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeExtremeEast.us" tvg-name="Showtime Extreme" tvg-logo="https://i.imgur.com/byJNJdm.png" group-title="境外频道",Showtime Extreme
+http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-name="Comedy Central East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="境外频道",	Comedy Central East
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1 tvg-id="HGTV Asia" tvg-name="HGTV Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="境外频道",	HGTV Asia
-https://shin.freemiumiptv.top/lineardash/2502/default.mpd
+#EXTINF:-1 tvg-id="VH1East.us" tvg-name="VH1 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="境外频道",VH1 East
+http://fl2.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1 tvg-id="BravoEast.us" tvg-name="Bravo" tvg-logo="https://i.imgur.com/JmTIRLF.png" group-title="境外频道",Bravo
+https://fl2.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="境外频道",Outdoor Channel
+http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="USANetworkEast.us" tvg-name="USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="境外频道",USA Network
+http://fl2.moveonjoy.com/USA_Network/index.m3u8
+#EXTINF:-1 tvg-id="TNTEast.us" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="境外频道",TNT
+https://fl2.moveonjoy.com/TNT/index.m3u8
