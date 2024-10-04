@@ -451,3 +451,15 @@ http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
 http://fl2.moveonjoy.com/USA_Network/index.m3u8
 #EXTINF:-1 tvg-id="TNTEast.us" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="境外频道",TNT
 https://fl2.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanetHD.in" tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/640px-2018_Animal_Planet_logo.svg.png" group-title="境外频道",Animal Planet HD 印度源
+http://bisdaktv.store/live/Animal_Planet.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannelHD.in" tvg-name="Discovery Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="境外频道",Discovery Channel HD 印度源
+http://bisdaktv.store/live/discoveryenglish.m3u8
+#EXTINF:-1 tvg-id="TravelChannel.in" tvg-name="Travel Channel" tvg-logo="https://i.imgur.com/RmHGeP1.png" group-title="境外频道",Travel Channel 印度源
+http://bisdaktv.store/live/TRVL_Channel.m3u8
+#EXTINF:-1 tvg-id="TLC.in" tvg-name="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="境外频道",TLC 印度源
+http://bisdaktv.store/live/TLC.m3u8
+#EXTINF:-1 tvg-id="HGTV.in" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="境外频道",HGTV 印度源
+http://bisdaktv.store/live/HGTV.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.in" tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="境外频道",Investigation Discovery 印度源
+http://bisdaktv.store/live/Investigation_Discovery.m3u8
