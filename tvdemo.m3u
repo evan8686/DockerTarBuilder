@@ -13,7 +13,7 @@ https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 https://live-hls-web-aja.getaj.net/AJA/03.m3u8
 #EXTINF:-1 tvg-id="RT.ru" tvg-name="RT.ru" tvg-logo="https://live.fanmingming.com/tv/RTNews.png" group-title="境外频道",RT新闻台
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-id="Euronews.tw" tvg-name="Euronews.tw" tvg-logo="https://live.fanmingming.com/tv/Euronews.png" group-title="境外频道",Euronews
+#EXTINF:-1 tvg-id="Euronews.tw" tvg-name="Euronews.tw" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="境外频道",Euronews
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/euronews_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Bloomberg Television (HD).sg" tvg-name="Bloomberg Television (HD).sg" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="境外频道",Bloomberg财经（亚太）
 http://37.27.111.214:8080/live/34/hls.m3u8
@@ -35,7 +35,7 @@ https://eja.tv/?0b62c0be581cbeb9af1bb60973de79c2.m3u8
 https://eja.tv/?572acd8269b37c1490ffce85d7ac7037.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="境外频道",ABC News
 https://eja.tv/play/?https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8erSideAds=false&sid=99b21a01-5948-4846-8087-2fee1b5f0a3d
-#EXTINF:-1 tvg-name="FOX NEWS" tvg-logo="https://live.fanmingming.com/tv/FoxLIVE.png" group-title="境外频道",FOX NEWS
+#EXTINF:-1 tvg-name="FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="境外频道",FOX NEWS
 http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
 #EXTINF:-1 tvg-name="CNBC" tvg-logo="https://live.fanmingming.com/tv/CNBC.png" group-title="境外频道",CNBC商业
 http://fl2.moveonjoy.com/CNBC/index.m3u8
@@ -45,54 +45,50 @@ http://fl2.moveonjoy.com/CNBC/index.m3u8
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_5055600/index.m3u8?blog.ntnas.top
 #EXTINF:-1 tvg-id="WOLODT.us" tvg-name="WOLODT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="境外频道",ABC East
 http://fl2.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="WFXTDT1.us" tvg-name="WFXTDT1.us" tvg-logo="https://www.boston25news.com/pf/resources/images/sites/cmg-tv-10020/station-logo.png" group-title="境外频道",FOX East
+#EXTINF:-1 tvg-id="WFXTDT1.us" tvg-name="WFXTDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="境外频道",FOX East
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="WNBCDT1.us" tvg-name="WNBCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png" group-title="境外频道",NBC East
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
-#EXTINF:-1 tvg-name="Global News" tvg-logo="http://content.stream-link.org/images/GlobalNews.png" group-title="境外频道",Global News
+#EXTINF:-1 tvg-name="Global News" tvg-logo="https://i.imgur.com/xk1QOhW.png" group-title="境外频道",Global News
 https://eja.tv/?3bf49234605c29ad03d38c04ca14a4fc.m3u8
-#EXTINF:-1 tvg-name="KBS World" tvg-logo="https://live.fanmingming.com/tv/KBSWorld.png" group-title="境外频道",KBS World
+#EXTINF:-1 tvg-name="KBS World" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="境外频道",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1 tvg-name="MBC" tvg-logo="https://live.fanmingming.com/tv/MBC.png" group-title="境外频道",MBC
+#EXTINF:-1 tvg-name="MBC" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2020/05/06/bff87a59-fb94-4dc3-b0ee-71615d4d9504.jpg" group-title="境外频道",MBC
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-name="SBS" tvg-logo="https://live.fanmingming.com/tv/SBS.png" group-title="境外频道",SBS
+#EXTINF:-1 tvg-name="SBS" tvg-logo="https://i.imgur.com/2YjUhkZ.png" group-title="境外频道",SBS
 http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 tvg-name="台視新聞台.tw" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="境外频道",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 tvg-name="民視新聞台.tw" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="境外频道",民视新闻
+#EXTINF:-1 tvg-name="民視新聞台.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="境外频道",民视新闻
 http://37.27.111.214:8080/live/6/hls.m3u8
 #EXTINF:-1 tvg-name="華視主頻.tw" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="境外频道",华视
 http://37.27.111.214:8080/live/8/hls.m3u8
-#EXTINF:-1 tvg-name="中視新聞台.tw" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="境外频道",中视新闻
+#EXTINF:-1 tvg-name="中視新聞台.tw" tvg-logo="https://i.imgur.com/0CYU3N0.png" group-title="境外频道",中视新闻
 http://37.27.111.214:8080/live/7/hls.m3u8
-#EXTINF:-1 tvg-name="TVBS.tw" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="境外频道",TVBS主频
+#EXTINF:-1 tvg-name="TVBS.tw" tvg-logo="https://i.imgur.com/4RvCHWP.png" group-title="境外频道",TVBS主频
 http://37.27.111.214:8080/live/23/hls.m3u8
 #EXTINF:-1 tvg-name="TVBS 新聞台.tw" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="境外频道",TVBS新闻
 http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 tvg-name="TVBS歡樂台.tw" tvg-logo="https://live.fanmingming.com/tv/TVBS欢乐台.png" group-title="境外频道",TVBS欢乐台
+#EXTINF:-1 tvg-name="TVBS歡樂台.tw" tvg-logo="https://i.imgur.com/vRSyKo6.png" group-title="境外频道",TVBS欢乐台
 http://61.221.215.25:8800/hls/24/index.m3u8
-#EXTINF:-1 tvg-name="東森新聞台.tw" tvg-logo="https://live.fanmingming.com/tv/东森新闻.png" group-title="境外频道",东森新闻
+#EXTINF:-1 tvg-name="東森新聞台.tw" tvg-logo="https://live.fanmingming.com/tv/EBCNews.png" group-title="境外频道",东森新闻
 http://37.27.111.214:8080/live/20/hls.m3u8
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="境外频道",中天新闻
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="境外频道",中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 tvg-name="三立综合" tvg-logo="https://live.fanmingming.com/tv/三立综合.png" group-title="境外频道",三立综合
+#EXTINF:-1 tvg-name="三立综合" tvg-logo="https://live.fanmingming.com/tv/SETZonghe.png" group-title="境外频道",三立综合
 http://37.27.111.214:8080/live/31/hls.m3u8
-#EXTINF:-1 tvg-id="NHK World Japan" tvg-name="NHK World Japan" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="境外频道",NHK World
+#EXTINF:-1 tvg-id="NHK World-Japan" tvg-name="NHK World Japan" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="境外频道",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-name="日テレNEWS24" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="境外频道",日テレNEWS24
+#EXTINF:-1 tvg-name="日テレNEWS24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/News24.svg/2560px-News24.svg.png" group-title="境外频道",日テレNEWS24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 tvg-id="9999" tvg-name="ANN News" tvg-logo="http://content.stream-link.org/images/ann_news.png" group-title="境外频道",ANN News
-https://sc2024.stream-link.org/live/1221019888.php?id=eng8497ggzz
-#EXTINF:-1 tvg-name="TV Asahi Ⓢ" tvg-logo="https://i.imgur.com/rls8NVc.png" tvg-id="JOEXDTV.jp" group-title="境外频道",TV Asahi Ⓢ
+#EXTINF:-1 tvg-id="テレビ朝日.jp" tvg-name="テレビ朝日.jp" tvg-logo="https://i.imgur.com/rls8NVc.png" tvg-id="JOEXDTV.jp" group-title="境外频道",TV Asahi Ⓢ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
-#EXTINF:-1 tvg-name="Nippon TV (日テレ) Ⓢ" tvg-logo="https://i.imgur.com/IxD8V5X.png" tvg-id="JOAXDTV.jp" group-title="境外频道",Nippon TV (日テレ) Ⓢ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
-#EXTINF:-1 tvg-name="History 歷史頻道.tw" tvg-logo="https://live.fanmingming.com/tv/history.png" group-title="境外频道",历史频道
+#EXTINF:-1 tvg-id="ＢＳ日テレ.jp" tvg-name="ＢＳ日テレ.jp" tvg-logo="https://i.imgur.com/IxD8V5X.png" tvg-id="JOAXDTV.jp" group-title="境外频道",Nippon TV (日テレ) Ⓢ
+https://ntv4.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 tvg-name="History 歷史頻道.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="境外频道",历史频道（亚洲）
 http://37.27.111.214:8080/live/27/hls.m3u8
 #EXTINF:-1 tvg-id="CI 罪案偵緝頻道.tw" tvg-name="Crime + Investigation Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C%26I_logo.svg/512px-C%26I_logo.svg.png" group-title="境外频道",Crime + Investigation(亚洲)
 http://37.27.111.214:8080/live/29/hls.m3u8
-#EXTINF:-1 tvg-id="Crime and Investigation Network.us" tvg-name="Crime + Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C%26I_logo.svg/512px-C%26I_logo.svg.png" group-title="境外频道",Crime + Investigation(美国)
-http://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
 #EXTINF:-1 tvg-id="HITS.tw" tvg-name="HITS.tw" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="境外频道",Hits电影台
 http://37.27.111.214:8080/live/28/hls.m3u8
 #EXTINF:-1 tvg-name="CinemaWorld 世界影城電影頻道.tw" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="境外频道",CinemaWorld电影台
@@ -103,17 +99,17 @@ http://37.27.111.214:8080/live/12/hls.m3u8
 http://fl2.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="NicktoonsEast.us" tvg-name="Nicktoons East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png" group-title="境外频道",Nicktoons East
 http://fl2.moveonjoy.com/NICKTOONS/index.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network.tw" tvg-name="Cartoon Network.tw" tvg-logo="https://live.fanmingming.com/tv/CartoonNetwork.png" group-title="境外频道",CN卡通频道(亚洲)
+#EXTINF:-1 tvg-id="Cartoon Network.tw" tvg-name="Cartoon Network.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="境外频道",CN卡通频道(亚洲)
 http://eja.tv/?05313f65bee0422cdd4a3188b70b40f4.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="境外频道",Cartoon Network
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="亞洲旅遊台.tw" tvg-name="亞洲旅遊台.tw" tvg-logo="https://live.fanmingming.com/tv/AsiaTravel.png" group-title="境外频道",AsiaTravel亚洲旅游台
+#EXTINF:-1 tvg-id="亞洲旅遊台.tw" tvg-name="亞洲旅遊台.tw" tvg-logo="https://i.imgur.com/ryNIvRQ.png" group-title="境外频道",AsiaTravel亚洲旅游台
 http://37.27.111.214:8080/live/10/hls.m3u8
 #EXTINF:-1 tvg-id="幸福空間居家台.tw" tvg-name="幸福空間居家台.tw" tvg-logo="https://live.fanmingming.com/tv/幸福空间居家台.png" group-title="境外频道",幸福空间居家频道
 http://37.27.111.214:8080/live/26/hls.m3u8
 #EXTINF:-1 tvg-id="Global Trekker 探索世界頻道.tw" tvg-name="Global Trekker 探索世界頻道.tw " tvg-logo="https://i.imgur.com/5nlmJIw.png" group-title="境外频道",Global Trekker 
 http://37.27.111.214:8080/live/53/hls.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannelEast.us" tvg-name="Discovery Channel East" tvg-language="English" tvg-logo="https://live.fanmingming.com/tv/Discovery.png" group-title="境外频道",Discovery
+#EXTINF:-1 tvg-id="DiscoveryChannelEast.us" tvg-name="Discovery Channel East" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="境外频道",Discovery
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryLife.us" tvg-name="Discovery Life" tvg-language="English" tvg-logo="https://i.imgur.com/ObPFgT8.png" group-title="境外频道",Discovery Life
 http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
@@ -147,15 +143,19 @@ https://live-fi.tvkaista.net/national-geographic/live.m3u8?src=videojs
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWildEast.us" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="境外频道",	National Geographic Wild
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-id="Crime and Investigation Network.us" tvg-name="Crime + Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C%26I_logo.svg/512px-C%26I_logo.svg.png" group-title="境外频道",Crime + Investigation(美国)
+http://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+#EXTINF:-1 tvg-id="HistoryEast.us" tvg-name="HistoryEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="境外频道",历史频道（美国）
+http://fl2.moveonjoy.com/history_channel/index.m3u8
 #EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="境外频道",Outdoor Channel
 http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-name="MTV Live音樂頻道.tw" tvg-logo="https://live.fanmingming.com/tv/mtv.png" group-title="境外频道",MTV Live 国际
+#EXTINF:-1 tvg-name="MTV Live音樂頻道.tw" tvg-logo="https://i.imgur.com/St5DhAU.png" group-title="境外频道",MTV Live 国际
 http://37.27.111.214:8080/live/25/hls.m3u8
-#EXTINF:-1 tvg-name="MTV Live.us" tvg-logo="https://live.fanmingming.com/tv/mtv.png" group-title="境外频道",MTV Live 美国
+#EXTINF:-1 tvg-name="MTV Live.us" tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="境外频道",MTV Live 美国
 https://eja.tv/?ad4be71c373350cca1db28959c69e016.m3u8
-#EXTINF:-1 tvg-name="amc電影台.tw" tvg-logo="https://live.fanmingming.com/tv/amc.png" group-title="境外频道",AMC电影
+#EXTINF:-1 tvg-id="amc電影台.tw" tvg-name="amc電影台.tw" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@33@1546_20240103152142.jpg" group-title="境外频道",AMC电影
 http://61.221.215.25:8800/hls/43/index.m3u8
-#EXTINF:-1 tvg-name="Lifetime.tw" tvg-logo="https://live.fanmingming.com/tv/lifetime.png" group-title="境外频道",LifeTime
+#EXTINF:-1 tvg-id="Lifetime.tw" tvg-name="Lifetime.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="境外频道",LifeTime（亚洲）
 http://37.27.111.214:8080/live/71/hls.m3u8
 #EXTINF:-1 tvg-id="Jade.hk" tvg-name="TVB翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="境外频道",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
@@ -163,9 +163,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-name="AMC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="境外频道",AMC East
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="AMCPlus.us" tvg-logo="https://live.fanmingming.com/tv/AMCPLUS.png" group-title="境外频道",AMC PLUS
+#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="AMCPlus.us" tvg-logo="https://i.imgur.com/abtANyj.png" group-title="境外频道",AMC PLUS
 https://eja.tv/?912a17c4051a1822f20fb9b664b05d92.m3u8
-#EXTINF:-1 tvg-id="SonyMovies.us" tvg-name="SonyMovies.us" tvg-logo="https://live.fanmingming.com/tv/SonyMovies.png" group-title="境外频道",索尼电影台
+#EXTINF:-1 tvg-id="SonyMovies.us" tvg-name="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="境外频道",索尼电影台
 https://eja.tv/?912a17c4051a1822f20fb9b664b05d92.m3u8
 #EXTINF:-1 tvg-id="StarzEast.us" tvg-name="StarzEast.us" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="境外频道",Starz East
 http://fl2.moveonjoy.com/starz/index.m3u8
@@ -189,7 +189,7 @@ https://eja.tv/?380fde5ef0d2a4c21156df5a8cd9f01a.m3u8
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="SyfyEast.us" tvg-name="Syfy" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="境外频道",Syfy
 http://fl2.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1 tvg-id="LifetimeEast.us" tvg-name="LifetimeEast.us" tvg-logo="https://live.fanmingming.com/tv/lifetime.png" group-title="境外频道",LifeTime East
+#EXTINF:-1 tvg-id="LifetimeEast.us" tvg-name="LifetimeEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="境外频道",LifeTime East
 http://fl2.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeMoviesEast.us" tvg-name="Lifetime Movies East" tvg-logo="https://i.imgur.com/BWmqYTO.png" group-title="境外频道",Lifetime Movies East
 http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
