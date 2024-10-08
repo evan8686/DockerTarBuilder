@@ -183,7 +183,7 @@ http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1 tvg-id="ShowtimeExtremeEast.us" tvg-name="Showtime Extreme" tvg-logo="https://i.imgur.com/byJNJdm.png" group-title="国际频道",Showtime Extreme
 http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-name="Comedy Central East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="国际频道",	Comedy Central East
+#EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-name="Comedy Central East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="国际频道",	Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1 tvg-id="VH1East.us" tvg-name="VH1 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="国际频道",VH1
 http://fl2.moveonjoy.com/VH1/index.m3u8
