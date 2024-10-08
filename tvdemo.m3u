@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/generate/U6JQkUjzYD.xml"
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://live.fanmingming.com/tv/CNN.png" group-title="境外频道",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="CNNInternationalNorthAmerica.us" tvg-name="CNNInternationalNorthAmerica.us" tvg-logo="https://live.fanmingming.com/tv/CNN.png" group-title="境外频道",CNN国际
+http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="境外频道",BBC新闻
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="Al Jazeera English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="境外频道",半岛新闻台（英语）
@@ -145,12 +147,20 @@ http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 http://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
 #EXTINF:-1 tvg-id="HistoryEast.us" tvg-name="HistoryEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="境外频道",历史频道（美国）
 http://fl2.moveonjoy.com/history_channel/index.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="LoveNature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="境外频道",Love Nature
+http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 #EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="境外频道",Outdoor Channel
 http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-name="MTV Live音樂頻道.tw" tvg-logo="https://i.imgur.com/St5DhAU.png" group-title="境外频道",MTV Live 国际
 http://37.27.111.214:8080/live/25/hls.m3u8
+#EXTINF:-1 tvg-name="MTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="境外频道",MTV
+http://fl2.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 tvg-name="MTV Live.us" tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="境外频道",MTV Live 美国
-https://eja.tv/?ad4be71c373350cca1db28959c69e016.m3u8
+http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-name="MTV2East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/512px-MTV2_logo_2013.svg.png" group-title="境外频道",MTV2
+http://fl2.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 tvg-name="MTVU.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/512px-MTVU_Logo_%282016%E2%80%93present%29.svg.png" group-title="境外频道",MTVU
+http://fl2.moveonjoy.com/MTV_U/index.m3u8
 #EXTINF:-1 tvg-id="amc電影台.tw" tvg-name="amc電影台.tw" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@33@1546_20240103152142.jpg" group-title="境外频道",AMC电影
 http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime.tw" tvg-name="Lifetime.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="境外频道",LifeTime（亚洲）
@@ -181,10 +191,14 @@ http://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8
 http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="HBOZoneEast.us" tvg-name="HBO Zone East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/512px-HBO_Zone_%282014%29.svg.png" group-title="境外频道",HBO Zone East
 http://fl5.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-id="HBOSignatureEast.us" tvg-name="HBOSignatureEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Signature_%282014%29.svg/512px-HBO_Signature_%282014%29.svg.png" group-title="境外频道",HBO Zone East
+http://67.220.74.90:25461/18736836/73683618/2118
 #EXTINF:-1 tvg-id="HBO2East.us" tvg-name="HBO2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/512px-HBO_2_%282014%29.svg.png" group-title="境外频道",HBO2
 https://eja.tv/?380fde5ef0d2a4c21156df5a8cd9f01a.m3u8
 #EXTINF:-1 tvg-id="CinemaxEast.us" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png" group-title="境外频道",Cinemax
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="MoreMaxEast.us" tvg-name="MoreMaxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/512px-MoreMax_Logo.svg.png" group-title="境外频道",MoreMax
+http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
 #EXTINF:-1 tvg-id="SyfyEast.us" tvg-name="Syfy" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="境外频道",Syfy
 http://fl2.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeEast.us" tvg-name="LifetimeEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="境外频道",LifeTime East
@@ -201,6 +215,10 @@ http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 http://fl2.moveonjoy.com/VH1/index.m3u8
 #EXTINF:-1 tvg-id="BravoEast.us" tvg-name="Bravo" tvg-logo="https://i.imgur.com/JmTIRLF.png" group-title="境外频道",Bravo
 https://fl2.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkChannelEast.us" tvg-name="HallmarkChannelEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png" group-title="境外频道",Hallmark Channel
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Hallmark Family.us" tvg-name="Hallmark Family.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hallmark_Family_2024.svg/800px-Hallmark_Family_2024.svg.png" group-title="境外频道",Hallmark Family
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="USANetworkEast.us" tvg-name="USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="境外频道",USA Network
 http://fl2.moveonjoy.com/USA_Network/index.m3u8
 #EXTINF:-1 tvg-id="TNTEast.us" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="境外频道",TNT
