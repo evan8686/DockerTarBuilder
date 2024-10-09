@@ -16,7 +16,7 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/euronews_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Bloomberg Television (HD).sg" tvg-name="Bloomberg Television (HD).sg" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="国际频道",Bloomberg 财经(亚太)
 http://37.27.111.214:8080/live/34/hls.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="BloombergTV.us" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="国际频道",Bloomberg 财经(美国)
-http://fl2.moveonjoy.com/Bloomberg/index.m3u8
+http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
 #EXTINF:-1 tvg-name="DW English" tvg-logo="https://live.fanmingming.com/tv/DW.png" group-title="国际频道",DW English
 http://37.27.111.214:8080/live/46/hls.m3u8
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="SkyNews.uk" tvg-logo="http://content.stream-link.org/images/sky_news.png" group-title="国际频道",SKY News International
