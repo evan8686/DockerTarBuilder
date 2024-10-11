@@ -161,7 +161,7 @@ http://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8
 http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="HBOZoneEast.us" tvg-name="HBO Zone East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/512px-HBO_Zone_%282014%29.svg.png" group-title="国际频道",HBO Zone
 http://fl5.moveonjoy.com/HBO_ZONE/index.m3u8
-#EXTINF:-1 tvg-id="HBOSignatureEast.us" tvg-name="HBOSignatureEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Signature_%282014%29.svg/512px-HBO_Signature_%282014%29.svg.png" group-title="国际频道",HBO Zone
+#EXTINF:-1 tvg-id="HBOSignatureEast.us" tvg-name="HBOSignatureEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Signature_%282014%29.svg/512px-HBO_Signature_%282014%29.svg.png" group-title="国际频道",HBO Signature
 http://67.220.74.90:25461/18736836/73683618/5047
 #EXTINF:-1 tvg-id="HBO2East.us" tvg-name="HBO2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/512px-HBO_2_%282014%29.svg.png" group-title="国际频道",HBO2
 https://eja.tv/?380fde5ef0d2a4c21156df5a8cd9f01a.m3u8
@@ -192,7 +192,7 @@ https://fl2.moveonjoy.com/BRAVO/index.m3u8
 #EXTINF:-1 tvg-id="HallmarkChannelEast.us" tvg-name="HallmarkChannelEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png" group-title="国际频道",Hallmark Channel
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="Hallmark Family.us" tvg-name="Hallmark Family.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hallmark_Family_2024.svg/800px-Hallmark_Family_2024.svg.png" group-title="国际频道",Hallmark Family
-http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 #EXTINF:-1 tvg-id="USANetworkEast.us" tvg-name="USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="国际频道",USA Network
 http://fl2.moveonjoy.com/USA_Network/index.m3u8
 #EXTINF:-1 tvg-id="TNTEast.us" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="国际频道",TNT
