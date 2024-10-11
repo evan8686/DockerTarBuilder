@@ -209,7 +209,7 @@ http://fl3.moveonjoy.com/Logo/index.m3u8
 http://bisdaktv.store/live/Animal_Planet.m3u8
 #EXTINF:-1 tvg-id="Discovery HD World" tvg-name="Discovery Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="国际频道",Discovery Channel HD 印度源
 http://bisdaktv.store/live/discoveryenglish.m3u8
-#EXTINF:-1 tvg-id="TravelChannel.in" tvg-name="Travel Channel" tvg-logo="https://i.imgur.com/RmHGeP1.png" group-title="国际频道",Travel Channel 印度源
+#EXTINF:-1 tvg-id="TravelChannel.sg" tvg-name="Travel Channel" tvg-logo="https://i.imgur.com/RmHGeP1.png" group-title="国际频道",Travel Channel 印度源
 http://bisdaktv.store/live/TRVL_Channel.m3u8
 #EXTINF:-1 tvg-id="TLC (HD).sg" tvg-name="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="国际频道",TLC 印度源
 http://bisdaktv.store/live/TLC.m3u8
