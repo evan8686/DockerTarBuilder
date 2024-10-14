@@ -175,6 +175,8 @@ http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
 http://67.220.74.90:25461/18736836/73683618/5038
 #EXTINF:-1 tvg-id="ActionMaxEast.us" tvg-name="ActionMaxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/512px-ActionMax_logo.svg.png" group-title="国际频道",ActionMax
 http://67.220.74.90:25461/18736836/73683618/5032
+#EXTINF:-1 tvg-id="ParamountNetworkEast.us" tvg-name="ParamountNetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="国际频道",Paramount Network
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="SyfyEast.us" tvg-name="Syfy" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="国际频道",Syfy
 http://fl2.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeEast.us" tvg-name="LifetimeEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="国际频道",LifeTime
@@ -231,10 +233,18 @@ http://210.210.155.35/uq2663/h/h15/index.m3u8
 http://210.210.155.35/uq2663/h/h16/index.m3u8
 #EXTINF:-1 tvg-name="KBS World" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="港台日韩",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 tvg-id="KBS1TV.kr" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="港台日韩",KBS 1TV
+http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="港台日韩",KBS 2TV
+http://mytv.dothome.co.kr/ch/public/3.php
+#EXTINF:-1 tvg-id="KBSDrama.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" group-title="港台日韩",KBS DRAMA
+http://mytv.dothome.co.kr/ch/catv/2.php
 #EXTINF:-1 tvg-name="MBC" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2020/05/06/bff87a59-fb94-4dc3-b0ee-71615d4d9504.jpg" group-title="港台日韩",MBC
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-name="SBS" tvg-logo="https://i.imgur.com/2YjUhkZ.png" group-title="港台日韩",SBS
+#EXTINF:-1 tvg-name="SBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="港台日韩",SBS
 http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 tvg-id="YTN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/512px-YTN_logo_2014.svg.png" group-title="港台日韩",YTN
+https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
 #EXTINF:-1 tvg-name="台視新聞台.tw" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="港台日韩",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-name="民視.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="港台日韩",民视
