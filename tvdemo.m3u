@@ -67,12 +67,20 @@ http://37.27.111.214:8080/live/28/hls.m3u8
 http://37.27.111.214:8080/live/30/hls.m3u8
 #EXTINF:-1 tvg-id="amc電影台.tw" tvg-name="amc電影台.tw" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@33@1546_20240103152142.jpg" group-title="国际频道",amc电影台
 http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" tvg-logo="https://i.imgur.com/c8crJfA.png" group-title="国际频道",Cinemax(亚洲)
+https://hls.xhzb.tw/4987/Cinemax/playlist.m3u8?type=fdc
+#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/pux6WN8.png" group-title="国际频道",Asian Food Network(亚洲)
+https://hls.xhzb.tw/4987/afc_twn/playlist.m3u8?type=fdc
+#EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBOAsia.sg" tvg-logo="https://i.imgur.com/c8crJfA.png" group-title="国际频道",HBO HD(亚洲)
+https://hls.xhzb.tw/4987/Hbo/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-id="Lifetime.tw" tvg-name="Lifetime.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="国际频道",LifeTime(亚洲)
 http://37.27.111.214:8080/live/71/hls.m3u8
-#EXTINF:-1 tvg-id="亞洲旅遊台.tw" tvg-name="亞洲旅遊台.tw" tvg-logo="https://i.imgur.com/ryNIvRQ.png" group-title="国际频道",AsiaTravel亚洲旅游台
-http://37.27.111.214:8080/live/10/hls.m3u8
-#EXTINF:-1 tvg-id="幸福空間居家台.tw" tvg-name="幸福空間居家台.tw" tvg-logo="https://live.fanmingming.com/tv/幸福空间居家台.png" group-title="国际频道",幸福空间居家频道
-http://37.27.111.214:8080/live/26/hls.m3u8
+#EXTINF:-1 tvg-id="TLCSoutheastAsia.sg" tvg-name="TLC Southeast Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="国际频道",TLC(亚洲)
+https://hls.xhzb.tw/4987/Tlc/playlist.m3u8?type=fdc
+#EXTINF:-1 tvg-id="Food Network (HD).sg" tvg-name="Food Network Asia" tvg-logo="https://i.imgur.com/ljYzkQT.png" group-title="国际频道",Food Network(亚洲)
+https://dplus.gammacdn.workers.dev/videos/112.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanetSoutheastAsia.sg" tvg-name="AnimalPlanetEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="国际频道",Animal Planet(亚洲)
+https://hls.xhzb.tw/4987/AnimalPlanet/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-id="Global Trekker 探索世界頻道.tw" tvg-name="Global Trekker 探索世界頻道.tw " tvg-logo="https://i.imgur.com/5nlmJIw.png" group-title="国际频道",Global Trekker 
 http://37.27.111.214:8080/live/53/hls.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannelEast.us" tvg-name="Discovery Channel East" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="国际频道",Discovery
@@ -91,11 +99,9 @@ http://fl2.moveonjoy.com/TLC/index.m3u8
 http://212.102.60.231/HGTV/index.m3u8)
 #EXTINF:-1 tvg-id="FoodNetworkEast.us" tvg-name="FoodNetworkEast.us" tvg-logo="https://i.imgur.com/ljYzkQT.png" group-title="国际频道",Food Network(美国)
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="Food Network (HD).sg" tvg-name="Food Network Asia" tvg-logo="https://i.imgur.com/ljYzkQT.png" group-title="国际频道",Food Network(亚洲)
-https://dplus.gammacdn.workers.dev/videos/112.m3u8
 #EXTINF:-1 tvg-id="Cooking Channel.us" tvg-name="Cooking Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cooking_Channel.svg/512px-Cooking_Channel.svg.png" group-title="国际频道",Cooking Channel
 http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanetEast.us" tvg-name="AnimalPlanetEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="国际频道",Animal Planet East
+#EXTINF:-1 tvg-id="AnimalPlanetEast.us" tvg-name="AnimalPlanetEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="国际频道",Animal Planet(美国)
 http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 #EXTINF:-1 tvg-id="TravelChannelEast.us" tvg-name="TravelChannelEast.us" tvg-logo="https://i.imgur.com/RmHGeP1.png" group-title="国际频道",Travel Channel East
 http://fl2.moveonjoy.com/Travel_Channel/index.m3u8
@@ -222,15 +228,15 @@ http://bisdaktv.store/live/HGTV.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.in" tvg-name="Investigation Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="国际频道",Investigation Discovery 印度源
 http://bisdaktv.store/live/Investigation_Discovery.m3u8
 #EXTINF:-1 tvg-id="DMAXSoutheastAsia.sg" tvg-name="DMAX Southeast Asia" tvg-logo="https://i.imgur.com/En2sLlW.png" group-title="国际频道",DMAX Southeast Asia
-https://dplus.gammacdn.workers.dev/videos/109.m3u8
+https://hls.xhzb.tw/4987/natgeohd_twn/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-id="tvNAsia.my" tvg-name="tvN Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" group-title="国际频道",tvN Asia
-http://210.210.155.35/uq2663/h/h20/index.m3u8
+https://hls.xhzb.tw/4987/TVN/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-id="tvNMoviesAsia.my" tvg-name="tvN Movies Asia" tvg-logo="https://i.imgur.com/c4XvwO2.png" group-title="国际频道",tvN Movies Asia
 http://210.210.155.35/uq2663/h/h21/index.m3u8
 #EXTINF:-1 tvg-id="ROCKAction.sg" tvg-name="ROCK Action" tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="国际频道",ROCK Action
-http://210.210.155.35/uq2663/h/h15/index.m3u8
+https://hls.xhzb.tw/4987/Rockaction/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-id="ROCKEntertainment.sg" tvg-name="ROCK Entertainment" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="国际频道",ROCK Entertainment
-http://210.210.155.35/uq2663/h/h16/index.m3u8
+https://hls.xhzb.tw/4987/Rockentertain/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-name="KBS World" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="港台日韩",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-id="KBS1TV.kr" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="港台日韩",KBS 1TV
@@ -245,14 +251,22 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 tvg-id="YTN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/512px-YTN_logo_2014.svg.png" group-title="港台日韩",YTN
 https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
-#EXTINF:-1 tvg-name="台視新聞台.tw" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="港台日韩",台视新闻
+#EXTINF:-1 tvg-name="台視.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/43/TTV_Home_Channel_with_HD_2016.png" group-title="港台日韩",台視主频
+https://hls.xhzb.tw/4987/ttv_taiwan/playlist.m3u8?type=fdc
+#EXTINF:-1 tvg-name="台視新聞台.tw" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="港台日韩",台視新聞台
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 tvg-name="民視.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="港台日韩",民视
+#EXTINF:-1 tvg-name="台視綜合台.tw" tvg-logo="https://i.imgur.com/0PGQ4FE.png" group-title="港台日韩",台視綜合台
+https://hls.xhzb.tw/4987/ttvzhonghe/playlist.m3u8?type=fdc
+#EXTINF:-1 tvg-name="民視新聞台.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="港台日韩",民視新聞台
+https://hls.xhzb.tw/4987/ftvnew_taiwan/playlist.m3u8?type=fdc
+#EXTINF:-1 tvg-name="民視.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="港台日韩",民視主频
 http://37.27.111.214:8080/live/6/hls.m3u8
-#EXTINF:-1 tvg-name="華視主頻.tw" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="港台日韩",华视
+#EXTINF:-1 tvg-name="華視主頻.tw" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="港台日韩",华视主频
 http://37.27.111.214:8080/live/8/hls.m3u8
 #EXTINF:-1 tvg-name="中視新聞台.tw" tvg-logo="https://i.imgur.com/0CYU3N0.png" group-title="港台日韩",中视新闻
 http://37.27.111.214:8080/live/7/hls.m3u8
+#EXTINF:-1 tvg-name="中視.tw" tvg-logo="https://i.imgur.com/7W6d5pM.png" group-title="港台日韩",中视主频
+https://hls.xhzb.tw/4987/zhongshihd_twn/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-name="TVBS.tw" tvg-logo="https://i.imgur.com/4RvCHWP.png" group-title="港台日韩",TVBS主频
 http://37.27.111.214:8080/live/23/hls.m3u8
 #EXTINF:-1 tvg-name="TVBS 新聞台.tw" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="港台日韩",TVBS新闻
@@ -261,10 +275,20 @@ http://61.221.215.25:8800/hls/9/index.m3u8
 http://61.221.215.25:8800/hls/24/index.m3u8
 #EXTINF:-1 tvg-name="東森新聞台.tw" tvg-logo="https://live.fanmingming.com/tv/EBCNews.png" group-title="港台日韩",东森新闻
 http://37.27.111.214:8080/live/20/hls.m3u8
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="港台日韩",中天新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 tvg-name="東森綜合台.tw" tvg-logo="https://i.imgur.com/H0lfVpg.png" group-title="港台日韩",東森綜合台
+http://37.27.111.214:8080/live/20/hls.m3u8
+#EXTINF:-1 tvg-name="中天新闻.tw" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="港台日韩",中天新闻
+https://hls.xhzb.tw/4987/ctinews/playlist.m3u8?type=fdc
+#EXTINF:-1 tvg-name="中天綜合台.tw" tvg-logo="https://i.imgur.com/tqsKObw.png" group-title="港台日韩",中天綜合台
+https://hls.xhzb.tw/4987/ctizhonghe/playlist.m3u8?type=fdc
+#EXTINF:-1 tvg-name="中天娛樂台.tw" tvg-logo="https://i.imgur.com/FLzDLMv.png" group-title="港台日韩",中天娛樂台
+https://hls.xhzb.tw/4987/ctient/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-name="三立综合" tvg-logo="https://live.fanmingming.com/tv/SETZonghe.png" group-title="港台日韩",三立综合
 http://37.27.111.214:8080/live/31/hls.m3u8
+#EXTINF:-1 tvg-id="亞洲旅遊台.tw" tvg-name="亞洲旅遊台.tw" tvg-logo="https://i.imgur.com/ryNIvRQ.png" group-title="港台日韩",AsiaTravel亚洲旅游台
+http://37.27.111.214:8080/live/10/hls.m3u8
+#EXTINF:-1 tvg-id="幸福空間居家台.tw" tvg-name="幸福空間居家台.tw" tvg-logo="https://live.fanmingming.com/tv/幸福空间居家台.png" group-title="港台日韩",幸福空间居家频道
+http://37.27.111.214:8080/live/26/hls.m3u8
 #EXTINF:-1 tvg-id="NHK World-Japan" tvg-name="NHK World Japan" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="港台日韩",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="NHK東京　総合.jp" tvg-name="NHK東京　総合.jp" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="港台日韩",NHK 総合
@@ -295,5 +319,23 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="TVB翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港台日韩",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-#EXTINF:-1 tvg-id="HOYTV.hk" tvg-name="HOY TV" tvg-logo=https://i.imgur.com/NfVZPTT.png" group-title="港台日韩",HOYTV77 
+#EXTINF:-1 tvg-id="HOYTV.hk" tvg-name="HOY TV" tvg-logo="https://i.imgur.com/NfVZPTT.png" group-title="港台日韩",HOYTV77 
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+#EXTINF:-1 tvg-id="Channel5.sg" tvg-name="Channel 5" tvg-logo="https://i.imgur.com/9NKp5aV.png" group-title="新马地区",新传媒5频道（英语）
+https://hls.xhzb.tw/4987/Mewatch_ch5/playlist.m3u8?type=fdc
+#EXTINF:-1 tvg-id="Channel8.sg" tvg-name="Channel 8" tvg-logo="https://i.imgur.com/6YPZc24.png" group-title="新马地区",新传媒8频道（华语）
+https://hls.xhzb.tw/4987/Mewatch_ch8/playlist.m3u8?type=fdc
+#EXTINF:-1 tvg-id="ChannelU.sg" tvg-name="Channel U" tvg-logo="https://i.imgur.com/9MzEjoY.png" group-title="新马地区",新传媒U频道（华语）
+https://hls.xhzb.tw/4987/Mewatch_chU/playlist.m3u8?type=fdc
+#EXTINF:-1 tvg-id="AstroAEC.my" tvg-name="AstroAEC.my" tvg-logo="https://i.postimg.cc/wTQ0nC4r/Astro-AEC.png" group-title="新马地区",Astro AEC
+https://hls.xhzb.tw/4987/AEC/playlist.m3u8?type=fdc
+#EXTINF:-1 tvg-id="AstroQJ.my" tvg-name="AstroQJ.my" tvg-logo="https://i.imgur.com/Cyiug9i.png" group-title="新马地区",Astro 全佳
+https://hls.xhzb.tw/4987/Quanjia/playlist.m3u8?type=fdc
+#EXTINF:-1 tvg-id="AstroHuaHeeDai.my" tvg-name="AstroHuaHeeDai.my" tvg-logo="https://i.imgur.com/fwTP9PS.png" group-title="新马地区",Astro 欢喜台
+https://hls.xhzb.tw/4987/Huahee/playlist.m3u8?type=fdc
+#EXTINF:-1 tvg-id="AstroWahLaiToi.my" tvg-name="AstroWahLaiToi.my" tvg-logo="https://i.imgur.com/v3Cs1GP.png" group-title="新马地区",Astro 华丽台
+https://hls.xhzb.tw/4987/Jade_xue/playlist.m3u8?md5=-sxkkWpAYoLpb7EdkmtX3Q&expires=1729621445
+#EXTINF:-1 tvg-id="Astroiqiyi.my" tvg-name="Astro iQIYI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/IQIYI_logo_%282022%29.svg/640px-IQIYI_logo_%282022%29.svg.png" group-title="新马地区",Astro iQIYI
+https://hls.xhzb.tw/4987/Qiyi/playlist.m3u8?type=fdc
+#EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV.my" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-title="新马地区",8度空间
+https://hls.xhzb.tw/4987/TV8/playlist.m3u8?type=fdc
