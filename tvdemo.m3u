@@ -283,17 +283,17 @@ https://hls.xhzb.tw/4987/ftvnew_taiwan/playlist.m3u8?type=fdc
 http://37.27.111.214:8080/live/6/hls.m3u8
 #EXTINF:-1 tvg-name="華視主頻.tw" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="港台日韩",华视主频
 http://37.27.111.214:8080/live/8/hls.m3u8
-#EXTINF:-1 tvg-name="中視新聞台.tw" tvg-logo="https://i.imgur.com/0CYU3N0.png" group-title="港台日韩",中视新闻
+#EXTINF:-1 tvg-name="中視新聞台.tw" tvg-logo="https://i.imgur.com/0CYU3N0.png" group-title="港台日韩",中视新闻台
 http://37.27.111.214:8080/live/7/hls.m3u8
 #EXTINF:-1 tvg-name="中視.tw" tvg-logo="https://i.imgur.com/7W6d5pM.png" group-title="港台日韩",中视主频
 https://hls.xhzb.tw/4987/zhongshihd_twn/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-name="TVBS.tw" tvg-logo="https://i.imgur.com/4RvCHWP.png" group-title="港台日韩",TVBS主频
 http://37.27.111.214:8080/live/23/hls.m3u8
-#EXTINF:-1 tvg-name="TVBS 新聞台.tw" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="港台日韩",TVBS新闻
+#EXTINF:-1 tvg-name="TVBS 新聞台.tw" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="港台日韩",TVBS新闻台
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-name="TVBS歡樂台.tw" tvg-logo="https://i.imgur.com/vRSyKo6.png" group-title="港台日韩",TVBS欢乐台
 http://61.221.215.25:8800/hls/24/index.m3u8
-#EXTINF:-1 tvg-name="東森新聞台.tw" tvg-logo="https://live.fanmingming.com/tv/EBCNews.png" group-title="港台日韩",东森新闻
+#EXTINF:-1 tvg-name="東森新聞台.tw" tvg-logo="https://live.fanmingming.com/tv/EBCNews.png" group-title="港台日韩",东森新闻台
 http://37.27.111.214:8080/live/20/hls.m3u8
 #EXTINF:-1 tvg-name="東森綜合台.tw" tvg-logo="https://i.imgur.com/H0lfVpg.png" group-title="港台日韩",東森綜合台
 http://37.27.111.214:8080/live/20/hls.m3u8
@@ -303,8 +303,10 @@ https://hls.xhzb.tw/4987/ctinews/playlist.m3u8?type=fdc
 https://hls.xhzb.tw/4987/ctizhonghe/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-name="中天娛樂台.tw" tvg-logo="https://i.imgur.com/FLzDLMv.png" group-title="港台日韩",中天娛樂台
 https://hls.xhzb.tw/4987/ctient/playlist.m3u8?type=fdc
-#EXTINF:-1 tvg-name="三立综合" tvg-logo="https://live.fanmingming.com/tv/SETZonghe.png" group-title="港台日韩",三立综合
+#EXTINF:-1 tvg-name="三立综合" tvg-logo="https://live.fanmingming.com/tv/SETZonghe.png" group-title="港台日韩",三立综合台
 http://37.27.111.214:8080/live/31/hls.m3u8
+#EXTINF:-1 tvg-name="八大綜合台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/GTV_Variety_logo_2018.png" group-title="港台日韩",八大綜合台
+https://ushls.ballbar.net/badazhonghe/playlist-15.m3u8a?t=1729704397&token=00e34ef49106baae53315cffe99a30af&asd=baajncdfffcpahjjmhhnhflmbelpbpli
 #EXTINF:-1 tvg-id="亞洲旅遊台.tw" tvg-name="亞洲旅遊台.tw" tvg-logo="https://i.imgur.com/ryNIvRQ.png" group-title="港台日韩",AsiaTravel亚洲旅游台
 http://37.27.111.214:8080/live/10/hls.m3u8
 #EXTINF:-1 tvg-id="幸福空間居家台.tw" tvg-name="幸福空間居家台.tw" tvg-logo="https://live.fanmingming.com/tv/幸福空间居家台.png" group-title="港台日韩",幸福空间居家频道
@@ -341,6 +343,8 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:2
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-id="HOYTV.hk" tvg-name="HOY TV" tvg-logo="https://i.imgur.com/NfVZPTT.png" group-title="港台日韩",HOYTV77 
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+#EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="ViuTV.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png" group-title="港台日韩",ViuTV
+https://ushls.ballbar.net/viu1_twn/playlist-15.m3u8a?t=1729705270&token=7c1ddbc7a728815913e2f7c98e60a8c3
 #EXTINF:-1 tvg-id="Channel5.sg" tvg-name="Channel 5" tvg-logo="https://i.imgur.com/9NKp5aV.png" group-title="新马地区",新传媒5频道（英语）
 https://hls.xhzb.tw/4987/Mewatch_ch5/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-id="Channel8.sg" tvg-name="Channel 8" tvg-logo="https://i.imgur.com/6YPZc24.png" group-title="新马地区",新传媒8频道（华语）
