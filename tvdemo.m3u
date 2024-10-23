@@ -233,6 +233,14 @@ http://fl2.moveonjoy.com/TRU_TV/index.m3u8
 http://fl3.moveonjoy.com/Logo/index.m3u8
 #EXTINF:-1 tvg-id="AandE Network (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="国际频道",A&E
 http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/2746
+#EXTINF:-1 tvg-id="BBC ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="国际频道",BBC ONE
+https://livetvde.net/bbcone/index.m3u8?token=1cc17040708b966c61289109e9046297c7a5e124-30e1286ea01ad5800cc72d646b788859-1729718195-1729707395
+#EXTINF:-1 tvg-id="BBC Two" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="国际频道",BBC Two
+https://livetvde.net/bbctwo/index.m3u8?token=7e15ff6c9f8f5570df54942d5bcd0a3184dc0f30-2382c9175257ca94eb615c1a01798478-1729718780-1729707980
+#EXTINF:-1 tvg-id="BBC Three" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png" group-title="国际频道",BBC Three
+https://livetvde.net/bbcthree/index.m3u8?token=93423a843f9f8ab60c1be6e2e74ff4123a58e321-8c5f9c40ba6ac5f3e885f0da82504f67-1729718744-1729707944
+#EXTINF:-1 tvg-id="BBC Four" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" group-title="国际频道",BBC Four
+https://livetvde.net/bbcfour/index.m3u8?token=769250c4599a77ebfed35315b2f2b45cc67ac445-b8c6470b77dd92e0ab5361b5d514770b-1729718867-1729708067
 #EXTINF:-1 tvg-id="AXN.ph" tvg-logo="https://i.imgur.com/OO6mWTx.png" group-title="国际频道",AXN
 https://wag.ika.lat/stream/2084767267
 #EXTINF:-1 tvg-id="Animal Planet HD.in" tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/640px-2018_Animal_Planet_logo.svg.png" group-title="国际频道",Animal Planet HD 印度源
