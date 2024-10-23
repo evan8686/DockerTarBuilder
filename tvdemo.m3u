@@ -55,6 +55,16 @@ http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="NBA.us" tvg-name="NBA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="国际频道",NBA TV
 http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="SkySportsMainEvent.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="国际频道",SkySports MainEvent
+https://off2.jismhaitokia.com:999/hls/skysme.m3u8?md5=LvBH8EVb72ww_CmwTltcBw&expires=1729708867
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="SkySportsF1.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="国际频道",SkySports F1
+https://off2.jismhaitokia.com:999/hls/skysfor1.m3u8?md5=cOZ2i_mXNv4fqWpo7IHjzA&expires=1729708415
+#EXTINF:-1 tvg-id="Eurosport 1.uk" tvg-name="Eurosport 1" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="国际频道",Eurosport 1 
+https://off5.jismhaitokia.com:999/hls/eurosp1.m3u8?md5=ATjH7_sj0JjvqIZRQs8cJQ&expires=1729708241
+#EXTINF:-1 tvg-id="Eurosport 2.uk" tvg-name="Eurosport 2" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="国际频道",Eurosport 2 
+https://off5.jismhaitokia.com:999/hls/eurosp2.m3u8?md5=F43mI9iDeQaV6-Lp4nnXOg&expires=1729710094
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNTSports1.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="国际频道",TNTSports 1
+https://off6.jismhaitokia.com:999/hls/bbtsp1.m3u8?md5=-GuTQHZDgpFM0ME-pGN4OQ&expires=1729710328
 #EXTINF:-1 tvg-name="Global News" tvg-logo="https://i.imgur.com/xk1QOhW.png" group-title="国际频道",Global News
 https://eja.tv/?3bf49234605c29ad03d38c04ca14a4fc.m3u8
 #EXTINF:-1 tvg-name="History 歷史頻道.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="国际频道",历史频道(亚洲)
@@ -349,7 +359,3 @@ https://hls.xhzb.tw/4987/Jade_xue/playlist.m3u8?md5=-sxkkWpAYoLpb7EdkmtX3Q&expir
 https://hls.xhzb.tw/4987/Qiyi/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV.my" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-title="新马地区",8度空间
 https://hls.xhzb.tw/4987/TV8/playlist.m3u8?type=fdc
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
-#EXTINF:-1 tvg-id="Eurosport" tvg-logo="https://tv.assets.pressassociation.io/08d5adde-34fa-50ce-94d1-58bdf387d054.png",group-title="TEST",Eurosport
-https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
