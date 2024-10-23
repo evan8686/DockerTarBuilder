@@ -71,7 +71,7 @@ http://61.221.215.25:8800/hls/43/index.m3u8
 https://hls.xhzb.tw/4987/Cinemax/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/pux6WN8.png" group-title="国际频道",Asian Food Network(亚洲)
 https://hls.xhzb.tw/4987/afc_twn/playlist.m3u8?type=fdc
-#EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBOAsia.sg" tvg-logo="https://i.imgur.com/c8crJfA.png" group-title="国际频道",HBO HD(亚洲)
+#EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBOAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="国际频道",HBO HD(亚洲)
 https://hls.xhzb.tw/4987/Hbo/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-id="Lifetime.tw" tvg-name="Lifetime.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="国际频道",LifeTime(亚洲)
 http://37.27.111.214:8080/live/71/hls.m3u8
@@ -137,6 +137,8 @@ http://eja.tv/?05313f65bee0422cdd4a3188b70b40f4.m3u8
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Disney Channel East" tvg-name="Disney Channel East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="国际频道",Disney Channel
 http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="ANIMAX.ph" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch150_425_305" group-title="国际频道",Animax
+https://wag.ika.lat/stream/870547344
 #EXTINF:-1 tvg-name="MTV Live音樂頻道.tw" tvg-logo="https://i.imgur.com/St5DhAU.png" group-title="国际频道",MTV Live 国际
 http://37.27.111.214:8080/live/25/hls.m3u8
 #EXTINF:-1 tvg-name="MTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="国际频道",MTV
@@ -203,6 +205,8 @@ https://fl2.moveonjoy.com/BRAVO/index.m3u8
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="Hallmark Family.us" tvg-name="Hallmark Family.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hallmark_Family_2024.svg/800px-Hallmark_Family_2024.svg.png" group-title="国际频道",Hallmark Family
 http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 tvg-id="Hallmark Mysteries.us" tvg-name="Hallmark Family.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hallmark_Mystery_2024.svg/500px-Hallmark_Mystery_2024.svg.png" group-title="国际频道",Hallmark Mysteries
+http://fl2.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 #EXTINF:-1 tvg-id="USANetworkEast.us" tvg-name="USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="国际频道",USA Network
 http://fl2.moveonjoy.com/USA_Network/index.m3u8
 #EXTINF:-1 tvg-id="TNTEast.us" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="国际频道",TNT
@@ -215,6 +219,12 @@ http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 http://fl2.moveonjoy.com/TRU_TV/index.m3u8
 #EXTINF:-1 tvg-id="Logo East" tvg-name="Logo East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/512px-Logo_TV_2015.svg.png" group-title="国际频道",Logo TV
 http://fl3.moveonjoy.com/Logo/index.m3u8
+#EXTINF:-1 tvg-id="AandE Network (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="国际频道",A&E
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/2746
+#EXTINF:-1 tvg-id="AXN.ph" tvg-logo="https://i.imgur.com/OO6mWTx.png" group-title="国际频道",AXN
+https://wag.ika.lat/stream/2084767267
+
+
 #EXTINF:-1 tvg-id="Animal Planet HD.in" tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/640px-2018_Animal_Planet_logo.svg.png" group-title="国际频道",Animal Planet HD 印度源
 http://bisdaktv.store/live/Animal_Planet.m3u8
 #EXTINF:-1 tvg-id="Discovery HD World" tvg-name="Discovery Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="国际频道",Discovery Channel HD 印度源
@@ -339,7 +349,3 @@ https://hls.xhzb.tw/4987/Jade_xue/playlist.m3u8?md5=-sxkkWpAYoLpb7EdkmtX3Q&expir
 https://hls.xhzb.tw/4987/Qiyi/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV.my" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-title="新马地区",8度空间
 https://hls.xhzb.tw/4987/TV8/playlist.m3u8?type=fdc
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
-#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="测试",HBO (Sg)
-https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
