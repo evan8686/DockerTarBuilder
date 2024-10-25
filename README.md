@@ -2,7 +2,7 @@
 ![GitHub Stars](https://img.shields.io/github/stars/wukongdaily/DockerTarBuilder.svg?style=flat&logo=appveyor&label=Stars&logo=github)
 ![GitHub Forks](https://img.shields.io/github/forks/wukongdaily/DockerTarBuilder.svg?style=flat&logo=appveyor&label=Forks&logo=github)
 
-这只是一个fork搬运版本。原版请去 https://github.com/wukongdaily/DockerTarBuilder
+<font face="黑体" color=ORANGE size=6>这只是一个fork搬运版本。原版请去 https://github.com/wukongdaily/DockerTarBuilder</font>
 
 ## 🤔 这是什么？
 它是一个工作流。可快速构建指定架构/平台的docker镜像
