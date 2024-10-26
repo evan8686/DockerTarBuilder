@@ -48,7 +48,7 @@ http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="WNBCDT1.us" tvg-name="WNBCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png" group-title="国际频道",NBC East
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="国际频道",ESPN
-http://67.220.74.90:25461/18736836/73683618/4587
+http://streamsy.online:2999/live/juanv/04bodwaga0/133.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN2.us" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="国际频道",ESPN2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="ESPNEWS.us" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="国际频道",ESPNEWS
