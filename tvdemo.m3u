@@ -108,7 +108,9 @@ https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 #EXTINF:-1 tvg-id="TLCEast.us" tvg-name="TLC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="国际频道",TLC
 http://fl2.moveonjoy.com/TLC/index.m3u8
 #EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="国际频道",HGTV
-http://212.102.60.231/HGTV/index.m3u8)
+http://streamsy.online:2999/live/juanv/04bodwaga0/154.m3u8
+#EXTINF:-1 tvg-id="MagnoliaNetworkEast.us" tvg-name="Magnolia Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Magnolia_Network.svg/512px-Magnolia_Network.svg.png" group-title="国际频道",Magnolia Network
+http://streamsy.online:2999/live/juanv/04bodwaga0/177.m3u8
 #EXTINF:-1 tvg-id="FoodNetworkEast.us" tvg-name="FoodNetworkEast.us" tvg-logo="https://i.imgur.com/ljYzkQT.png" group-title="国际频道",Food Network(美国)
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Cooking Channel.us" tvg-name="Cooking Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cooking_Channel.svg/512px-Cooking_Channel.svg.png" group-title="国际频道",Cooking Channel
@@ -147,6 +149,8 @@ http://fl2.moveonjoy.com/NICKTOONS/index.m3u8
 http://eja.tv/?05313f65bee0422cdd4a3188b70b40f4.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="国际频道",Cartoon Network
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="国际频道",Boomerang
+http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-id="Disney Channel East" tvg-name="Disney Channel East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="国际频道",Disney Channel
 http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="ANIMAX.ph" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch150_425_305" group-title="国际频道",Animax
@@ -233,6 +237,10 @@ http://fl2.moveonjoy.com/TRU_TV/index.m3u8
 http://fl3.moveonjoy.com/Logo/index.m3u8
 #EXTINF:-1 tvg-id="AandE Network (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="国际频道",A&E
 http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/2746
+#EXTINF:-1 tvg-id="IFCEast.us" tvg-name="IFCEast.us" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="国际频道",IFC
+http://streamsy.online:2999/live/juanv/04bodwaga0/151.m3u8
+#EXTINF:-1 tvg-id="PopTV.us" tvg-name="PopTV.us" tvg-logo="https://i.imgur.com/XySNnh0.png" group-title="国际频道",PopTV
+http://streamsy.online:2999/live/juanv/04bodwaga0/226.m3u8
 #EXTINF:-1 tvg-id="BBC ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="国际频道",BBC ONE
 https://livetvde.net/bbcone/index.m3u8?token=1cc17040708b966c61289109e9046297c7a5e124-30e1286ea01ad5800cc72d646b788859-1729718195-1729707395
 #EXTINF:-1 tvg-id="BBC Two" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="国际频道",BBC Two
@@ -375,3 +383,7 @@ https://hls.xhzb.tw/4987/Jade_xue/playlist.m3u8?md5=-sxkkWpAYoLpb7EdkmtX3Q&expir
 https://hls.xhzb.tw/4987/Qiyi/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV.my" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-title="新马地区",8度空间
 https://hls.xhzb.tw/4987/TV8/playlist.m3u8?type=fdc
+#EXTINF:-1 tvg-id="BANGBros" tvg-name="BANGBros" tvg-logo="https://images-assets-ht.project1content.com/BangBros/Gateway/646cd8474f32f9.85160974.png" group-title="NSFW",BANGBros
+http://streamsy.online:2999/live/juanv/04bodwaga0/276.m3u8
+#EXTINF:-1 tvg-id="MycamTVGay" tvg-name="MycamTVGay" tvg-logo="https://images-assets-ht.project1content.com/BangBros/Gateway/646cd8474f32f9.85160974.png" group-title="NSFW",MycamTVGay
+https://live.adultiptv.net/gay.m3u8
