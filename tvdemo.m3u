@@ -387,3 +387,13 @@ https://hls.xhzb.tw/4987/TV8/playlist.m3u8?type=fdc
 http://streamsy.online:2999/live/juanv/04bodwaga0/276.m3u8
 #EXTINF:-1 tvg-id="MycamTVGay" tvg-name="MycamTVGay" tvg-logo="https://images-assets-ht.project1content.com/BangBros/Gateway/646cd8474f32f9.85160974.png" group-title="NSFW",MycamTVGay
 https://live.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-id="BBC Radio 1" tvg-name="BBC Radio 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BBC_Radio_1_2021.svg/640px-BBC_Radio_1_2021.svg.png" group-title="Radio",BBC Radio 1
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_one.m3u8
+#EXTINF:-1 tvg-id="BBC Radio 1 Dance" tvg-name="BBC RADIO 1 DANCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BBC_Radio_1_2021.svg/640px-BBC_Radio_1_2021.svg.png" group-title="Radio",BBC Radio 1 Dance
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_one_dance.mpd
+#EXTINF:-1 tvg-id="BBC Radio 1 Extra" tvg-name="BBC Radio 1 Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BBC_Radio_1Xtra_2021.svg/640px-BBC_Radio_1Xtra_2021.svg.png" group-title="Radio",BBC Radio 1 Extra
+https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-id="Capital FM" tvg-name="Capital FM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Capital_2022.svg/640px-Capital_2022.svg.png" group-title="Radio",Capital FM
+https://media-ice.musicradio.com/CapitalMP3
+#EXTINF:-1 tvg-id="Capital Extra" tvg-name="Capital Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Capital_Xtra_2022.svg/640px-Capital_Xtra_2022.svg.png" group-title="Radio",Capital Extra
+https://media-ice.musicradio.com/CapitalXTRALondonMP3
