@@ -1,10 +1,12 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/generate/U6JQkUjzYD.xml"
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://live.fanmingming.com/tv/CNN.png" group-title="国际频道",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="CNNInternationalNorthAmerica.us" tvg-name="CNNInternationalNorthAmerica.us" tvg-logo="https://live.fanmingming.com/tv/CNN.png" group-title="国际频道",CNN国际
+#EXTINF:-1 tvg-id="CNNInternationalNorthAmerica.us" tvg-name="CNNInternationalNorthAmerica.us" tvg-logo="https://live.fanmingming.com/tv/CNN.png" group-title="国际频道",CNN Internationl
 http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="国际频道",BBC新闻
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="国际频道",BBC News UK
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk" tvg-name="BBCNewsAsiaPacific.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/768px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="国际频道",BBC World News
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="国际频道",半岛新闻台(英语)
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera Arabic" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="国际频道",半岛新闻台(阿语)
@@ -65,6 +67,8 @@ https://off5.jismhaitokia.com:999/hls/eurosp1.m3u8?md5=ATjH7_sj0JjvqIZRQs8cJQ&ex
 https://off5.jismhaitokia.com:999/hls/eurosp2.m3u8?md5=F43mI9iDeQaV6-Lp4nnXOg&expires=1729710094
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNTSports1.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="国际频道",TNTSports 1
 https://off6.jismhaitokia.com:999/hls/bbtsp1.m3u8?md5=-GuTQHZDgpFM0ME-pGN4OQ&expires=1729710328
+#EXTINF:-1 tvg-id="beINSports1.my" tvg-name="beINSports1.my" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="国际频道",beINSports1
+https://hls.xhzb.tw/4987/Astrobein1/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-name="Global News" tvg-logo="https://i.imgur.com/xk1QOhW.png" group-title="国际频道",Global News
 https://eja.tv/?3bf49234605c29ad03d38c04ca14a4fc.m3u8
 #EXTINF:-1 tvg-name="History 歷史頻道.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="国际频道",历史频道(亚洲)
@@ -300,9 +304,9 @@ http://37.27.111.214:8080/live/6/hls.m3u8
 #EXTINF:-1 tvg-name="華視主頻.tw" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="港台日韩",华视主频
 http://37.27.111.214:8080/live/8/hls.m3u8
 #EXTINF:-1 tvg-name="中視新聞台.tw" tvg-logo="https://i.imgur.com/0CYU3N0.png" group-title="港台日韩",中视新闻台
-http://37.27.111.214:8080/live/7/hls.m3u8
+https://hls.xhzb.tw/4987/zhongshinews_twn/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-name="中視.tw" tvg-logo="https://i.imgur.com/7W6d5pM.png" group-title="港台日韩",中视主频
-https://hls.xhzb.tw/4987/zhongshihd_twn/playlist.m3u8?type=fdc
+http://37.27.111.214:8080/live/7/hls.m3u8
 #EXTINF:-1 tvg-name="TVBS.tw" tvg-logo="https://i.imgur.com/4RvCHWP.png" group-title="港台日韩",TVBS主频
 http://37.27.111.214:8080/live/23/hls.m3u8
 #EXTINF:-1 tvg-name="TVBS 新聞台.tw" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="港台日韩",TVBS新闻台
