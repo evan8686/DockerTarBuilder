@@ -64,15 +64,15 @@ http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-id="beINSports1.my" tvg-name="beINSports1.my" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="国际体育",beINSports1
 https://hls.xhzb.tw/4987/Astrobein1/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="SkySportsMainEvent.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="国际体育",SkySports MainEvent
-https://off2.jismhaitokia.com:999/hls/skysme.m3u8?md5=LvBH8EVb72ww_CmwTltcBw&expires=1729708867
+http://defaultgen.com:3050/JeffR2/NsNa3v3jRB/508252
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="SkySportsF1.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="国际体育",SkySports F1
-https://off2.jismhaitokia.com:999/hls/skysfor1.m3u8?md5=cOZ2i_mXNv4fqWpo7IHjzA&expires=1729708415
+http://defaultgen.com:3050/JeffR2/NsNa3v3jRB/508246
 #EXTINF:-1 tvg-id="Eurosport 1.uk" tvg-name="Eurosport 1" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="国际体育",Eurosport 1 
 https://off5.jismhaitokia.com:999/hls/eurosp1.m3u8?md5=ATjH7_sj0JjvqIZRQs8cJQ&expires=1729708241
 #EXTINF:-1 tvg-id="Eurosport 2.uk" tvg-name="Eurosport 2" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="国际体育",Eurosport 2 
 https://off5.jismhaitokia.com:999/hls/eurosp2.m3u8?md5=F43mI9iDeQaV6-Lp4nnXOg&expires=1729710094
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNTSports1.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="国际体育",TNTSports 1
-https://off6.jismhaitokia.com:999/hls/bbtsp1.m3u8?md5=-GuTQHZDgpFM0ME-pGN4OQ&expires=1729710328
+http://45.148.145.152:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/755417.m3u8?token=HRtYUkpaEAMVVVkCV10KV1NUV1UHWwAAUVYMAQECAAIECARRXQpQDgYTTRAXTUoGVFxrXQYaClYGAQFTDk9BQBVcQmxQVhADFQNYBVEIGk8XRV1ZBxoKUR8WRQtdQVlbE1VcHxtXSk1SQw9TCGZcBkNYV1FAAl4UX1gZQFYNPFEDVFFdXRAIGwYTTRANSkhBD19BWA4UEgNaQEcDTQZBDwhMXF8VEFFWQl8VQB0bAkFleRYYQF1IFVZaRgtWDUEPRFQDRgEQHhteQj5AAUpMEVBQWVEQGgpDAxYZQFQCG2oFVl5dXFFGUFhfEhBeGwpBGRNZWwxRRA5Ba0ULXUFZWxNVXE4=
 #EXTINF:-1 tvg-id="HITS.tw" tvg-name="HITS.tw" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="影视娱乐",Hits电影台
 http://37.27.111.214:8080/live/28/hls.m3u8
 #EXTINF:-1 tvg-name="CinemaWorld 世界影城電影頻道.tw" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="影视娱乐",CinemaWorld电影台
@@ -83,6 +83,10 @@ http://61.221.215.25:8800/hls/43/index.m3u8
 https://hls.xhzb.tw/4987/Cinemax/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBOAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="影视娱乐",HBO HD(亚洲)
 https://hls.xhzb.tw/4987/Hbo/playlist.m3u8?type=fdc
+#EXTINF:-1 tvg-id="HBOSignatureAsia.sg" tvg-name="HBOSignatureAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/512px-HBO_Signature_Asia.png" group-title="影视娱乐",HBO Signature(亚洲)
+http://194.42.205.99:8070/resplice/wdLIS4d9758INyuX/221948
+#EXTINF:-1 tvg-id="HBOHitsAsia.sg" tvg-name="HBOHitsAsia.sg" tvg-logo="https://i.imgur.com/CTjmocc.png" group-title="影视娱乐",HBO Hits(亚洲)
+http://45.148.145.147:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/856882.m3u8?token=HRtYUkpaEAMVUwRXUQ9aVgUJDQMBDlIFBwEEUA8FBwJSWlVRDAcAC1MTTRAXTUoGVFxrXQYaClkGAg1aC09BQBVcQmxQVhADFQNYBVEIGk8XRV1ZBxoKUR8WRQtdQVlbE1VcHxtXSk1SQw9TCGZcBkNYV1FAAl4UX1gZQFYNPFEDVFFdXRAIGwYTTRANSkhBD19BWA4UEgNaQEcDTQZBDwhMXF8VEFFWQl8VQB0bAkFleRYYQF1IFVZaRgtWDUEPRFQDRgEQHhteQj5AAUpMEVBQWVEQGgpDAxYZQFQCG2oFVl5dXFFGUFhfEhBeGwpBGRNZWwxRRA5Ba0ULXUFZWxNVXE4=
 #EXTINF:-1 tvg-id="AXN.ph" tvg-logo="https://i.imgur.com/OO6mWTx.png" group-title="影视娱乐",AXN
 https://wag.ika.lat/stream/2084767267
 #EXTINF:-1 tvg-id="tvNAsia.my" tvg-name="tvN Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" group-title="影视娱乐",tvN Asia
@@ -97,6 +101,8 @@ https://hls.xhzb.tw/4987/Rockentertain/playlist.m3u8?type=fdc
 http://starshare.live:8080/live/anita123/anita123/9384.m3u8
 #EXTINF:-1 tvg-id="DiscoveryAsia.sg" tvg-name="Discovery Asia" tvg-logo="https://i.imgur.com/foLICwL.png" group-title="科教记录",Discovery Asia
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel (HD).sg" tvg-name="Discovery Channel (HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="科教记录",Discovery(亚洲)
+http://45.148.145.147:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/856869.m3u8?token=HRtYUkpaEAMVAlJQUwpaVwNTBgBbAVMHCwxUAQlRVAEFDlQGAVdRWFYTTRAXTUoGVFxrXQYaClkGAg1UAE9BQBVcQmxQVhADFQNYBVEIGk8XRV1ZBxoKUR8WRQtdQVlbE1VcHxtXSk1SQw9TCGZcBkNYV1FAAl4UX1gZQFYNPFEDVFFdXRAIGwYTTRANSkhBD19BWA4UEgNaQEcDTQZBDwhMXF8VEFFWQl8VQB0bAkFleRYYQF1IFVZaRgtWDUEPRFQDRgEQHhteQj5AAUpMEVBQWVEQGgpDAxYZQFQCG2oFVl5dXFFGUFhfEhBeGwpBGRNZWwxRRA5Ba0ULXUFZWxNVXE4=
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/pux6WN8.png" group-title="科教记录",Asian Food Network(亚洲)
 https://hls.xhzb.tw/4987/afc_twn/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-id="Food Network (HD).sg" tvg-name="Food Network Asia" tvg-logo="https://i.imgur.com/ljYzkQT.png" group-title="科教记录",Food Network(亚洲)
@@ -115,6 +121,8 @@ http://bisdaktv.store/live/HGTV.m3u8
 https://hls.xhzb.tw/4987/natgeohd_twn/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-id="Global Trekker 探索世界頻道.tw" tvg-name="Global Trekker 探索世界頻道.tw " tvg-logo="https://i.imgur.com/5nlmJIw.png" group-title="科教记录",Global Trekker 
 http://37.27.111.214:8080/live/53/hls.m3u8
+#EXTINF:-1 tvg-id="BBC Earth (HD).sg" tvg-name="BBC Earth (HD).sg" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="科教记录",BBC Earth(亚洲)
+http://103.244.145.15/live/anita123/anita123/150964.m3u8?token=ShJcU0BbQQNHXVJaU1BWW1sCBQIFUQZVUgFXVVABUQtVAwdTV1EADgQbGBpEF0dcWF1vWQIXXlAEUlsBUUgRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIEwIDBgQBVQBHFRZdTxdQS1dRXG8CUBIIUgdADQsRX14dEltcbFcGVARXUBoNQQQbFRJZQxYXXg9EDg4bRwZaRkNRQFcRCUELUAEBGhtBVlZMXkRCHxdeQ2EqQBtHAUtGVF5HW1xdQQNHVAdND0EZG1BDb0IDRhATVAMPUhdGCRABEhgQXlIbZgZWWlZSAEFQVl5DElwXVUMdQA9YCw1HXUNvRFtXEVkbVw4ADwVWBRtE
 #EXTINF:-1 tvg-id="DiscoveryChannelEast.us" tvg-name="Discovery Channel East" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="科教记录",Discovery
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryLife.us" tvg-name="Discovery Life" tvg-language="English" tvg-logo="https://i.imgur.com/ObPFgT8.png" group-title="科教记录",Discovery Life
