@@ -1,249 +1,263 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/generate/U6JQkUjzYD.xml"
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://live.fanmingming.com/tv/CNN.png" group-title="国际频道",CNN
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://live.fanmingming.com/tv/CNN.png" group-title="国际新闻",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="CNNInternationalNorthAmerica.us" tvg-name="CNNInternationalNorthAmerica.us" tvg-logo="https://live.fanmingming.com/tv/CNN.png" group-title="国际频道",CNN Internationl
+#EXTINF:-1 tvg-id="CNNInternationalNorthAmerica.us" tvg-name="CNNInternationalNorthAmerica.us" tvg-logo="https://live.fanmingming.com/tv/CNN.png" group-title="国际新闻",CNN Internationl
 http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="国际频道",BBC News UK
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="国际新闻",BBC News UK
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk" tvg-name="BBCNewsAsiaPacific.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/768px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="国际频道",BBC World News
+#EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk" tvg-name="BBCNewsAsiaPacific.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/768px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="国际新闻",BBC World News
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="国际频道",半岛新闻台(英语)
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="国际新闻",半岛新闻台(英语)
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
-#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera Arabic" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="国际频道",半岛新闻台(阿语)
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera Arabic" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="国际新闻",半岛新闻台(阿语)
 https://live-hls-web-aja.getaj.net/AJA/03.m3u8
-#EXTINF:-1 tvg-id="RT.ru" tvg-name="RT.ru" tvg-logo="https://live.fanmingming.com/tv/RTNews.png" group-title="国际频道",RT新闻台
+#EXTINF:-1 tvg-id="RT.ru" tvg-name="RT.ru" tvg-logo="https://live.fanmingming.com/tv/RTNews.png" group-title="国际新闻",RT新闻台
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-id="Euronews.tw" tvg-name="Euronews.tw" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="国际频道",Euronews
+#EXTINF:-1 tvg-id="Euronews.tw" tvg-name="Euronews.tw" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="国际新闻",Euronews
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/euronews_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="Bloomberg Television (HD).sg" tvg-name="Bloomberg Television (HD).sg" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="国际频道",Bloomberg 财经(亚太)
+#EXTINF:-1 tvg-id="Bloomberg Television (HD).sg" tvg-name="Bloomberg Television (HD).sg" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="国际新闻",Bloomberg 财经(亚太)
 http://37.27.111.214:8080/live/34/hls.m3u8
-#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="BloombergTV.us" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="国际频道",Bloomberg 财经(美国)
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="BloombergTV.us" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="国际新闻",Bloomberg 财经(美国)
 http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
-#EXTINF:-1 tvg-name="DW English" tvg-logo="https://live.fanmingming.com/tv/DW.png" group-title="国际频道",DW English
+#EXTINF:-1 tvg-name="DW English" tvg-logo="https://live.fanmingming.com/tv/DW.png" group-title="国际新闻",DW English
 http://37.27.111.214:8080/live/46/hls.m3u8
-#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="SkyNews.uk" tvg-logo="http://content.stream-link.org/images/sky_news.png" group-title="国际频道",SKY News International
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="SkyNews.uk" tvg-logo="http://content.stream-link.org/images/sky_news.png" group-title="国际新闻",SKY News International
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-#EXTINF:-1 tvg-id="FRANCE24(English).tw" tvg-name="France 24 English" tvg-logo="http://content.stream-link.org/images/france_24E.png" group-title="国际频道",France 24 English
+#EXTINF:-1 tvg-id="FRANCE24(English).tw" tvg-name="France 24 English" tvg-logo="http://content.stream-link.org/images/france_24E.png" group-title="国际新闻",France 24 English
 http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="NewsNationEast.us" tvg-name="NewsNationEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/NewsNation_Logo.jpg" group-title="国际频道",News Nation
+#EXTINF:-1 tvg-id="NewsNationEast.us" tvg-name="NewsNationEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/NewsNation_Logo.jpg" group-title="国际新闻",News Nation
 http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
-#EXTINF:-1 tvg-name="CBS News 24/7" tvg-logo="http://content.stream-link.org/images/cbs_news.png" group-title="国际频道",CBS News
+#EXTINF:-1 tvg-name="CBS News 24/7" tvg-logo="http://content.stream-link.org/images/cbs_news.png" group-title="国际新闻",CBS News
 http://eja.tv/?2120111aa10dfc3c926acdad262538a4.m3u8
-#EXTINF:-1 tvg-id="WCBS" tvg-name="CBSNewsNewYork" tvg-logo="http://content.stream-link.org/images/cbs_news.png" group-title="国际频道",CBS News NY
+#EXTINF:-1 tvg-id="WCBS" tvg-name="CBSNewsNewYork" tvg-logo="http://content.stream-link.org/images/cbs_news.png" group-title="国际新闻",CBS News NY
 https://eja.tv/?0b62c0be581cbeb9af1bb60973de79c2.m3u8
-#EXTINF:-1 tvg-id="KCBSDT1.us" tvg-name="CBS News Los Angeles" tvg-logo="http://content.stream-link.org/images/cbs_news.png" group-title="国际频道",CBS News LA
+#EXTINF:-1 tvg-id="KCBSDT1.us" tvg-name="CBS News Los Angeles" tvg-logo="http://content.stream-link.org/images/cbs_news.png" group-title="国际新闻",CBS News LA
 https://eja.tv/?572acd8269b37c1490ffce85d7ac7037.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="国际频道",ABC News
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="国际新闻",ABC News
 https://eja.tv/play/?https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8erSideAds=false&sid=99b21a01-5948-4846-8087-2fee1b5f0a3d
-#EXTINF:-1 tvg-name="FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="国际频道",FOX NEWS
+#EXTINF:-1 tvg-name="FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="国际新闻",FOX NEWS
 http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
-#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://live.fanmingming.com/tv/CNBC.png" group-title="国际频道",CNBC商业资讯
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://live.fanmingming.com/tv/CNBC.png" group-title="国际新闻",CNBC商业资讯
 http://fl2.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 tvg-name="MSNBC.us" tvg-logo="https://i.imgur.com/kGUR6NE.png" group-title="国际频道",MSNBC
+#EXTINF:-1 tvg-name="MSNBC.us" tvg-logo="https://i.imgur.com/kGUR6NE.png" group-title="国际新闻",MSNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 tvg-name="NBC NEWS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-news-now-us.png?raw=true" group-title="国际频道",NBC NEWS
+#EXTINF:-1 tvg-name="NBC NEWS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-news-now-us.png?raw=true" group-title="国际新闻",NBC NEWS
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_5055600/index.m3u8?blog.ntnas.top
+#EXTINF:-1 tvg-name="Global News" tvg-logo="https://i.imgur.com/xk1QOhW.png" group-title="国际新闻",Global News
+https://eja.tv/?3bf49234605c29ad03d38c04ca14a4fc.m3u8
+#EXTINF:-1 tvg-id="YTN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/512px-YTN_logo_2014.svg.png" group-title="港台日韩",YTN
+https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
 #EXTINF:-1 tvg-id="WOLODT.us" tvg-name="WOLODT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="国际频道",ABC East
 http://fl2.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="WFXTDT1.us" tvg-name="WFXTDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="国际频道",FOX East
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="WNBCDT1.us" tvg-name="WNBCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png" group-title="国际频道",NBC East
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="国际频道",ESPN
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="国际体育",ESPN
 http://streamsy.online:2999/live/juanv/04bodwaga0/133.m3u8
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN2.us" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="国际频道",ESPN2
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN2.us" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="国际体育",ESPN2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="ESPNEWS.us" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="国际频道",ESPNEWS
+#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="ESPNEWS.us" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="国际体育",ESPNEWS
 http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="NBA.us" tvg-name="NBA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="国际频道",NBA TV
+#EXTINF:-1 tvg-id="NBA.us" tvg-name="NBA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="国际体育",NBA TV
 http://fl2.moveonjoy.com/NBA_TV/index.m3u8
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="SkySportsMainEvent.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="国际频道",SkySports MainEvent
-https://off2.jismhaitokia.com:999/hls/skysme.m3u8?md5=LvBH8EVb72ww_CmwTltcBw&expires=1729708867
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="SkySportsF1.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="国际频道",SkySports F1
-https://off2.jismhaitokia.com:999/hls/skysfor1.m3u8?md5=cOZ2i_mXNv4fqWpo7IHjzA&expires=1729708415
-#EXTINF:-1 tvg-id="Eurosport 1.uk" tvg-name="Eurosport 1" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="国际频道",Eurosport 1 
-https://off5.jismhaitokia.com:999/hls/eurosp1.m3u8?md5=ATjH7_sj0JjvqIZRQs8cJQ&expires=1729708241
-#EXTINF:-1 tvg-id="Eurosport 2.uk" tvg-name="Eurosport 2" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="国际频道",Eurosport 2 
-https://off5.jismhaitokia.com:999/hls/eurosp2.m3u8?md5=F43mI9iDeQaV6-Lp4nnXOg&expires=1729710094
-#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNTSports1.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="国际频道",TNTSports 1
-https://off6.jismhaitokia.com:999/hls/bbtsp1.m3u8?md5=-GuTQHZDgpFM0ME-pGN4OQ&expires=1729710328
-#EXTINF:-1 tvg-id="beINSports1.my" tvg-name="beINSports1.my" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="国际频道",beINSports1
+#EXTINF:-1 tvg-id="beINSports1.my" tvg-name="beINSports1.my" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="国际体育",beINSports1
 https://hls.xhzb.tw/4987/Astrobein1/playlist.m3u8?type=fdc
-#EXTINF:-1 tvg-name="Global News" tvg-logo="https://i.imgur.com/xk1QOhW.png" group-title="国际频道",Global News
-https://eja.tv/?3bf49234605c29ad03d38c04ca14a4fc.m3u8
-#EXTINF:-1 tvg-name="History 歷史頻道.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="国际频道",历史频道(亚洲)
-http://37.27.111.214:8080/live/27/hls.m3u8
-#EXTINF:-1 tvg-id="CI 罪案偵緝頻道.tw" tvg-name="Crime + Investigation Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C%26I_logo.svg/512px-C%26I_logo.svg.png" group-title="国际频道",Crime + Investigation(亚洲)
-http://37.27.111.214:8080/live/29/hls.m3u8
-#EXTINF:-1 tvg-id="HITS.tw" tvg-name="HITS.tw" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="国际频道",Hits电影台
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="SkySportsMainEvent.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="国际体育",SkySports MainEvent
+https://off2.jismhaitokia.com:999/hls/skysme.m3u8?md5=LvBH8EVb72ww_CmwTltcBw&expires=1729708867
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="SkySportsF1.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="国际体育",SkySports F1
+https://off2.jismhaitokia.com:999/hls/skysfor1.m3u8?md5=cOZ2i_mXNv4fqWpo7IHjzA&expires=1729708415
+#EXTINF:-1 tvg-id="Eurosport 1.uk" tvg-name="Eurosport 1" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="国际体育",Eurosport 1 
+https://off5.jismhaitokia.com:999/hls/eurosp1.m3u8?md5=ATjH7_sj0JjvqIZRQs8cJQ&expires=1729708241
+#EXTINF:-1 tvg-id="Eurosport 2.uk" tvg-name="Eurosport 2" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="国际体育",Eurosport 2 
+https://off5.jismhaitokia.com:999/hls/eurosp2.m3u8?md5=F43mI9iDeQaV6-Lp4nnXOg&expires=1729710094
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNTSports1.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="国际体育",TNTSports 1
+https://off6.jismhaitokia.com:999/hls/bbtsp1.m3u8?md5=-GuTQHZDgpFM0ME-pGN4OQ&expires=1729710328
+#EXTINF:-1 tvg-id="HITS.tw" tvg-name="HITS.tw" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="影视娱乐",Hits电影台
 http://37.27.111.214:8080/live/28/hls.m3u8
-#EXTINF:-1 tvg-name="CinemaWorld 世界影城電影頻道.tw" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="国际频道",CinemaWorld电影台
+#EXTINF:-1 tvg-name="CinemaWorld 世界影城電影頻道.tw" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="影视娱乐",CinemaWorld电影台
 http://37.27.111.214:8080/live/30/hls.m3u8
-#EXTINF:-1 tvg-id="amc電影台.tw" tvg-name="amc電影台.tw" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@33@1546_20240103152142.jpg" group-title="国际频道",amc电影台
+#EXTINF:-1 tvg-id="amc電影台.tw" tvg-name="amc電影台.tw" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@33@1546_20240103152142.jpg" group-title="影视娱乐",amc电影台
 http://61.221.215.25:8800/hls/43/index.m3u8
-#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" tvg-logo="https://i.imgur.com/c8crJfA.png" group-title="国际频道",Cinemax(亚洲)
+#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" tvg-logo="https://i.imgur.com/c8crJfA.png" group-title="影视娱乐",Cinemax(亚洲)
 https://hls.xhzb.tw/4987/Cinemax/playlist.m3u8?type=fdc
-#EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBOAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="国际频道",HBO HD(亚洲)
+#EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBOAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="影视娱乐",HBO HD(亚洲)
 https://hls.xhzb.tw/4987/Hbo/playlist.m3u8?type=fdc
-#EXTINF:-1 tvg-id="Star Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/536px-STAR_Movies_logo.svg.png" group-title="国际频道",Star Movies HD
+#EXTINF:-1 tvg-id="AXN.ph" tvg-logo="https://i.imgur.com/OO6mWTx.png" group-title="影视娱乐",AXN
+https://wag.ika.lat/stream/2084767267
+#EXTINF:-1 tvg-id="tvNAsia.my" tvg-name="tvN Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" group-title="影视娱乐",tvN Asia
+https://hls.xhzb.tw/4987/TVN/playlist.m3u8?type=fdc
+#EXTINF:-1 tvg-id="tvNMoviesAsia.my" tvg-name="tvN Movies Asia" tvg-logo="https://i.imgur.com/c4XvwO2.png" group-title="影视娱乐",tvN Movies Asia
+http://210.210.155.35/uq2663/h/h21/index.m3u8
+#EXTINF:-1 tvg-id="ROCKAction.sg" tvg-name="ROCK Action" tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="影视娱乐",ROCK Action
+https://hls.xhzb.tw/4987/Rockaction/playlist.m3u8?type=fdc
+#EXTINF:-1 tvg-id="ROCKEntertainment.sg" tvg-name="ROCK Entertainment" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="影视娱乐",ROCK Entertainment
+https://hls.xhzb.tw/4987/Rockentertain/playlist.m3u8?type=fdc
+#EXTINF:-1 tvg-id="Star Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/536px-STAR_Movies_logo.svg.png" group-title="影视娱乐",Star Movies HD
 http://starshare.live:8080/live/anita123/anita123/9384.m3u8
-#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/pux6WN8.png" group-title="国际频道",Asian Food Network(亚洲)
-https://hls.xhzb.tw/4987/afc_twn/playlist.m3u8?type=fdc
-#EXTINF:-1 tvg-id="Lifetime.tw" tvg-name="Lifetime.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="国际频道",LifeTime(亚洲)
-http://37.27.111.214:8080/live/71/hls.m3u8
-#EXTINF:-1 tvg-id="TLCSoutheastAsia.sg" tvg-name="TLC Southeast Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="国际频道",TLC(亚洲)
-https://hls.xhzb.tw/4987/Tlc/playlist.m3u8?type=fdc
-#EXTINF:-1 tvg-id="Food Network (HD).sg" tvg-name="Food Network Asia" tvg-logo="https://i.imgur.com/ljYzkQT.png" group-title="国际频道",Food Network(亚洲)
-https://dplus.gammacdn.workers.dev/videos/112.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanetSoutheastAsia.sg" tvg-name="AnimalPlanetEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="国际频道",Animal Planet(亚洲)
-https://hls.xhzb.tw/4987/AnimalPlanet/playlist.m3u8?type=fdc
-#EXTINF:-1 tvg-id="Global Trekker 探索世界頻道.tw" tvg-name="Global Trekker 探索世界頻道.tw " tvg-logo="https://i.imgur.com/5nlmJIw.png" group-title="国际频道",Global Trekker 
-http://37.27.111.214:8080/live/53/hls.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannelEast.us" tvg-name="Discovery Channel East" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="国际频道",Discovery
-http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryLife.us" tvg-name="Discovery Life" tvg-language="English" tvg-logo="https://i.imgur.com/ObPFgT8.png" group-title="国际频道",Discovery Life
-http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryFamily.us" tvg-name="Discovery Family" tvg-language="English" tvg-logo="https://i.imgur.com/pdNGDJ8.png" group-title="国际频道",Discovery Family
-http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-name="Discovery Science" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png" group-title="国际频道",Discovery Science
-http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryAsia.sg" tvg-name="Discovery Asia" tvg-logo="https://i.imgur.com/foLICwL.png" group-title="国际频道",Discovery Asia
+#EXTINF:-1 tvg-id="DiscoveryAsia.sg" tvg-name="Discovery Asia" tvg-logo="https://i.imgur.com/foLICwL.png" group-title="科教记录",Discovery Asia
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
-#EXTINF:-1 tvg-id="TLCEast.us" tvg-name="TLC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="国际频道",TLC
+#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/pux6WN8.png" group-title="科教记录",Asian Food Network(亚洲)
+https://hls.xhzb.tw/4987/afc_twn/playlist.m3u8?type=fdc
+#EXTINF:-1 tvg-id="Food Network (HD).sg" tvg-name="Food Network Asia" tvg-logo="https://i.imgur.com/ljYzkQT.png" group-title="科教记录",Food Network(亚洲)
+https://dplus.gammacdn.workers.dev/videos/112.m3u8
+#EXTINF:-1 tvg-name="History 歷史頻道.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="科教记录",历史频道(亚洲)
+http://37.27.111.214:8080/live/27/hls.m3u8
+#EXTINF:-1 tvg-id="CI 罪案偵緝頻道.tw" tvg-name="Crime + Investigation Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C%26I_logo.svg/512px-C%26I_logo.svg.png" group-title="科教记录",Crime + Investigation(亚洲)
+http://37.27.111.214:8080/live/29/hls.m3u8
+#EXTINF:-1 tvg-id="TLCSoutheastAsia.sg" tvg-name="TLC Southeast Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="科教记录",TLC(亚洲)
+https://hls.xhzb.tw/4987/Tlc/playlist.m3u8?type=fdc
+#EXTINF:-1 tvg-id="AnimalPlanetSoutheastAsia.sg" tvg-name="AnimalPlanetEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="科教记录",Animal Planet(亚洲)
+https://hls.xhzb.tw/4987/AnimalPlanet/playlist.m3u8?type=fdc
+#EXTINF:-1 tvg-id="HGTVAsia.us" tvg-name="HGTV Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="科教记录",HGTV(亚洲)
+http://bisdaktv.store/live/HGTV.m3u8
+#EXTINF:-1 tvg-id="DMAXSoutheastAsia.sg" tvg-name="DMAX Southeast Asia" tvg-logo="https://i.imgur.com/En2sLlW.png" group-title="科教记录",DMAX(亚洲)
+https://hls.xhzb.tw/4987/natgeohd_twn/playlist.m3u8?type=fdc
+#EXTINF:-1 tvg-id="Global Trekker 探索世界頻道.tw" tvg-name="Global Trekker 探索世界頻道.tw " tvg-logo="https://i.imgur.com/5nlmJIw.png" group-title="科教记录",Global Trekker 
+http://37.27.111.214:8080/live/53/hls.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannelEast.us" tvg-name="Discovery Channel East" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="科教记录",Discovery
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryLife.us" tvg-name="Discovery Life" tvg-language="English" tvg-logo="https://i.imgur.com/ObPFgT8.png" group-title="科教记录",Discovery Life
+http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryFamily.us" tvg-name="Discovery Family" tvg-language="English" tvg-logo="https://i.imgur.com/pdNGDJ8.png" group-title="科教记录",Discovery Family
+http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-name="Discovery Science" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png" group-title="科教记录",Discovery Science
+http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
+#EXTINF:-1 tvg-id="TLCEast.us" tvg-name="TLC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="科教记录",TLC
 http://fl2.moveonjoy.com/TLC/index.m3u8
-#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="国际频道",HGTV
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="科教记录",HGTV
 http://streamsy.online:2999/live/juanv/04bodwaga0/154.m3u8
-#EXTINF:-1 tvg-id="MagnoliaNetworkEast.us" tvg-name="Magnolia Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Magnolia_Network.svg/512px-Magnolia_Network.svg.png" group-title="国际频道",Magnolia Network
+#EXTINF:-1 tvg-id="MagnoliaNetworkEast.us" tvg-name="Magnolia Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Magnolia_Network.svg/512px-Magnolia_Network.svg.png" group-title="科教记录",Magnolia Network
 http://streamsy.online:2999/live/juanv/04bodwaga0/177.m3u8
-#EXTINF:-1 tvg-id="FoodNetworkEast.us" tvg-name="FoodNetworkEast.us" tvg-logo="https://i.imgur.com/ljYzkQT.png" group-title="国际频道",Food Network(美国)
+#EXTINF:-1 tvg-id="FoodNetworkEast.us" tvg-name="FoodNetworkEast.us" tvg-logo="https://i.imgur.com/ljYzkQT.png" group-title="科教记录",Food Network(美国)
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="Cooking Channel.us" tvg-name="Cooking Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cooking_Channel.svg/512px-Cooking_Channel.svg.png" group-title="国际频道",Cooking Channel
+#EXTINF:-1 tvg-id="Cooking Channel.us" tvg-name="Cooking Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cooking_Channel.svg/512px-Cooking_Channel.svg.png" group-title="科教记录",Cooking Channel
 http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanetEast.us" tvg-name="AnimalPlanetEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="国际频道",Animal Planet(美国)
+#EXTINF:-1 tvg-id="AnimalPlanetEast.us" tvg-name="AnimalPlanetEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="科教记录",Animal Planet(美国)
 http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
-#EXTINF:-1 tvg-id="TravelChannelEast.us" tvg-name="TravelChannelEast.us" tvg-logo="https://i.imgur.com/RmHGeP1.png" group-title="国际频道",Travel Channel East
+#EXTINF:-1 tvg-id="TravelChannelEast.us" tvg-name="TravelChannelEast.us" tvg-logo="https://i.imgur.com/RmHGeP1.png" group-title="科教记录",Travel Channel East
 http://fl2.moveonjoy.com/Travel_Channel/index.m3u8
-#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Destination_America_logo.svg/512px-Destination_America_logo.svg.png" group-title="国际频道",Destination America
+#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Destination_America_logo.svg/512px-Destination_America_logo.svg.png" group-title="科教记录",Destination America
 http://fl3.moveonjoy.com/Destination_America/index.m3u8
-#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="国际频道",Investigation Discovery
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="科教记录",Investigation Discovery
 http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicEast.us" tvg-name="NationalGeographicEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="国际频道",National Geographic
+#EXTINF:-1 tvg-id="NationalGeographicEast.us" tvg-name="NationalGeographicEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="科教记录",National Geographic
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWildEast.us" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="国际频道",National Geographic Wild
+#EXTINF:-1 tvg-id="NationalGeographicWildEast.us" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="科教记录",National Geographic Wild
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicFinland.fi" tvg-name="NationalGeographicFinland.fi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="国际频道",National Geographic(芬兰)
+#EXTINF:-1 tvg-id="NationalGeographicFinland.fi" tvg-name="NationalGeographicFinland.fi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="科教记录",National Geographic(芬兰)
 https://live-fi.tvkaista.net/national-geographic/live.m3u8?src=videojs
-#EXTINF:-1 tvg-id="Crime and Investigation Network.us" tvg-name="Crime + Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C%26I_logo.svg/512px-C%26I_logo.svg.png" group-title="国际频道",Crime + Investigation(美国)
+#EXTINF:-1 tvg-id="Crime and Investigation Network.us" tvg-name="Crime + Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C%26I_logo.svg/512px-C%26I_logo.svg.png" group-title="科教记录",Crime + Investigation(美国)
 http://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
-#EXTINF:-1 tvg-id="HistoryEast.us" tvg-name="HistoryEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="国际频道",History Channel
+#EXTINF:-1 tvg-id="HistoryEast.us" tvg-name="HistoryEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="科教记录",History Channel
 http://fl2.moveonjoy.com/history_channel/index.m3u8
-#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="LoveNature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="国际频道",Love Nature
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="LoveNature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="科教记录",Love Nature
 http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
-#EXTINF:-1 tvg-id="LoveNature4k.ca" tvg-name="LoveNature.ca" tvg-logo="https://i.imgur.com/JEDlYlh.png" group-title="国际频道",Love Nature 4K
+#EXTINF:-1 tvg-id="LoveNature4k.ca" tvg-name="LoveNature.ca" tvg-logo="https://i.imgur.com/JEDlYlh.png" group-title="科教记录",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="国际频道",Outdoor Channel
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="科教记录",Outdoor Channel
 http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon Asia尼克兒童頻道.tw" tvg-logo="https://live.fanmingming.com/tv/Nickelodeon.png" group-title="国际频道",Nickelodeon尼克儿童频道
+#EXTINF:-1 tvg-name="Nickelodeon Asia尼克兒童頻道.tw" tvg-logo="https://live.fanmingming.com/tv/Nickelodeon.png" group-title="国际卡通",Nickelodeon尼克儿童频道
 http://37.27.111.214:8080/live/12/hls.m3u8
-#EXTINF:-1 tvg-id="NickelodeonEast.us" tvg-name="Nickelodeon East" tvg-logo="https://live.fanmingming.com/tv/Nickelodeon.png" group-title="国际频道",Nickelodeon(美国)
+#EXTINF:-1 tvg-id="NickelodeonEast.us" tvg-name="Nickelodeon East" tvg-logo="https://live.fanmingming.com/tv/Nickelodeon.png" group-title="国际卡通",Nickelodeon(美国)
 http://fl2.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="NicktoonsEast.us" tvg-name="Nicktoons East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png" group-title="国际频道",Nicktoons
+#EXTINF:-1 tvg-id="NicktoonsEast.us" tvg-name="Nicktoons East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png" group-title="国际卡通",Nicktoons
 http://fl2.moveonjoy.com/NICKTOONS/index.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network.tw" tvg-name="Cartoon Network.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="国际频道",CN卡通频道(亚洲)
+#EXTINF:-1 tvg-id="Cartoon Network.tw" tvg-name="Cartoon Network.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="国际卡通",CN卡通频道(亚洲)
 http://eja.tv/?05313f65bee0422cdd4a3188b70b40f4.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="国际频道",Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="国际卡通",Cartoon Network
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="国际频道",Boomerang
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="国际卡通",Boomerang
 http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
-#EXTINF:-1 tvg-id="Disney Channel East" tvg-name="Disney Channel East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="国际频道",Disney Channel
+#EXTINF:-1 tvg-id="Disney Channel East" tvg-name="Disney Channel East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="国际卡通",Disney Channel
 http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="ANIMAX.ph" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch150_425_305" group-title="国际频道",Animax
-https://wag.ika.lat/stream/870547344
-#EXTINF:-1 tvg-name="MTV Live音樂頻道.tw" tvg-logo="https://i.imgur.com/St5DhAU.png" group-title="国际频道",MTV Live 国际
-http://37.27.111.214:8080/live/25/hls.m3u8
-#EXTINF:-1 tvg-name="MTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="国际频道",MTV
-http://fl2.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1 tvg-name="MTV Live.us" tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="国际频道",MTV Live 美国
-http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-name="MTV2East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/512px-MTV2_logo_2013.svg.png" group-title="国际频道",MTV2
-http://fl2.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1 tvg-name="MTVU.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/512px-MTVU_Logo_%282016%E2%80%93present%29.svg.png" group-title="国际频道",MTVU
-http://fl2.moveonjoy.com/MTV_U/index.m3u8
-#EXTINF:-1 tvg-id="AMCEast.us" tvg-name="AMC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="国际频道",AMC
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="AMCPlus.us" tvg-logo="https://i.imgur.com/abtANyj.png" group-title="国际频道",AMC PLUS
-https://eja.tv/?912a17c4051a1822f20fb9b664b05d92.m3u8
-#EXTINF:-1 tvg-id="SonyMovies.us" tvg-name="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="国际频道",索尼电影台
-http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="StarzEast.us" tvg-name="StarzEast.us" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="国际频道",Starz
-http://fl2.moveonjoy.com/starz/index.m3u8
-#EXTINF:-1 tvg-id="StarzEdgeEast.us" tvg-name="Starz Edge East" tvg-logo="https://i.imgur.com/MvH3Cz2.png" group-title="国际频道",Starz Edge
-http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
-#EXTINF:-1 tvg-id="FXEast.us" tvg-name="FX East" tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="国际频道",FX
-http://fl2.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 tvg-id="FXXEast.us" tvg-name="FXX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png" group-title="国际频道",FXX East
-http://fl2.moveonjoy.com/FXX/index.m3u8
-#EXTINF:-1 tvg-id="HBOEast.us" tvg-name="HBO East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="国际频道",HBO
-http://fl2.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 tvg-id="HBOComedyEast.us" tvg-name="HBO Comedy East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HBO_Comedy_%282014%29.svg/512px-HBO_Comedy_%282014%29.svg.png" group-title="国际频道",HBO Comedy
-http://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8
-#EXTINF:-1 tvg-id="HBOFamilyEast.us" tvg-name="HBO Family East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="国际频道",HBO Family
-http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="HBOZoneEast.us" tvg-name="HBO Zone East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/512px-HBO_Zone_%282014%29.svg.png" group-title="国际频道",HBO Zone
-http://fl5.moveonjoy.com/HBO_ZONE/index.m3u8
-#EXTINF:-1 tvg-id="HBOSignatureEast.us" tvg-name="HBOSignatureEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Signature_%282014%29.svg/512px-HBO_Signature_%282014%29.svg.png" group-title="国际频道",HBO Signature
-http://67.220.74.90:25461/18736836/73683618/5047
-#EXTINF:-1 tvg-id="HBO2East.us" tvg-name="HBO2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/512px-HBO_2_%282014%29.svg.png" group-title="国际频道",HBO2
-https://fl2.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 tvg-id="CinemaxEast.us" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png" group-title="国际频道",Cinemax
-http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
-#EXTINF:-1 tvg-id="MoreMaxEast.us" tvg-name="MoreMaxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/512px-MoreMax_Logo.svg.png" group-title="国际频道",MoreMax
-http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
-#EXTINF:-1 tvg-id="5StarMaxEast.us" tvg-name="5StarMaxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/5StarMax_Logo.svg/512px-5StarMax_Logo.svg.png" group-title="国际频道",5StarMax
-http://67.220.74.90:25461/18736836/73683618/5038
-#EXTINF:-1 tvg-id="ActionMaxEast.us" tvg-name="ActionMaxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/512px-ActionMax_logo.svg.png" group-title="国际频道",ActionMax
-http://67.220.74.90:25461/18736836/73683618/5032
-#EXTINF:-1 tvg-id="ParamountNetworkEast.us" tvg-name="ParamountNetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="国际频道",Paramount Network
-http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="SyfyEast.us" tvg-name="Syfy" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="国际频道",Syfy
-http://fl2.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1 tvg-id="LifetimeEast.us" tvg-name="LifetimeEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="国际频道",LifeTime
-http://fl2.moveonjoy.com/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-id="LifetimeMoviesEast.us" tvg-name="Lifetime Movies East" tvg-logo="https://i.imgur.com/BWmqYTO.png" group-title="国际频道",Lifetime Movies
-http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-name="Showtime East" tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="国际频道",Showtime
-http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-id="ShowtimeExtremeEast.us" tvg-name="Showtime Extreme" tvg-logo="https://i.imgur.com/byJNJdm.png" group-title="国际频道",Showtime Extreme
-http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-name="Comedy Central East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="国际频道",	Comedy Central
+#EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-name="Comedy Central East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="国际卡通",	Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1 tvg-id="VH1East.us" tvg-name="VH1 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="国际频道",VH1
+#EXTINF:-1 tvg-id="ANIMAX.ph" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch150_425_305" group-title="国际卡通",Animax
+https://wag.ika.lat/stream/870547344
+#EXTINF:-1 tvg-name="MTV Live音樂頻道.tw" tvg-logo="https://i.imgur.com/St5DhAU.png" group-title="影视娱乐",MTV Live 国际
+http://37.27.111.214:8080/live/25/hls.m3u8
+#EXTINF:-1 tvg-name="MTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="影视娱乐",MTV
+http://fl2.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 tvg-name="MTV Live.us" tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="影视娱乐",MTV Live 美国
+http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-name="MTV2East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/512px-MTV2_logo_2013.svg.png" group-title="影视娱乐",MTV2
+http://fl2.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 tvg-name="MTVU.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/512px-MTVU_Logo_%282016%E2%80%93present%29.svg.png" group-title="影视娱乐",MTVU
+http://fl2.moveonjoy.com/MTV_U/index.m3u8
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-name="AMC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="影视娱乐",AMC
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="AMCPlus.us" tvg-logo="https://i.imgur.com/abtANyj.png" group-title="影视娱乐",AMC PLUS
+https://eja.tv/?912a17c4051a1822f20fb9b664b05d92.m3u8
+#EXTINF:-1 tvg-id="SonyMovies.us" tvg-name="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="影视娱乐",索尼电影台
+http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="StarzEast.us" tvg-name="StarzEast.us" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="影视娱乐",Starz
+http://fl2.moveonjoy.com/starz/index.m3u8
+#EXTINF:-1 tvg-id="StarzEdgeEast.us" tvg-name="Starz Edge East" tvg-logo="https://i.imgur.com/MvH3Cz2.png" group-title="影视娱乐",Starz Edge
+http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1 tvg-id="FXEast.us" tvg-name="FX East" tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="影视娱乐",FX
+http://fl2.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 tvg-id="FXXEast.us" tvg-name="FXX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png" group-title="影视娱乐",FXX East
+http://fl2.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 tvg-id="HBOEast.us" tvg-name="HBO East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="影视娱乐",HBO
+http://fl2.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 tvg-id="HBOComedyEast.us" tvg-name="HBO Comedy East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HBO_Comedy_%282014%29.svg/512px-HBO_Comedy_%282014%29.svg.png" group-title="影视娱乐",HBO Comedy
+http://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-id="HBOFamilyEast.us" tvg-name="HBO Family East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="影视娱乐",HBO Family
+http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="HBOZoneEast.us" tvg-name="HBO Zone East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/512px-HBO_Zone_%282014%29.svg.png" group-title="影视娱乐",HBO Zone
+http://fl5.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-id="HBOSignatureEast.us" tvg-name="HBOSignatureEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Signature_%282014%29.svg/512px-HBO_Signature_%282014%29.svg.png" group-title="影视娱乐",HBO Signature
+http://67.220.74.90:25461/18736836/73683618/5047
+#EXTINF:-1 tvg-id="HBO2East.us" tvg-name="HBO2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/512px-HBO_2_%282014%29.svg.png" group-title="影视娱乐",HBO2
+https://fl2.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxEast.us" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png" group-title="影视娱乐",Cinemax
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="MoreMaxEast.us" tvg-name="MoreMaxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/512px-MoreMax_Logo.svg.png" group-title="影视娱乐",MoreMax
+http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+#EXTINF:-1 tvg-id="5StarMaxEast.us" tvg-name="5StarMaxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/5StarMax_Logo.svg/512px-5StarMax_Logo.svg.png" group-title="影视娱乐",5StarMax
+http://67.220.74.90:25461/18736836/73683618/5038
+#EXTINF:-1 tvg-id="ActionMaxEast.us" tvg-name="ActionMaxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/512px-ActionMax_logo.svg.png" group-title="影视娱乐",ActionMax
+http://67.220.74.90:25461/18736836/73683618/5032
+#EXTINF:-1 tvg-id="ParamountNetworkEast.us" tvg-name="ParamountNetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="影视娱乐",Paramount Network
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="SyfyEast.us" tvg-name="Syfy" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="影视娱乐",Syfy
+http://fl2.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeEast.us" tvg-name="LifetimeEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="影视娱乐",LifeTime
+http://fl2.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeMoviesEast.us" tvg-name="Lifetime Movies East" tvg-logo="https://i.imgur.com/BWmqYTO.png" group-title="影视娱乐",Lifetime Movies
+http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-name="Showtime East" tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="影视娱乐",Showtime
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeExtremeEast.us" tvg-name="Showtime Extreme" tvg-logo="https://i.imgur.com/byJNJdm.png" group-title="影视娱乐",Showtime Extreme
+http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 tvg-id="VH1East.us" tvg-name="VH1 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="影视娱乐",VH1
 http://fl2.moveonjoy.com/VH1/index.m3u8
-#EXTINF:-1 tvg-id="BravoEast.us" tvg-name="Bravo" tvg-logo="https://i.imgur.com/JmTIRLF.png" group-title="国际频道",Bravo
+#EXTINF:-1 tvg-id="BravoEast.us" tvg-name="Bravo" tvg-logo="https://i.imgur.com/JmTIRLF.png" group-title="影视娱乐",Bravo
 https://fl2.moveonjoy.com/BRAVO/index.m3u8
-#EXTINF:-1 tvg-id="HallmarkChannelEast.us" tvg-name="HallmarkChannelEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png" group-title="国际频道",Hallmark Channel
+#EXTINF:-1 tvg-id="HallmarkChannelEast.us" tvg-name="HallmarkChannelEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png" group-title="影视娱乐",Hallmark Channel
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="Hallmark Family.us" tvg-name="Hallmark Family.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hallmark_Family_2024.svg/800px-Hallmark_Family_2024.svg.png" group-title="国际频道",Hallmark Family
+#EXTINF:-1 tvg-id="Hallmark Family.us" tvg-name="Hallmark Family.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hallmark_Family_2024.svg/800px-Hallmark_Family_2024.svg.png" group-title="影视娱乐",Hallmark Family
 http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-#EXTINF:-1 tvg-id="Hallmark Mysteries.us" tvg-name="Hallmark Family.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hallmark_Mystery_2024.svg/500px-Hallmark_Mystery_2024.svg.png" group-title="国际频道",Hallmark Mysteries
+#EXTINF:-1 tvg-id="Hallmark Mysteries.us" tvg-name="Hallmark Family.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hallmark_Mystery_2024.svg/500px-Hallmark_Mystery_2024.svg.png" group-title="影视娱乐",Hallmark Mysteries
 http://fl2.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
-#EXTINF:-1 tvg-id="USANetworkEast.us" tvg-name="USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="国际频道",USA Network
+#EXTINF:-1 tvg-id="USANetworkEast.us" tvg-name="USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="影视娱乐",USA Network
 http://fl2.moveonjoy.com/USA_Network/index.m3u8
-#EXTINF:-1 tvg-id="TNTEast.us" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="国际频道",TNT
+#EXTINF:-1 tvg-id="TNTEast.us" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="影视娱乐",TNT
 https://fl2.moveonjoy.com/TNT/index.m3u8
-#EXTINF:-1 tvg-id="EEast.us" tvg-name="E! East" tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="国际频道",E! East
+#EXTINF:-1 tvg-id="EEast.us" tvg-name="E! East" tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="影视娱乐",E! East
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-#EXTINF:-1 tvg-id="Oxygen (East)" tvg-name="Oxygen (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/512px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="国际频道",Oxygen
+#EXTINF:-1 tvg-id="Oxygen (East)" tvg-name="Oxygen (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/512px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="影视娱乐",Oxygen
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
-#EXTINF:-1 tvg-id="truTV East" tvg-name="truTV East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/512px-TruTV_2014.svg.png" group-title="国际频道",truTV
+#EXTINF:-1 tvg-id="truTV East" tvg-name="truTV East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/512px-TruTV_2014.svg.png" group-title="影视娱乐",truTV
 http://fl2.moveonjoy.com/TRU_TV/index.m3u8
-#EXTINF:-1 tvg-id="Logo East" tvg-name="Logo East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/512px-Logo_TV_2015.svg.png" group-title="国际频道",Logo TV
+#EXTINF:-1 tvg-id="Logo East" tvg-name="Logo East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/512px-Logo_TV_2015.svg.png" group-title="影视娱乐",Logo TV
 http://fl3.moveonjoy.com/Logo/index.m3u8
-#EXTINF:-1 tvg-id="AandE Network (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="国际频道",A&E
+#EXTINF:-1 tvg-id="AandE Network (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="影视娱乐",A&E
 http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/2746
-#EXTINF:-1 tvg-id="IFCEast.us" tvg-name="IFCEast.us" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="国际频道",IFC
+#EXTINF:-1 tvg-id="IFCEast.us" tvg-name="IFCEast.us" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="影视娱乐",IFC
 http://streamsy.online:2999/live/juanv/04bodwaga0/151.m3u8
-#EXTINF:-1 tvg-id="PopTV.us" tvg-name="PopTV.us" tvg-logo="https://i.imgur.com/XySNnh0.png" group-title="国际频道",PopTV
+#EXTINF:-1 tvg-id="PopTV.us" tvg-name="PopTV.us" tvg-logo="https://i.imgur.com/XySNnh0.png" group-title="影视娱乐",PopTV
 http://streamsy.online:2999/live/juanv/04bodwaga0/226.m3u8
 #EXTINF:-1 tvg-id="BBC ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="国际频道",BBC ONE
 https://livetvde.net/bbcone/index.m3u8?token=1cc17040708b966c61289109e9046297c7a5e124-30e1286ea01ad5800cc72d646b788859-1729718195-1729707395
@@ -253,8 +267,6 @@ https://livetvde.net/bbctwo/index.m3u8?token=7e15ff6c9f8f5570df54942d5bcd0a3184d
 https://livetvde.net/bbcthree/index.m3u8?token=93423a843f9f8ab60c1be6e2e74ff4123a58e321-8c5f9c40ba6ac5f3e885f0da82504f67-1729718744-1729707944
 #EXTINF:-1 tvg-id="BBC Four" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" group-title="国际频道",BBC Four
 https://livetvde.net/bbcfour/index.m3u8?token=769250c4599a77ebfed35315b2f2b45cc67ac445-b8c6470b77dd92e0ab5361b5d514770b-1729718867-1729708067
-#EXTINF:-1 tvg-id="AXN.ph" tvg-logo="https://i.imgur.com/OO6mWTx.png" group-title="国际频道",AXN
-https://wag.ika.lat/stream/2084767267
 #EXTINF:-1 tvg-id="Animal Planet HD.in" tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/640px-2018_Animal_Planet_logo.svg.png" group-title="国际频道",Animal Planet HD 印度源
 http://bisdaktv.store/live/Animal_Planet.m3u8
 #EXTINF:-1 tvg-id="Discovery HD World" tvg-name="Discovery Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="国际频道",Discovery Channel HD 印度源
@@ -263,20 +275,8 @@ http://bisdaktv.store/live/discoveryenglish.m3u8
 http://bisdaktv.store/live/TRVL_Channel.m3u8
 #EXTINF:-1 tvg-id="TLC (HD).sg" tvg-name="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="国际频道",TLC 印度源
 http://bisdaktv.store/live/TLC.m3u8
-#EXTINF:-1 tvg-id="HGTVAsia.us" tvg-name="HGTV Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="国际频道",HGTV 印度源
-http://bisdaktv.store/live/HGTV.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.in" tvg-name="Investigation Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="国际频道",Investigation Discovery 印度源
 http://bisdaktv.store/live/Investigation_Discovery.m3u8
-#EXTINF:-1 tvg-id="DMAXSoutheastAsia.sg" tvg-name="DMAX Southeast Asia" tvg-logo="https://i.imgur.com/En2sLlW.png" group-title="国际频道",DMAX Southeast Asia
-https://hls.xhzb.tw/4987/natgeohd_twn/playlist.m3u8?type=fdc
-#EXTINF:-1 tvg-id="tvNAsia.my" tvg-name="tvN Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" group-title="国际频道",tvN Asia
-https://hls.xhzb.tw/4987/TVN/playlist.m3u8?type=fdc
-#EXTINF:-1 tvg-id="tvNMoviesAsia.my" tvg-name="tvN Movies Asia" tvg-logo="https://i.imgur.com/c4XvwO2.png" group-title="国际频道",tvN Movies Asia
-http://210.210.155.35/uq2663/h/h21/index.m3u8
-#EXTINF:-1 tvg-id="ROCKAction.sg" tvg-name="ROCK Action" tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="国际频道",ROCK Action
-https://hls.xhzb.tw/4987/Rockaction/playlist.m3u8?type=fdc
-#EXTINF:-1 tvg-id="ROCKEntertainment.sg" tvg-name="ROCK Entertainment" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="国际频道",ROCK Entertainment
-https://hls.xhzb.tw/4987/Rockentertain/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-name="KBS World" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="港台日韩",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-id="KBS1TV.kr" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="港台日韩",KBS 1TV
@@ -289,8 +289,6 @@ http://mytv.dothome.co.kr/ch/catv/2.php
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 tvg-name="SBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="港台日韩",SBS
 http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 tvg-id="YTN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/512px-YTN_logo_2014.svg.png" group-title="港台日韩",YTN
-https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
 #EXTINF:-1 tvg-name="台視.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/43/TTV_Home_Channel_with_HD_2016.png" group-title="港台日韩",台視主频
 https://hls.xhzb.tw/4987/ttv_taiwan/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-name="台視新聞台.tw" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="港台日韩",台視新聞台
@@ -357,10 +355,10 @@ https://tbs4.mov3.co/hls/tbs.m3u8
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=SD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="テレビ東京.jp" tvg-name="テレビ東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/TV_Tokyo_%28Japanese%29_2023.svg/512px-TV_Tokyo_%28Japanese%29_2023.svg.png" group-title="港台日韩",TV Tokyo (テレビ東京)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=SD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="BSテレ東.jp" tvg-name="BSテレ東.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/BS_TV_Tokyo_%28Japanese%29_2023.png" group-title="港台日韩",WOWOW Prime
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="WOWOWPrime.jp" tvg-name="WOWOWPrime.jp" tvg-logo="https://i.imgur.com/vACq7w8.png" group-title="港台日韩",BS TV Tokyo (BS テレ東)
+#EXTINF:-1 tvg-id="BSテレ東.jp" tvg-name="BSテレ東.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/BS_TV_Tokyo_%28Japanese%29_2023.png" group-title="港台日韩",BS TV Tokyo (BS テレ東)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=SD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="WOWOWPrime.jp" tvg-name="WOWOWPrime.jp" tvg-logo="https://i.imgur.com/vACq7w8.png" group-title="港台日韩",WOWOW Prime
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="Mnet.jp" tvg-name="Mnet.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png" group-title="港台日韩",Mnet (日本版)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=SD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="TVB翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港台日韩",翡翠台
