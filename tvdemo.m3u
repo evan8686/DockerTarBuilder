@@ -67,8 +67,10 @@ https://hls.xhzb.tw/4987/Astrobein1/playlist.m3u8?type=fdc
 http://defaultgen.com:3050/JeffR2/NsNa3v3jRB/508252
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="SkySportsF1.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="国际体育",SkySports F1
 http://defaultgen.com:3050/JeffR2/NsNa3v3jRB/508246
-#EXTINF:-1 tvg-id="Eurosport 1.uk" tvg-name="Eurosport 1" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="国际体育",Eurosport 1 
-https://off5.jismhaitokia.com:999/hls/eurosp1.m3u8?md5=ATjH7_sj0JjvqIZRQs8cJQ&expires=1729708241
+#EXTINF:-1 tvg-id="Eurosport 1.uk" tvg-name="Eurosport 1" tvg-logo="https://tv.assets.pressassociation.io/08d5adde-34fa-50ce-94d1-58bdf387d054.png",Eurosport
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
+https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 #EXTINF:-1 tvg-id="Eurosport 2.uk" tvg-name="Eurosport 2" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="国际体育",Eurosport 2 
 https://off5.jismhaitokia.com:999/hls/eurosp2.m3u8?md5=F43mI9iDeQaV6-Lp4nnXOg&expires=1729710094
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNTSports1.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="国际体育",TNTSports 1
