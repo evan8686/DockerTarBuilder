@@ -387,9 +387,9 @@ https://hls.xhzb.tw/4987/AEC/playlist.m3u8?type=fdc
 https://hls.xhzb.tw/4987/Quanjia/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-id="AstroHuaHeeDai.my" tvg-name="AstroHuaHeeDai.my" tvg-logo="https://i.imgur.com/fwTP9PS.png" group-title="新马地区",Astro 欢喜台
 https://hls.xhzb.tw/4987/Huahee/playlist.m3u8?type=fdc
-#EXTINF:-1 tvg-id="AstroWahLaiToi.my" tvg-name="AstroWahLaiToi.my" tvg-logo="https://i.imgur.com/v3Cs1GP.png" group-title="新马地区",Astro 华丽台
+#EXTINF:-1 tvg-id="TVB Jade.my" tvg-name="TVB Jade.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/640px-TVB_Jade_logo.svg.png" group-title="新马地区",Astro TVB Jade
 https://hls.xhzb.tw/4987/Jade_xue/playlist.m3u8?md5=-sxkkWpAYoLpb7EdkmtX3Q&expires=1729621445
-#EXTINF:-1 tvg-id="Astroiqiyi.my" tvg-name="Astro iQIYI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/IQIYI_logo_%282022%29.svg/640px-IQIYI_logo_%282022%29.svg.png" group-title="新马地区",Astro iQIYI
+#EXTINF:-1 tvg-id="Astroiqiyi.my" tvg-name="Astroiqiyi.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/IQIYI_logo_%282022%29.svg/640px-IQIYI_logo_%282022%29.svg.png" group-title="新马地区",Astro iQIYI
 https://hls.xhzb.tw/4987/Qiyi/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV.my" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-title="新马地区",8度空间
 https://hls.xhzb.tw/4987/TV8/playlist.m3u8?type=fdc
