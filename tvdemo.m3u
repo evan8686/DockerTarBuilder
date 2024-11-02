@@ -35,17 +35,19 @@ https://eja.tv/?0b62c0be581cbeb9af1bb60973de79c2.m3u8
 https://eja.tv/?572acd8269b37c1490ffce85d7ac7037.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="国际新闻",ABC News
 https://eja.tv/play/?https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8erSideAds=false&sid=99b21a01-5948-4846-8087-2fee1b5f0a3d
-#EXTINF:-1 tvg-name="FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="国际新闻",FOX NEWS
+#EXTINF:-1 tvg-id="FOX NEWS" tvg-name="FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="国际新闻",FOX NEWS
 http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
-#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://live.fanmingming.com/tv/CNBC.png" group-title="国际新闻",CNBC商业资讯
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://live.fanmingming.com/tv/CNBC.png" group-title="国际新闻",CNBC商业资讯
 http://fl2.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 tvg-name="MSNBC.us" tvg-logo="https://i.imgur.com/kGUR6NE.png" group-title="国际新闻",MSNBC
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC.us" tvg-logo="https://i.imgur.com/kGUR6NE.png" group-title="国际新闻",MSNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 tvg-name="NBC NEWS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-news-now-us.png?raw=true" group-title="国际新闻",NBC NEWS
+#EXTINF:-1 tvg-id="NBC NEWS" tvg-name="NBC NEWS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-news-now-us.png?raw=true" group-title="国际新闻",NBC NEWS
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_5055600/index.m3u8?blog.ntnas.top
+#EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="TheWeatherChannel.us" tvg-logo="https://i.imgur.com/PIaNjfa.png" group-title="国际新闻",The Weather Channel
+http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-name="Global News" tvg-logo="https://i.imgur.com/xk1QOhW.png" group-title="国际新闻",Global News
 https://eja.tv/?3bf49234605c29ad03d38c04ca14a4fc.m3u8
-#EXTINF:-1 tvg-id="YTN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/512px-YTN_logo_2014.svg.png" group-title="港台日韩",YTN
+#EXTINF:-1 tvg-id="YTN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/512px-YTN_logo_2014.svg.png" group-title="国际新闻",YTN
 https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
 #EXTINF:-1 tvg-id="WOLODT.us" tvg-name="WOLODT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="国际频道",ABC East
 http://fl2.moveonjoy.com/ABC_EAST/index.m3u8
@@ -61,6 +63,14 @@ http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="NBA.us" tvg-name="NBA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="国际体育",NBA TV
 http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" tvg-name="CBSSportsNetworkUSA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="国际体育",CBS Sports Network
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FoxSports1.us" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="国际体育",FoxSports1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="FoxSports2.us" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="国际体育",FoxSports2
+http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="beINSports1.us" tvg-logo="https://i.imgur.com/HvuEiZx.png" group-title="国际体育",beINSports
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="beINSports1.my" tvg-name="beINSports1.my" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="国际体育",beINSports1
 https://hls.xhzb.tw/4987/Astrobein1/playlist.m3u8?type=fdce
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="SkySportsMainEvent.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="国际体育",SkySports MainEvent
@@ -211,10 +221,16 @@ http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 http://fl2.moveonjoy.com/starz/index.m3u8
 #EXTINF:-1 tvg-id="StarzEdgeEast.us" tvg-name="Starz Edge East" tvg-logo="https://i.imgur.com/MvH3Cz2.png" group-title="影视娱乐",Starz Edge
 http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreEast.us" tvg-name="StarzEncoreEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/640px-Starz_Encore_Logo_2022.svg.png" group-title="影视娱乐",Starz Encore
+http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreActionWest.us" tvg-name="StarzEncoreActionWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Starz_Encore_Action_Logo_2022.svg/640px-Starz_Encore_Action_Logo_2022.svg.png" group-title="影视娱乐",Starz Encore Action
+http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 #EXTINF:-1 tvg-id="FXEast.us" tvg-name="FX East" tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="影视娱乐",FX
 http://fl2.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 tvg-id="FXXEast.us" tvg-name="FXX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png" group-title="影视娱乐",FXX East
+#EXTINF:-1 tvg-id="FXXEast.us" tvg-name="FXX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png" group-title="影视娱乐",FXX
 http://fl2.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-name="FXMovieChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="影视娱乐",FXM
+http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1 tvg-id="HBOEast.us" tvg-name="HBO East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="影视娱乐",HBO
 http://fl2.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 tvg-id="HBOComedyEast.us" tvg-name="HBO Comedy East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HBO_Comedy_%282014%29.svg/512px-HBO_Comedy_%282014%29.svg.png" group-title="影视娱乐",HBO Comedy
@@ -247,6 +263,8 @@ http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1 tvg-id="ShowtimeExtremeEast.us" tvg-name="Showtime Extreme" tvg-logo="https://i.imgur.com/byJNJdm.png" group-title="影视娱乐",Showtime Extreme
 http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeNextEast.us" tvg-name="ShowtimeNextEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Showtime_Next.svg/640px-Showtime_Next.svg.png" group-title="影视娱乐",Showtime Next
+http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 #EXTINF:-1 tvg-id="VH1East.us" tvg-name="VH1 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="影视娱乐",VH1
 http://fl2.moveonjoy.com/VH1/index.m3u8
 #EXTINF:-1 tvg-id="BravoEast.us" tvg-name="Bravo" tvg-logo="https://i.imgur.com/JmTIRLF.png" group-title="影视娱乐",Bravo
