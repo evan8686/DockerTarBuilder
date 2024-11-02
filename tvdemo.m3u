@@ -71,6 +71,10 @@ http://defaultgen.com:3050/JeffR2/NsNa3v3jRB/508246
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
 https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
+#EXTINF:-1 tvg-id="EUROSPORT2.uk" tvg-name="EUROSPORT2.uk" tvg-logo="https://i.imgur.com/s4jDnJh.png", group-title="国际体育",Eurosport 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=KnDkREkIMoms7ZfzGQCTrw&expires=1924963199
+https://off3.jismhaitokia.com:999/hls/eurosp2.m3u8
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNTSports1.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="国际体育",TNTSports 1
 http://45.148.145.152:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/755417.m3u8?token=HRtYUkpaEAMVVVkCV10KV1NUV1UHWwAAUVYMAQECAAIECARRXQpQDgYTTRAXTUoGVFxrXQYaClYGAQFTDk9BQBVcQmxQVhADFQNYBVEIGk8XRV1ZBxoKUR8WRQtdQVlbE1VcHxtXSk1SQw9TCGZcBkNYV1FAAl4UX1gZQFYNPFEDVFFdXRAIGwYTTRANSkhBD19BWA4UEgNaQEcDTQZBDwhMXF8VEFFWQl8VQB0bAkFleRYYQF1IFVZaRgtWDUEPRFQDRgEQHhteQj5AAUpMEVBQWVEQGgpDAxYZQFQCG2oFVl5dXFFGUFhfEhBeGwpBGRNZWwxRRA5Ba0ULXUFZWxNVXE4=
 #EXTINF:-1 tvg-id="HITS.sg" tvg-name="HITS.sg" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="影视娱乐",Hits电影台
@@ -268,7 +272,9 @@ http://streamsy.online:2999/live/juanv/04bodwaga0/151.m3u8
 #EXTINF:-1 tvg-id="PopTV.us" tvg-name="PopTV.us" tvg-logo="https://i.imgur.com/XySNnh0.png" group-title="影视娱乐",PopTV
 http://streamsy.online:2999/live/juanv/04bodwaga0/226.m3u8
 #EXTINF:-1 tvg-id="BBC ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="国际频道",BBC ONE
-https://livetvde.net/bbcone/index.m3u8?token=1cc17040708b966c61289109e9046297c7a5e124-30e1286ea01ad5800cc72d646b788859-1729718195-1729707395
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1cc17040708b966c61289109e9046297c7a5e124-30e1286ea01ad5800cc72d646b788859-1729718195-172970739547c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
+https://livetvde.net/bbcone/index.m3u8
 #EXTINF:-1 tvg-id="BBC Two" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="国际频道",BBC Two
 https://livetvde.net/bbctwo/index.m3u8?token=7e15ff6c9f8f5570df54942d5bcd0a3184dc0f30-2382c9175257ca94eb615c1a01798478-1729718780-1729707980
 #EXTINF:-1 tvg-id="BBC Three" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png" group-title="国际频道",BBC Three
