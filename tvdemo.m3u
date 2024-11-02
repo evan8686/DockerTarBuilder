@@ -83,7 +83,7 @@ http://37.27.111.214:8080/live/28/hls.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://biznet2.freemiumiptv.top/mnclokal/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+https://biznet2.freemiumiptv.top/mnclokal/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36"
 #EXTINF:-1 tvg-name="CinemaWorld.sg" tvg-name="CinemaWorld.sg" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="影视娱乐",CinemaWorld电影台
 http://37.27.111.214:8080/live/30/hls.m3u8
 #EXTINF:-1 tvg-id="amc電影台.tw" tvg-name="amc電影台.tw" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@33@1546_20240103152142.jpg" group-title="影视娱乐",amc电影台
