@@ -439,3 +439,13 @@ https://cadena100-cope-rrcast.flumotion.com/cope/cadena100.mp3
 https://21223.live.streamtheworld.com/CADENADIALAAC.aac
 #EXTINF:-1 tvg-id="107.5 Wish FM" tvg-name="107.5 Wish FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Wish_107.5_%282015%29.svg/768px-Wish_107.5_%282015%29.svg.png" group-title="Radio",107.5 Wish FM
 https://radio.wish1075.com/web/stream/wish.m3u8
+#EXTINF:-1 tvg-id="Asia FM 亚洲音乐台" tvg-name="Asia FM 亚洲音乐台" tvg-logo="https://cdn-profiles.tunein.com/s158851/images/logod.jpg" group-title="Radio",Asia FM 亚洲音乐台
+https://lhttp.qtfm.cn/live/4581/64k.mp3
+#EXTINF:-1 tvg-id="iCRT FM100" tvg-name="iCRT FM100" tvg-logo="https://cdn-radiotime-logos.tunein.com/s7198d.png" group-title="Radio",iCRT FM100
+https://n13.rcs.revma.com/nkdfurztxp3vv?rj-ttl=5&rj-tok=AAABku3HBMYAmULMtOhQtZmVlg
+#EXTINF:-1 tvg-id="Hit FM联播网" tvg-name="Hit FM联播网" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/6/67/Hito_Radio_logo.svg/640px-Hito_Radio_logo.svg.png" group-title="Radio",Hit FM联播网
+https://hitoradioweb-hichannel.cdn.hinet.net/live/RA000036/playlist.m3u8?token1=Q7yshLXS8Vjr5Coqw0P3lA&token2=gC0WaEN3ESOWYji51C16mw&expire1=1730566395&expire2=1730587695
+#EXTINF:-1 tvg-id="Whisperings Solo Piano" tvg-name="Whisperings Solo Piano" tvg-logo="https://player.streamguys.com/pianosolo/sgplayer3.1/include/image/album_art.jpg" group-title="Radio",Whisperings Solo Piano
+https://pianosolo.streamguys1.com/live?aw_0_req.gdpr=true&awparams=companionAds%3Atrue&listenerid=2c3c32b8c342503be5934e3e1cd18234&us_privacy=1YNN&us_privacy=1YNN
+#EXTINF:-1 tvg-id="CRI南海之声" tvg-name="CRI南海之声" tvg-logo="https://ytmedia.radio.cn/CCYT%2F202302%2F09%2F19%2F9ENhzqFlqa202302091967.png" group-title="Radio",CRI南海之声
+https://sk.cri.cn/nhzs.m3u8
