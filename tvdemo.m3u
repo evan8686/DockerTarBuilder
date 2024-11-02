@@ -101,6 +101,10 @@ http://210.210.155.35/uq2663/h/h21/index.m3u8
 https://hls.xhzb.tw/4987/Rockaction/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-id="ROCKEntertainment.sg" tvg-name="ROCK Entertainment" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="影视娱乐",ROCK Entertainment
 https://hls.xhzb.tw/4987/Rockentertain/playlist.m3u8?type=fdc
+#EXTINF:-1 tvg-id="ROCKEntertainment.sg" tvg-name="ROCK Entertainment" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="影视娱乐",ROCK Entertainment （中字）
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9229814c629b406f8de98d2f23c968a0:40b9f250455b43b3b2ea6845ab81abca
+https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd
 #EXTINF:-1 tvg-id="Star Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/536px-STAR_Movies_logo.svg.png" group-title="影视娱乐",Star Movies HD
 http://starshare.live:8080/live/anita123/anita123/9384.m3u8
 #EXTINF:-1 tvg-id="DiscoveryAsia.sg" tvg-name="Discovery Asia" tvg-logo="https://i.imgur.com/foLICwL.png" group-title="科教记录",Discovery Asia
@@ -271,16 +275,24 @@ http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/2746
 http://streamsy.online:2999/live/juanv/04bodwaga0/151.m3u8
 #EXTINF:-1 tvg-id="PopTV.us" tvg-name="PopTV.us" tvg-logo="https://i.imgur.com/XySNnh0.png" group-title="影视娱乐",PopTV
 http://streamsy.online:2999/live/juanv/04bodwaga0/226.m3u8
+#EXTINF:-1 tvg-id="BBC America" tvg-name="BBC America" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="国际频道",	BBC America
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="BBC ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="国际频道",BBC ONE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1cc17040708b966c61289109e9046297c7a5e124-30e1286ea01ad5800cc72d646b788859-1729718195-172970739547c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
-https://livetvde.net/bbcone/index.m3u8
+http://fortv.cc:8080/5ybSS2/616430/53649
 #EXTINF:-1 tvg-id="BBC Two" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="国际频道",BBC Two
-https://livetvde.net/bbctwo/index.m3u8?token=7e15ff6c9f8f5570df54942d5bcd0a3184dc0f30-2382c9175257ca94eb615c1a01798478-1729718780-1729707980
+http://fortv.cc:8080/5ybSS2/616430/53650
 #EXTINF:-1 tvg-id="BBC Three" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png" group-title="国际频道",BBC Three
 https://livetvde.net/bbcthree/index.m3u8?token=93423a843f9f8ab60c1be6e2e74ff4123a58e321-8c5f9c40ba6ac5f3e885f0da82504f67-1729718744-1729707944
 #EXTINF:-1 tvg-id="BBC Four" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" group-title="国际频道",BBC Four
 https://livetvde.net/bbcfour/index.m3u8?token=769250c4599a77ebfed35315b2f2b45cc67ac445-b8c6470b77dd92e0ab5361b5d514770b-1729718867-1729708067
+#EXTINF:-1 tvg-id="iTV1.uk" tvg-logo="https://i.imgur.com/xwPekCF.png" group-title="国际频道",iTV 1
+http://fortv.cc:8080/5ybSS2/616430/53651
+#EXTINF:-1 tvg-id="iTV2.uk" tvg-logo="https://i.imgur.com/2BpUK0W.png" group-title="国际频道",iTV 2
+http://fortv.cc:8080/5ybSS2/616430/53671
+#EXTINF:-1 tvg-id="iTV3.uk" tvg-logo="https://i.imgur.com/JuyM2z5.png" group-title="国际频道",iTV 3
+http://fortv.cc:8080/5ybSS2/616430/53665
+#EXTINF:-1 tvg-id="iTV4.uk" tvg-logo="https://i.imgur.com/DYI4IA2.png" group-title="国际频道",iTV 4
+http://fortv.cc:8080/5ybSS2/616430/53666
 #EXTINF:-1 tvg-id="Animal Planet HD.in" tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/640px-2018_Animal_Planet_logo.svg.png" group-title="国际频道",Animal Planet HD 印度源
 http://bisdaktv.store/live/Animal_Planet.m3u8
 #EXTINF:-1 tvg-id="Discovery HD World" tvg-name="Discovery Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="国际频道",Discovery Channel HD 印度源
@@ -415,3 +427,15 @@ https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/b
 https://media-ice.musicradio.com/CapitalMP3
 #EXTINF:-1 tvg-id="Capital Extra" tvg-name="Capital Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Capital_Xtra_2022.svg/640px-Capital_Xtra_2022.svg.png" group-title="Radio",Capital Extra
 https://media-ice.musicradio.com/CapitalXTRALondonMP3
+#EXTINF:-1 tvg-id="102.7 KIIS-FM" tvg-name="102.7 KIIS-FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/102.7_KIIS_Fm_logo.svg/640px-102.7_KIIS_Fm_logo.svg.png" group-title="Radio",102.7 KIIS-FM
+https://n18b-e2.revma.ihrhls.com/zc185/hls.m3u8?rj-ttl=5&rj-tok=AAABkuxkVDwA5mH5SMlDed7rWw
+#EXTINF:-1 tvg-id="100.3 Z100 NewYork" tvg-name="100.3 Z100 NewYork" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WHTZ_logo.png" group-title="Radio",100.3 Z100 NewYork
+https://n28b-e2.revma.ihrhls.com/zc1469/40_celu0cen8d7602/playlist.m3u8?rj-ttl=5&rj-tok=AAABkuyGD4IA94QQoAdA06QtUg
+#EXTINF:-1 tvg-id="Los 40 Principales" tvg-name="Los 40 Principales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/640px-Los_40.svg.png" group-title="Radio",Los 40 Principales
+https://25643.live.streamtheworld.com/LOS40
+#EXTINF:-1 tvg-id="Cadena 100" tvg-name="Cadena 100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cadena100-2024.svg/640px-Cadena100-2024.svg.png" group-title="Radio",Cadena 100
+https://cadena100-cope-rrcast.flumotion.com/cope/cadena100.mp3
+#EXTINF:-1 tvg-id="Cadena Dial" tvg-name="Cadena Dial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cadena_Dial_2019_logo.svg/640px-Cadena_Dial_2019_logo.svg.png" group-title="Radio",Cadena Dial
+https://21223.live.streamtheworld.com/CADENADIALAAC.aac
+#EXTINF:-1 tvg-id="107.5 Wish FM" tvg-name="107.5 Wish FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Wish_107.5_%282015%29.svg/768px-Wish_107.5_%282015%29.svg.png" group-title="Radio",107.5 Wish FM
+https://radio.wish1075.com/web/stream/wish.m3u8
