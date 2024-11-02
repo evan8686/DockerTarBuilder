@@ -338,7 +338,9 @@ https://hls.xhzb.tw/4987/ctient/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-name="三立综合" tvg-logo="https://live.fanmingming.com/tv/SETZonghe.png" group-title="港台日韩",三立综合台
 http://37.27.111.214:8080/live/31/hls.m3u8
 #EXTINF:-1 tvg-name="八大綜合台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/GTV_Variety_logo_2018.png" group-title="港台日韩",八大綜合台
-https://ushls.ballbar.net/badazhonghe/playlist-15.m3u8a?t=1729704397&token=00e34ef49106baae53315cffe99a30af&asd=baajncdfffcpahjjmhhnhflmbelpbpli
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2356732f4bd8845ba1a9cd4960b1e322
+https://ushls.ballbar.net/badazhonghe/playlist-15.m3u8a?t=1730530132
 #EXTINF:-1 tvg-id="亞洲旅遊台.tw" tvg-name="亞洲旅遊台.tw" tvg-logo="https://i.imgur.com/ryNIvRQ.png" group-title="港台日韩",AsiaTravel亚洲旅游台
 http://37.27.111.214:8080/live/10/hls.m3u8
 #EXTINF:-1 tvg-id="幸福空間居家台.tw" tvg-name="幸福空間居家台.tw" tvg-logo="https://live.fanmingming.com/tv/幸福空间居家台.png" group-title="港台日韩",幸福空间居家频道
