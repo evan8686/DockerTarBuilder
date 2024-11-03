@@ -87,6 +87,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 https://off3.jismhaitokia.com:999/hls/eurosp2.m3u8
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNTSports1.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="国际体育",TNTSports 1
 http://45.148.145.152:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/755417.m3u8?token=HRtYUkpaEAMVVVkCV10KV1NUV1UHWwAAUVYMAQECAAIECARRXQpQDgYTTRAXTUoGVFxrXQYaClYGAQFTDk9BQBVcQmxQVhADFQNYBVEIGk8XRV1ZBxoKUR8WRQtdQVlbE1VcHxtXSk1SQw9TCGZcBkNYV1FAAl4UX1gZQFYNPFEDVFFdXRAIGwYTTRANSkhBD19BWA4UEgNaQEcDTQZBDwhMXF8VEFFWQl8VQB0bAkFleRYYQF1IFVZaRgtWDUEPRFQDRgEQHhteQj5AAUpMEVBQWVEQGgpDAxYZQFQCG2oFVl5dXFFGUFhfEhBeGwpBGRNZWwxRRA5Ba0ULXUFZWxNVXE4=
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="国际体育",劲爆体育
+http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="国际体育",五星体育
+http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="HITS.sg" tvg-name="HITS.sg" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="影视娱乐",Hits电影台
 http://37.27.111.214:8080/live/28/hls.m3u8
 #EXTINF:-1 tvg-name="CinemaWorld.sg" tvg-name="CinemaWorld.sg" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="影视娱乐",CinemaWorld电影台
