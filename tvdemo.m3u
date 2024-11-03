@@ -293,6 +293,14 @@ http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/2746
 http://streamsy.online:2999/live/juanv/04bodwaga0/151.m3u8
 #EXTINF:-1 tvg-id="PopTV.us" tvg-name="PopTV.us" tvg-logo="https://i.imgur.com/XySNnh0.png" group-title="影视娱乐",PopTV
 http://streamsy.online:2999/live/juanv/04bodwaga0/226.m3u8
+#EXTINF:-1 tvg-id="Crave1.ca" tvg-name="Crave1.ca" tvg-logo="https://asset.entpay.9c9media.ca/image-service/version/c:ODkzOGJiMWQtMDY0YS00:MzliNzc3/image.png" group-title="影视娱乐",Crave1
+http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
+#EXTINF:-1 tvg-id="Crave2.ca" tvg-name="Crave2.ca" tvg-logo="https://asset.entpay.9c9media.ca/image-service/version/c:ZjRkYzFmMjktNzhiNi00:OGZmNmJm/image.png" group-title="影视娱乐",Crave2
+http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:-1 tvg-id="Crave3.ca" tvg-name="Crave3.ca" tvg-logo="https://asset.entpay.9c9media.ca/image-service/version/c:NzVlMmViZTctOGIxMC00:YWU5Zjg5/image.png" group-title="影视娱乐",Crave3
+http://fl3.moveonjoy.com/CRAVE_3/index.m3u8
+#EXTINF:-1 tvg-id="Crave4.ca" tvg-name="Crave4.ca" tvg-logo="https://asset.entpay.9c9media.ca/image-service/version/c:YTgzNjY2MDgtYjFhNy00:NjFhNGU4/image.png" group-title="影视娱乐",Crave4
+http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
 #EXTINF:-1 tvg-id="BBC America" tvg-name="BBC America" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="国际频道",	BBC America
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="BBC ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="国际频道",BBC ONE
