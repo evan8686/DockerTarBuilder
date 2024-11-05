@@ -142,8 +142,6 @@ https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.m
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 #EXTINF:-1 tvg-id="Celestial Movies.my" tvg-name="Celestial Movies.my" tvg-logo="https://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png" group-title="影视娱乐" epg-url="https://epg.pw/api/epg.xml?channel_id=1298",Celestial Movies天映频道
 https://stream1.freetv.fun/df495b640032b8caabb8975837c59ae6b40c74697c8a9039d821f82c1ca18f60.ctv
-#EXTINF:-1 tvg-id="Star Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/536px-STAR_Movies_logo.svg.png" group-title="影视娱乐",Star Movies HD
-http://starshare.live:8080/live/anita123/anita123/9384.m3u8
 #EXTINF:-1 tvg-id="DiscoveryAsia.sg" tvg-name="Discovery Asia" tvg-logo="https://i.imgur.com/foLICwL.png" group-title="科教记录",Discovery Asia
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel (HD).sg" tvg-name="Discovery Channel (HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="科教记录",Discovery(Asia)
@@ -472,6 +470,8 @@ http://bisdaktv.store/live/TRVL_Channel.m3u8
 http://bisdaktv.store/live/TLC.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.in" tvg-name="Investigation Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="国际频道",Investigation Discovery 印度源
 http://bisdaktv.store/live/Investigation_Discovery.m3u8
+#EXTINF:-1 tvg-id="Star Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/536px-STAR_Movies_logo.svg.png" group-title="国际频道",Star Movies HD
+http://starshare.live:8080/live/anita123/anita123/9384.m3u8
 #EXTINF:-1 tvg-id="NatGeographicFinland.fi" tvg-name="NNatGeographicFinland.fi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="国际频道",National Geographic(Finland)
 https://live-fi.tvkaista.net/national-geographic/live.m3u8?src=videojs
 #EXTINF:-1 tvg-name="Global News" tvg-logo="https://i.imgur.com/xk1QOhW.png" group-title="国际频道",Global News
