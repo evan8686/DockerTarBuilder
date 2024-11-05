@@ -50,7 +50,7 @@ http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
 #EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://live.fanmingming.com/tv/CNBC.png" group-title="国际新闻",CNBC商业资讯
 http://fl2.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC.us" tvg-logo="https://i.imgur.com/kGUR6NE.png" group-title="国际新闻",MSNBC
-http://fl2.moveonjoy.com/CNBC/index.m3u8
+http://fl2.moveonjoy.com/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="NBC NEWS" tvg-name="NBC NEWS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-news-now-us.png?raw=true" group-title="国际新闻",NBC NEWS
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_5055600/index.m3u8?blog.ntnas.top
 #EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="TheWeatherChannel.us" tvg-logo="https://i.imgur.com/PIaNjfa.png" group-title="国际新闻",The Weather Channel
@@ -353,7 +353,7 @@ http://bisdaktv.store/live/TLC.m3u8
 http://bisdaktv.store/live/Investigation_Discovery.m3u8
 #EXTINF:-1 tvg-name="KBS World" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="港台日韩",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1 tvg-id="KBS1TV.kr" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="港台日韩",KBS 1TV
+#EXTINF:-1 tvg-id="KBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="港台日韩",KBS 1TV
 http://mytv.dothome.co.kr/ch/public/1.php
 #EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="港台日韩",KBS 2TV
 http://mytv.dothome.co.kr/ch/public/3.php
