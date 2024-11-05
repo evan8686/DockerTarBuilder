@@ -5,7 +5,7 @@ http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226438/index.
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-name=="無線新聞" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB4.png" group-title="国际新闻",無線新聞台
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="国际新闻",凤凰资讯
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="国际新闻" epg-url="https://epg.pw/api/epg.xml?channel_id=368343",凤凰资讯
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="国际新闻",凤凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
@@ -137,6 +137,8 @@ https://hls.xhzb.tw/4987/Rockentertain/playlist.m3u8?type=fdc
 https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd
 #EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" group-title="影视娱乐",PopC
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+#EXTINF:-1 tvg-id="Celestial Movies.my" tvg-name="Celestial Movies.my" tvg-logo="https://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png" group-title="影视娱乐" epg-url="https://epg.pw/api/epg.xml?channel_id=1298",Celestial Movies天映频道
+https://stream1.freetv.fun/df495b640032b8caabb8975837c59ae6b40c74697c8a9039d821f82c1ca18f60.ctv
 #EXTINF:-1 tvg-id="Star Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/536px-STAR_Movies_logo.svg.png" group-title="影视娱乐",Star Movies HD
 http://starshare.live:8080/live/anita123/anita123/9384.m3u8
 #EXTINF:-1 tvg-id="DiscoveryAsia.sg" tvg-name="Discovery Asia" tvg-logo="https://i.imgur.com/foLICwL.png" group-title="科教记录",Discovery Asia
@@ -351,18 +353,16 @@ http://bisdaktv.store/live/TRVL_Channel.m3u8
 http://bisdaktv.store/live/TLC.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.in" tvg-name="Investigation Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="国际频道",Investigation Discovery 印度源
 http://bisdaktv.store/live/Investigation_Discovery.m3u8
-#EXTINF:-1 tvg-name="KBS World" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="港台日韩",KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1 tvg-id="KBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="港台日韩",KBS 1TV
-http://mytv.dothome.co.kr/ch/public/1.php
-#EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="港台日韩",KBS 2TV
-http://mytv.dothome.co.kr/ch/public/3.php
-#EXTINF:-1 tvg-id="KBSDrama.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" group-title="港台日韩",KBS DRAMA
-http://mytv.dothome.co.kr/ch/catv/2.php
-#EXTINF:-1 tvg-name="MBC" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2020/05/06/bff87a59-fb94-4dc3-b0ee-71615d4d9504.jpg" group-title="港台日韩",MBC
-http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-name="SBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="港台日韩",SBS
-http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="TVB翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港台日韩",高清翡翠台
+http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="TVB翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港台日韩",翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 tvg-id="HOYTV.hk" tvg-name="HOY TV" tvg-logo="https://i.imgur.com/NfVZPTT.png" group-title="港台日韩",HOYTV77 
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+#EXTINF:-1 tvg-id="HOYTV78.hk" tvg-name="HOY TV" tvg-logo="https://i.imgur.com/NfVZPTT.png" group-title="港台日韩",HOYTV78
+http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
+#EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="ViuTV.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png" group-title="港台日韩",ViuTV
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 #EXTINF:-1 tvg-name="台視.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/43/TTV_Home_Channel_with_HD_2016.png" group-title="港台日韩",台視主频
 https://hls.xhzb.tw/4987/ttv_taiwan/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-name="台視新聞台.tw" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="港台日韩",台視新聞台
@@ -384,9 +384,9 @@ http://37.27.111.214:8080/live/23/hls.m3u8
 #EXTINF:-1 tvg-name="TVBS 新聞台.tw" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="港台日韩",TVBS新闻台
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-name="TVBS歡樂台.tw" tvg-logo="https://i.imgur.com/vRSyKo6.png" group-title="港台日韩",TVBS欢乐台
-http://61.221.215.25:8800/hls/24/index.m3u8
+https://stream1.freetv.fun/1a817b3f902042c1a779800f86a8ae737f308d92af24e146fcde2e18a35be6e3.m3u8
 #EXTINF:-1 tvg-name="東森新聞台.tw" tvg-logo="https://live.fanmingming.com/tv/EBCNews.png" group-title="港台日韩",东森新闻台
-http://37.27.111.214:8080/live/20/hls.m3u8
+https://stream1.freetv.fun/34438cfe544b494f8d68c7620c788c161e9bc0d59b6261d14b67c8c7900b084f.m3u8
 #EXTINF:-1 tvg-name="東森綜合台.tw" tvg-logo="https://i.imgur.com/H0lfVpg.png" group-title="港台日韩",東森綜合台
 http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
 #EXTINF:-1 tvg-name="中天新闻.tw" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="港台日韩",中天新闻
@@ -394,7 +394,7 @@ http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 #EXTINF:-1 tvg-name="中天綜合台.tw" tvg-logo="https://i.imgur.com/tqsKObw.png" group-title="港台日韩",中天綜合台
 https://hls.xhzb.tw/4987/ctizhonghe/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-name="中天娛樂台.tw" tvg-logo="https://i.imgur.com/FLzDLMv.png" group-title="港台日韩",中天娛樂台
-https://hls.xhzb.tw/4987/ctient/playlist.m3u8?type=fdc
+https://stream1.freetv.fun/6e731a583558b18aeb638aee1225a4c8cdab6f367c51130697829a789f8a6134.m3u8
 #EXTINF:-1 tvg-name="年代新聞.tw" tvg-logo="https://www.eracom.com.tw/t/icon/201805/20180504163902wnLq.png" group-title="港台日韩",年代新聞台
 https://stream1.freetv.fun/nian-dai-xin-wen-3.m3u8
 #EXTINF:-1 tvg-name="三立新聞.tw" tvg-logo="https://i.imgur.com/EGVbAvJ.png" group-title="港台日韩",三立新聞台
@@ -409,6 +409,18 @@ https://ushls.ballbar.net/badazhonghe/playlist-15.m3u8a?t=1730530132
 http://37.27.111.214:8080/live/10/hls.m3u8
 #EXTINF:-1 tvg-id="幸福空間居家台.tw" tvg-name="幸福空間居家台.tw" tvg-logo="https://live.fanmingming.com/tv/幸福空间居家台.png" group-title="港台日韩",幸福空间居家频道
 http://37.27.111.214:8080/live/26/hls.m3u8
+#EXTINF:-1 tvg-name="KBS World" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="港台日韩",KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 tvg-id="KBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="港台日韩",KBS 1TV
+http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="港台日韩",KBS 2TV
+http://mytv.dothome.co.kr/ch/public/3.php
+#EXTINF:-1 tvg-id="KBSDrama.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" group-title="港台日韩",KBS DRAMA
+http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:-1 tvg-name="MBC" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2020/05/06/bff87a59-fb94-4dc3-b0ee-71615d4d9504.jpg" group-title="港台日韩",MBC
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 tvg-name="SBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="港台日韩",SBS
+http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 tvg-id="NHK World-Japan" tvg-name="NHK World Japan" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="港台日韩",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="NHK東京　総合.jp" tvg-name="NHK東京　総合.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="港台日韩",NHK 総合
@@ -441,16 +453,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=SD&ccode=JP&m=d0:20
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="Mnet.jp" tvg-name="Mnet.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png" group-title="港台日韩",Mnet (日本版)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=SD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="TVB翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港台日韩",高清翡翠台
-http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="TVB翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港台日韩",翡翠台
-http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1 tvg-id="HOYTV.hk" tvg-name="HOY TV" tvg-logo="https://i.imgur.com/NfVZPTT.png" group-title="港台日韩",HOYTV77 
-https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-#EXTINF:-1 tvg-id="HOYTV78.hk" tvg-name="HOY TV" tvg-logo="https://i.imgur.com/NfVZPTT.png" group-title="港台日韩",HOYTV78
-http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
-#EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="ViuTV.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png" group-title="港台日韩",ViuTV
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 #EXTINF:-1 tvg-id="新传媒5频道.sg" tvg-name="新传媒5频道.sg" tvg-logo="https://i.imgur.com/9NKp5aV.png" group-title="新马地区",新传媒5频道（英语）
 https://hls.xhzb.tw/4987/Mewatch_ch5/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-id="新传媒8频道.sg" tvg-name="新传媒8频道.sg" tvg-logo="https://i.imgur.com/6YPZc24.png" group-title="新马地区",新传媒8频道（华语）
