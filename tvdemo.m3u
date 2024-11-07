@@ -357,9 +357,9 @@ https://hls.xhzb.tw/4987/zhongshinews_twn/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-name="中視.tw" tvg-logo="https://i.imgur.com/7W6d5pM.png" group-title="港台日韩",中视主频
 http://37.27.111.214:8080/live/7/hls.m3u8
 #EXTINF:-1 tvg-name="TVBS.tw" tvg-logo="https://i.imgur.com/4RvCHWP.png" group-title="港台日韩",TVBS主频
-http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+http://37.27.111.214:8080/live/23/hls.m3u8
 #EXTINF:-1 tvg-name="TVBS 新聞台.tw" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="港台日韩",TVBS新闻台
-http://61.221.215.25:8800/hls/9/index.m3u8
+http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBS歡樂台.tw" tvg-logo="https://i.imgur.com/vRSyKo6.png" group-title="港台日韩",TVBS欢乐台
 https://stream1.freetv.fun/1a817b3f902042c1a779800f86a8ae737f308d92af24e146fcde2e18a35be6e3.m3u8
 #EXTINF:-1 tvg-name="東森新聞台.tw" tvg-logo="https://live.fanmingming.com/tv/EBCNews.png" group-title="港台日韩",东森新闻台
