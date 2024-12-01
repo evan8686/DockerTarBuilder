@@ -118,6 +118,8 @@ http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226413/index.
 http://37.27.111.214:8080/live/28/hls.m3u8
 #EXTINF:-1 tvg-name="CinemaWorld.sg" tvg-name="CinemaWorld.sg" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="影视娱乐",CinemaWorld电影台
 http://37.27.111.214:8080/live/30/hls.m3u8
+#EXTINF:-1 tvg-name="Catchplay.tw" tvg-name="Catchplay.tw" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="影视娱乐",Catchplay电影台
+https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv076
 #EXTINF:-1 tvg-id="amc電影台.tw" tvg-name="amc電影台.tw" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@33@1546_20240103152142.jpg" group-title="影视娱乐",amc电影台
 http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" tvg-logo="https://i.imgur.com/c8crJfA.png" group-title="影视娱乐",Cinemax(Asia)
@@ -210,8 +212,8 @@ http://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
 http://fl2.moveonjoy.com/history_channel/index.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="LoveNature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="科教记录",Love Nature
 http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
-#EXTINF:-1 tvg-id="LoveNature4k.ca" tvg-name="LoveNature.ca" tvg-logo="https://i.imgur.com/JEDlYlh.png" group-title="科教记录",Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveNature.HK" tvg-name="LoveNature.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="科教记录",Love Nature(HK)
+http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
 #EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="科教记录",Outdoor Channel
 http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon Asia尼克兒童頻道.tw" tvg-logo="https://live.fanmingming.com/tv/Nickelodeon.png" group-title="国际卡通",Nickelodeon(Asia)
@@ -345,33 +347,35 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 #EXTINF:-1 tvg-id="ViuTV6.hk" tvg-name="ViuTV6.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png" group-title="港台日韩",ViuTV6
 http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 #EXTINF:-1 tvg-name="台視.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/43/TTV_Home_Channel_with_HD_2016.png" group-title="港台日韩",台視主频
-https://hls.xhzb.tw/4987/ttv_taiwan/playlist.m3u8?type=fdc
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv066
 #EXTINF:-1 tvg-name="台視新聞台.tw" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="港台日韩",台視新聞台
-http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+https://stream1.freetv.fun/tai-shi-xin-wen-10.m3u8
 #EXTINF:-1 tvg-name="台視綜合台.tw" tvg-logo="https://i.imgur.com/0PGQ4FE.png" group-title="港台日韩",台視綜合台
 https://hls.xhzb.tw/4987/ttvzhonghe/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-name="民視新聞台.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="港台日韩",民視新聞台
-https://hls.xhzb.tw/4987/ftvnew_taiwan/playlist.m3u8?type=fdc
+https://stream1.freetv.fun/min-shi-xin-wen-14.m3u8
 #EXTINF:-1 tvg-name="民視.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="港台日韩",民視主频
-http://37.27.111.214:8080/live/6/hls.m3u8
+https://stream1.freetv.fun/min-shi-2.ctv
 #EXTINF:-1 tvg-name="華視主頻.tw" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="港台日韩",华视主频
-http://37.27.111.214:8080/live/8/hls.m3u8
-#EXTINF:-1 tvg-name="中視新聞台.tw" tvg-logo="https://i.imgur.com/0CYU3N0.png" group-title="港台日韩",中视新闻台
-https://hls.xhzb.tw/4987/zhongshinews_twn/playlist.m3u8?type=fdc
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv041
+#EXTINF:-1 tvg-name="華視新聞台.tw" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/28/d9/1e/28d91eb6-9f5f-e3d4-d3f4-3ae8e5c3f6de/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" group-title="港台日韩",華視新聞台
+https://stream1.freetv.fun/hua-shi-xin-wen-3.ctv
+#EXTINF:-1 tvg-name="中視新聞台.tw" tvg-logo="https://i.imgur.com/0CYU3N0.png" group-title="港台日韩",中視新聞台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv074
 #EXTINF:-1 tvg-name="中視.tw" tvg-logo="https://i.imgur.com/7W6d5pM.png" group-title="港台日韩",中视主频
-http://37.27.111.214:8080/live/7/hls.m3u8
+http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBS.tw" tvg-logo="https://i.imgur.com/4RvCHWP.png" group-title="港台日韩",TVBS主频
-http://37.27.111.214:8080/live/23/hls.m3u8
+http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBS 新聞台.tw" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="港台日韩",TVBS新闻台
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBS歡樂台.tw" tvg-logo="https://i.imgur.com/vRSyKo6.png" group-title="港台日韩",TVBS欢乐台
-https://stream1.freetv.fun/1a817b3f902042c1a779800f86a8ae737f308d92af24e146fcde2e18a35be6e3.m3u8
+https://stream1.freetv.fun/tvbshuan-le-5.m3u8
 #EXTINF:-1 tvg-name="東森新聞台.tw" tvg-logo="https://live.fanmingming.com/tv/EBCNews.png" group-title="港台日韩",东森新闻台
-https://stream1.freetv.fun/34438cfe544b494f8d68c7620c788c161e9bc0d59b6261d14b67c8c7900b084f.m3u8
+http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 #EXTINF:-1 tvg-name="東森綜合台.tw" tvg-logo="https://i.imgur.com/H0lfVpg.png" group-title="港台日韩",東森綜合台
 http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
 #EXTINF:-1 tvg-name="中天新闻.tw" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="港台日韩",中天新闻
-http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 #EXTINF:-1 tvg-name="中天綜合台.tw" tvg-logo="https://i.imgur.com/tqsKObw.png" group-title="港台日韩",中天綜合台
 https://hls.xhzb.tw/4987/ctizhonghe/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-name="中天娛樂台.tw" tvg-logo="https://i.imgur.com/FLzDLMv.png" group-title="港台日韩",中天娛樂台
@@ -382,12 +386,18 @@ https://stream1.freetv.fun/nian-dai-xin-wen-3.m3u8
 https://stream1.freetv.fun/san-li-xin-wen-4.m3u8
 #EXTINF:-1 tvg-name="三立综合" tvg-logo="https://live.fanmingming.com/tv/SETZonghe.png" group-title="港台日韩",三立综合台
 http://37.27.111.214:8080/live/31/hls.m3u8
+#EXTINF:-1 tvg-name="三立综合" tvg-logo="https://live.fanmingming.com/tv/SETZonghe.png" group-title="港台日韩",三立综合台
+http://37.27.111.214:8080/live/31/hls.m3u8
+#EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/Global_News_CH_logo.png" group-title="港台日韩",寰宇新闻台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn14
+#EXTINF:-1 tvg-name="寰宇新闻台湾台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/6c/Global_News_TW_logo.png?20200424230121" group-title="港台日韩",寰宇新闻台湾台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn15
 #EXTINF:-1 tvg-name="八大綜合台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/GTV_Variety_logo_2018.png" group-title="港台日韩",八大綜合台
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2356732f4bd8845ba1a9cd4960b1e322
 https://ushls.ballbar.net/badazhonghe/playlist-15.m3u8a?t=1730530132
 #EXTINF:-1 tvg-id="亞洲旅遊台.tw" tvg-name="亞洲旅遊台.tw" tvg-logo="https://i.imgur.com/ryNIvRQ.png" group-title="港台日韩",AsiaTravelAsia旅游台
-http://37.27.111.214:8080/live/10/hls.m3u8
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn17
 #EXTINF:-1 tvg-id="幸福空間居家台.tw" tvg-name="幸福空間居家台.tw" tvg-logo="https://live.fanmingming.com/tv/幸福空间居家台.png" group-title="港台日韩",幸福空间居家频道
 http://37.27.111.214:8080/live/26/hls.m3u8
 #EXTINF:-1 tvg-name="KBS World" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="港台日韩",KBS World
