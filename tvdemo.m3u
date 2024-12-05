@@ -118,7 +118,7 @@ http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226413/index.
 http://37.27.111.214:8080/live/28/hls.m3u8
 #EXTINF:-1 tvg-name="CinemaWorld.sg" tvg-name="CinemaWorld.sg" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="影视娱乐",CinemaWorld电影台
 http://37.27.111.214:8080/live/30/hls.m3u8
-#EXTINF:-1 tvg-name="Catchplay.tw" tvg-name="Catchplay.tw" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="影视娱乐",Catchplay电影台
+#EXTINF:-1 tvg-name="Catchplay.tw" tvg-name="Catchplay.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Catchplay_logo.png" group-title="影视娱乐",Catchplay电影台
 https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv076
 #EXTINF:-1 tvg-id="amc電影台.tw" tvg-name="amc電影台.tw" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@33@1546_20240103152142.jpg" group-title="影视娱乐",amc电影台
 http://61.221.215.25:8800/hls/43/index.m3u8
