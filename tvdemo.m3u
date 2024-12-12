@@ -54,6 +54,8 @@ http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
 http://fl2.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC.us" tvg-logo="https://i.imgur.com/kGUR6NE.png" group-title="国际新闻",MSNBC
 http://fl2.moveonjoy.com/MSNBC/index.m3u8
+#EXTINF:-1 tvg-id="ScrippsNews.us" tvg-name="ScrippsNews.us" tvg-logo="https://i.imgur.com/kGUR6NE.png" group-title="国际新闻",Scripps News
+https://livetv-fa.tubi.video/scripps-news/playlist.m3u8
 #EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="TheWeatherChannel.us" tvg-logo="https://i.imgur.com/PIaNjfa.png" group-title="国际新闻",The Weather Channel
 http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="YTN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/512px-YTN_logo_2014.svg.png" group-title="国际新闻",YTN
@@ -216,6 +218,8 @@ http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
 #EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="科教记录",Outdoor Channel
 http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TastemadeLogo.svg/512px-TastemadeLogo.svg.png" group-title="科教记录",Tastemade
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon Asia尼克兒童頻道.tw" tvg-logo="https://live.fanmingming.com/tv/Nickelodeon.png" group-title="国际卡通",Nickelodeon(Asia)
 http://37.27.111.214:8080/live/12/hls.m3u8
 #EXTINF:-1 tvg-id="NickelodeonEast.us" tvg-name="Nickelodeon East" tvg-logo="https://live.fanmingming.com/tv/Nickelodeon.png" group-title="国际卡通",Nickelodeon
@@ -326,6 +330,8 @@ http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/2746
 http://streamsy.online:2999/live/juanv/04bodwaga0/151.m3u8
 #EXTINF:-1 tvg-id="PopTV.us" tvg-name="PopTV.us" tvg-logo="https://i.imgur.com/XySNnh0.png" group-title="影视娱乐",PopTV
 http://streamsy.online:2999/live/juanv/04bodwaga0/226.m3u8
+#EXTINF:-1 tvg-id="Ovation.us" tvg-name="Ovation.us" tvg-logo="https://i.imgur.com/A3o9gvc.png" group-title="影视娱乐",Ovation
+http://fl3.moveonjoy.com/Ovation/index.m3u8
 #EXTINF:-1 tvg-id="GameShowNetworkEast.us" tvg-name="GameShowNetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/676px-Game_Show_Network_2018.svg.png" group-title="影视娱乐",Game Show Network East
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Crave1.ca" tvg-name="Crave1.ca" tvg-logo="https://asset.entpay.9c9media.ca/image-service/version/c:ODkzOGJiMWQtMDY0YS00:MzliNzc3/image.png" group-title="影视娱乐",Crave1
