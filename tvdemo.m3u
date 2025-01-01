@@ -86,6 +86,8 @@ http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
 #EXTINF:-1 tvg-id="beINSports.us" tvg-name="beINSports1.us" tvg-logo="https://i.imgur.com/HvuEiZx.png" group-title="国际体育",beINSports
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN1.uk" tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="国际体育",DAZN 1
+http://fl2.moveonjoy.com/DAZN_1/index.m3u8
 #EXTINF:-1 tvg-id="beINSports1.my" tvg-name="beINSports1.my" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="国际体育",beINSports1(Asia)
 https://hls.xhzb.tw/4987/Astrobein1/playlist.m3u8?type=fdce
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="SkySportsMainEvent.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="国际体育",SkySports MainEvent
