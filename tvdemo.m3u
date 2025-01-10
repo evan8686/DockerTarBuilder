@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/generate/U6JQkUjzYD.xml"
 #EXT-X-VERSION:3
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="国际新闻",CCTV-13 新闻
-http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226438/index.m3u8
+http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/index.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="国际新闻",CGTN(English)
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-name="無線新聞" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB4.png" group-title="国际新闻",TVB無線新聞台
@@ -44,8 +44,16 @@ http://eja.tv/?2120111aa10dfc3c926acdad262538a4.m3u8
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_5055600/index.m3u8?blog.ntnas.top
 #EXTINF:-1 tvg-id="WCBS" tvg-name="CBSNewsNewYork" tvg-logo="http://content.stream-link.org/images/cbs_news.png" group-title="国际新闻",CBS News NY
 https://eja.tv/?0b62c0be581cbeb9af1bb60973de79c2.m3u8
+#EXTINF:-1 tvg-id="WABCDT1.us" tvg-name="ABS News NY" tvg-logo="https://m.media-amazon.com/images/I/41YfI1DpHhL.png" group-title="国际新闻",ABS News NY
+https://content-aapm1.uplynk.com/channel/896bfd551dfb44b1ab3cc3be9b92e285/g.m3u8?pbs=73d99c09ddd6453ab6dfbef066d29ff1
+#EXTINF:-1 tvg-id="WNYWDT1.us" tvg-name="FOX News NY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/640px-Fts-new-york-a.svg.png" group-title="国际新闻",FOX News NY
+https://apollo.production-public.tubi.io/live/ac-wnyw.m3u8
 #EXTINF:-1 tvg-id="KCBSDT1.us" tvg-name="CBS News Los Angeles" tvg-logo="http://content.stream-link.org/images/cbs_news.png" group-title="国际新闻",CBS News LA
 https://eja.tv/?572acd8269b37c1490ffce85d7ac7037.m3u8
+#EXTINF:-1 tvg-id="KABCDT1.us" tvg-name="ABS News Los Angeles" tvg-logo="https://m.media-amazon.com/images/I/41klVRAi1oL.png" group-title="国际新闻",ABS News LA
+https://content-aaps1.uplynk.com/channel/b657cac5158e405faad7c2cc27860ef1/f.m3u8?pbs=cf36379d39074114acd5bc29e43d16e5
+#EXTINF:-1 tvg-id="KTTVDT1.us" tvg-name="FOX News Los Angeles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Fts-los-angeles-a.svg/640px-Fts-los-angeles-a.svg.png" group-title="国际新闻",FOX News LA
+https://apollo.production-public.tubi.io/live/ac-kttv.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="国际新闻",ABC News
 https://eja.tv/play/?https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8erSideAds=false&sid=99b21a01-5948-4846-8087-2fee1b5f0a3d
 #EXTINF:-1 tvg-id="FOX NEWS" tvg-name="FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="国际新闻",FOX NEWS
