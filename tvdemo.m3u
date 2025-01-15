@@ -506,6 +506,12 @@ http://fortv.cc:8080/5ybSS2/616430/53671
 http://fortv.cc:8080/5ybSS2/616430/53665
 #EXTINF:-1 tvg-id="iTV4.uk" tvg-logo="https://i.imgur.com/DYI4IA2.png" group-title="国际频道",iTV 4
 http://fortv.cc:8080/5ybSS2/616430/53666
+#EXTINF:-1 tvg-id="RTLHD.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/RTL_HD_Logo_2021.svg/512px-RTL_HD_Logo_2021.svg.png" group-title="国际频道",RTL HD
+https://s6.hopslan.com/rtlc1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="国际频道",Fashion TV
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-logo="https://i.imgur.com/FRsRXRR.png" group-title="国际频道",TV5 Monde Asia
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 #EXTINF:-1 tvg-id="Animal Planet HD.in" tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/640px-2018_Animal_Planet_logo.svg.png" group-title="国际频道",Animal Planet HD 印度源
 http://bisdaktv.store/live/Animal_Planet.m3u8
 #EXTINF:-1 tvg-id="Discovery HD World" tvg-name="Discovery Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="国际频道",Discovery Channel HD 印度源
