@@ -468,6 +468,8 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=SD&ccode=JP&m=d0:20
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="Mnet.jp" tvg-name="Mnet.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png" group-title="港台日韩",Mnet (Japan)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=SD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="MUSICONTV.jp" tvg-name="MUSICONTV.jp" tvg-logo="https://cdn-apac.onetrust.com/logos/03c4633d-4033-4b4f-bce8-a6b1fad7dc4f/4fe774f9-6a51-437a-aa51-ba8240efefc7/68a73a3b-b067-40a8-83c3-0bbaafd73632/M-ON!%E3%83%AD%E3%82%B4%E6%A8%AA%E3%82%AB%E3%83%A9%E3%83%BC(%E5%A4%A7).jpg" group-title="港台日韩",MUSIC ON! TV
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="新传媒5频道.sg" tvg-name="新传媒5频道.sg" tvg-logo="https://i.imgur.com/9NKp5aV.png" group-title="新马地区",新传媒5频道（英语）
 https://hls.xhzb.tw/4987/Mewatch_ch5/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-id="新传媒8频道.sg" tvg-name="新传媒8频道.sg" tvg-logo="https://i.imgur.com/6YPZc24.png" group-title="新马地区",新传媒8频道（华语）
