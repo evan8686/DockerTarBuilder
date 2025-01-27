@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/generate/U6JQkUjzYD.xml"
 #EXT-X-VERSION:3
+#EXTINF:-1 tvg-id="地震预警" tvg-name="地震预警" tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2024/05/21/6636930203efe_com.jrustonapps.myearthquakealerts-384x384.png" group-title="国际新闻",24小时地震预警直播
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737991813/ei/JVKXZ6OiCoqx5t0PmNnP4Qk/ip/45.78.25.189/id/Owke6Quk7T0.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51369430/txs/51369426%2C51369427%2C51369428%2C51369429%2C51369430%2C51369431%2C51369432%2C51369433%2C51369434/hfr/1/maxh/4320/maudio/1/siu/1/bui/AY2Et-OrF7DQMM4DZJTvQM6VxmqruIgXdRkttdBOs-YRuPSGgr55iR9ipCq80-XiEChi54Dy9Q/spc/9kzgDQ3ZsWmTGreGp4U2JERCYVhrck_7K1jWx5bJ1suQriYHxjfMJhxdoU_BW6BWBA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51353498%2C51355912/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAI-yrZ_-IJhx5AbjadCZDS4o0eV_Rbu5VWt0in65OzI7AiEA3oKUWXDgB4JCkJHXgsYpJLwsm-OcfkLA_01yJVbp5gU%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="CCTV13.cn" tvg-name="CCTV13.cn" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="国际新闻",CCTV-13 新闻
 http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/index.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="国际新闻",CGTN(English)
