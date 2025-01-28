@@ -164,7 +164,7 @@ https://hls.xhzb.tw/4987/Rockentertain/playlist.m3u8?type=fdc
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9229814c629b406f8de98d2f23c968a0:40b9f250455b43b3b2ea6845ab81abca
 https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd
-#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" group-title="影视娱乐",PopC Movies
+#EXTINF:-1 tvg-id="PopC.hk" tvg-name="PopC" tvg-logo="https://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" group-title="影视娱乐",PopC Movies
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 #EXTINF:-1 tvg-id="Celestial Movies.my" tvg-name="Celestial Movies.my" tvg-logo="https://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png" group-title="影视娱乐" epg-url="https://epg.pw/api/epg.xml?channel_id=1298",Celestial Movies天映频道
 https://stream1.freetv.fun/df495b640032b8caabb8975837c59ae6b40c74697c8a9039d821f82c1ca18f60.ctv
@@ -238,15 +238,15 @@ http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
 http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TastemadeLogo.svg/512px-TastemadeLogo.svg.png" group-title="科教记录",Tastemade
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon Asia尼克兒童頻道.tw" tvg-logo="https://live.fanmingming.com/tv/Nickelodeon.png" group-title="国际卡通",Nickelodeon(Asia)
+#EXTINF:-1 tvg-name="Nickelodeon Asia HD.sg" tvg-logo="https://live.fanmingming.com/tv/Nickelodeon.png" group-title="国际卡通",Nickelodeon(Asia)
 http://37.27.111.214:8080/live/12/hls.m3u8
 #EXTINF:-1 tvg-id="NickelodeonEast.us" tvg-name="Nickelodeon East" tvg-logo="https://live.fanmingming.com/tv/Nickelodeon.png" group-title="国际卡通",Nickelodeon
 http://fl2.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="NicktoonsEast.us" tvg-name="Nicktoons East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png" group-title="国际卡通",Nicktoons
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png" group-title="国际卡通",Nicktoons
 http://fl2.moveonjoy.com/NICKTOONS/index.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network.tw" tvg-name="Cartoon Network.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="国际卡通",Cartoon Network(Asia)
+#EXTINF:-1 tvg-id="Cartoon Network.sg" tvg-name="Cartoon Network.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="国际卡通",Cartoon Network(Asia)
 http://eja.tv/?05313f65bee0422cdd4a3188b70b40f4.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="国际卡通",Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="国际卡通",Cartoon Network
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="国际卡通",Boomerang
 http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
