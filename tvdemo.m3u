@@ -444,7 +444,7 @@ http://mytv.dothome.co.kr/ch/public/3.php
 http://mytv.dothome.co.kr/ch/catv/2.php
 #EXTINF:-1 tvg-name="MBC" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2020/05/06/bff87a59-fb94-4dc3-b0ee-71615d4d9504.jpg" group-title="港台日韩",MBC
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-name="SBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="港台日韩",SBS
+#EXTINF:-1 tvg-name="SBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/640px-SBS_Korea_Logo_%28Word_Only%29.svg.png" group-title="港台日韩",SBS
 http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 tvg-id="NHK World-Japan" tvg-name="NHK World Japan" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="港台日韩",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
