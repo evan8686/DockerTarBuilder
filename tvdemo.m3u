@@ -135,7 +135,7 @@ http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002139/index.m
 #EXTINF:-1 tvg-name="CCTV16.cn" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="国际体育",CCTV-16 奥林匹克
 http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226413/index.m3u8
 #EXTINF:-1 tvg-id="HITS.sg" tvg-name="HITS.sg" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="影视娱乐",Hits电影台
-http://37.27.111.214:8080/live/28/hls.m3u8
+https://cdn11jtedge.indihometv.com/joss/133/hitsmovie/chunklist_w439004267_b1544100_sleng.m3u8?enc=&uid=&exp=
 #EXTINF:-1 tvg-name="CinemaWorld.sg" tvg-name="CinemaWorld.sg" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="影视娱乐",CinemaWorld电影台
 http://37.27.111.214:8080/live/30/hls.m3u8
 #EXTINF:-1 tvg-name="CatchPlay電影台.tw" tvg-name="Catchplay.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Catchplay_logo.png" group-title="影视娱乐",Catchplay电影台
