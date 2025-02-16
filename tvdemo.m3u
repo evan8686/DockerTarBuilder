@@ -601,6 +601,14 @@ https://cadena100-cope-rrcast.flumotion.com/cope/cadena100.mp3
 https://21223.live.streamtheworld.com/CADENADIALAAC.aac
 #EXTINF:-1 tvg-id="107.5 Wish FM" tvg-name="107.5 Wish FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Wish_107.5_%282015%29.svg/768px-Wish_107.5_%282015%29.svg.png" group-title="Radio",107.5 Wish FM
 https://radio.wish1075.com/web/stream/wish.m3u8
+#EXTINF:-1 tvg-id="AsianPOP Big B Radio" tvg-name="AsianPOP Big B Radio" tvg-logo="https://www.radio.net/300/bigbradiomain.png" group-title="Radio",AsianPOP Big B Radio
+http://apop.bigbradio.net/s
+#EXTINF:-1 tvg-id="CPOP Big B Radio" tvg-name="CPOP Big B Radio" tvg-logo="https://www.radio.net/300/bigbradiocpop.png" group-title="Radio",CPOP Big B Radio
+http://cpop.bigbradio.net/s
+#EXTINF:-1 tvg-id="KPOP Big B Radio" tvg-name="KPOP Big B Radio" tvg-logo="https://www.radio.net/300/bigbradiokpop.png" group-title="Radio",KPOP Big B Radio
+http://kpop.bigbradio.net/s
+#EXTINF:-1 tvg-id="JPOP Big B Radio" tvg-name="JPOP Big B Radio" tvg-logo="https://www.radio.net/300/bigbradiojpop.png" group-title="Radio",JPOP Big B Radio
+http://jpop.bigbradio.net/s
 #EXTINF:-1 tvg-id="Asia FM Asia音乐台" tvg-name="Asia FM Asia音乐台" tvg-logo="https://cdn-profiles.tunein.com/s158851/images/logod.jpg" group-title="Radio",Asia FM Asia音乐台
 https://lhttp.qtfm.cn/live/4581/64k.mp3
 #EXTINF:-1 tvg-id="iCRT FM100" tvg-name="iCRT FM100" tvg-logo="https://cdn-radiotime-logos.tunein.com/s7198d.png" group-title="Radio",iCRT FM100
