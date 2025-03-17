@@ -2,6 +2,8 @@
 #EXT-X-VERSION:3
 #EXTINF:-1 tvg-id="地震预警" tvg-name="地震预警" tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2024/05/21/6636930203efe_com.jrustonapps.myearthquakealerts-384x384.png" group-title="国际新闻",24小时地震预警直播
 https://www.youtube.com/@%E5%8F%B0%E7%81%A3%E5%9C%B0%E9%9C%87%E7%9B%A3%E8%A6%96/live
+#EXTINF:-1 tvg-id="CCTV13.cn" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="国际新闻",央视新闻
+https://video.mytvsuper.xyz/live/1df8a5c48647867bfbe4b4a72643c4d33ab8d1a2906630fc186d9b363f83e55a.m3u8?token=315180859181452
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="国际新闻",CGTN(English)
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-id="無綫新聞台.hk" tvg-name="無綫新聞台.hk" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB4.png" group-title="国际新闻",TVB無線新聞台
