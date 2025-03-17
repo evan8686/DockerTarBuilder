@@ -135,7 +135,7 @@ http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002139/index.m
 #EXTINF:-1 tvg-name="CCTV16.cn" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="国际体育",CCTV-16 奥林匹克
 http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226413/index.m3u8
 #EXTINF:-1 tvg-id="HITS.sg" tvg-name="HITS.sg" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="影视娱乐",Hits电影台
-https://cdn11jtedge.indihometv.com/joss/133/hitsmovie/chunklist_w439004267_b1544100_sleng.m3u8?enc=&uid=&exp=
+https://video.mytvsuper.xyz/live/74669cc829e7229b5cc10546127e79aa05125c266b4e8f3ddd3c46971f1c55a9.m3u8?token=315180859181452
 #EXTINF:-1 tvg-name="CinemaWorld.sg" tvg-name="CinemaWorld.sg" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="影视娱乐",CinemaWorld电影台
 http://37.27.111.214:8080/live/30/hls.m3u8
 #EXTINF:-1 tvg-name="CatchPlay電影台.tw" tvg-name="Catchplay.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Catchplay_logo.png" group-title="影视娱乐",Catchplay电影台
@@ -151,7 +151,7 @@ http://194.42.205.99:8070/resplice/wdLIS4d9758INyuX/221948
 #EXTINF:-1 tvg-id="HBOHitsAsia.sg" tvg-name="HBOHitsAsia.sg" tvg-logo="https://i.imgur.com/CTjmocc.png" group-title="影视娱乐",HBO Hits(Asia)
 http://45.148.145.147:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/856882.m3u8?token=HRtYUkpaEAMVUwRXUQ9aVgUJDQMBDlIFBwEEUA8FBwJSWlVRDAcAC1MTTRAXTUoGVFxrXQYaClkGAg1aC09BQBVcQmxQVhADFQNYBVEIGk8XRV1ZBxoKUR8WRQtdQVlbE1VcHxtXSk1SQw9TCGZcBkNYV1FAAl4UX1gZQFYNPFEDVFFdXRAIGwYTTRANSkhBD19BWA4UEgNaQEcDTQZBDwhMXF8VEFFWQl8VQB0bAkFleRYYQF1IFVZaRgtWDUEPRFQDRgEQHhteQj5AAUpMEVBQWVEQGgpDAxYZQFQCG2oFVl5dXFFGUFhfEhBeGwpBGRNZWwxRRA5Ba0ULXUFZWxNVXE4=
 #EXTINF:-1 tvg-id="AXN.sg" tvg-logo="https://i.imgur.com/OO6mWTx.png" group-title="影视娱乐",AXN
-http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
+https://video.mytvsuper.xyz/live/b3239f74eb3ba47ec985a3b97696544a8e789a9de7ccedaed1309d1267252796.m3u8?token=315180859181452
 #EXTINF:-1 tvg-id="tvN.hk" tvg-name="tvN.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" group-title="影视娱乐",tvN
 http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 #EXTINF:-1 tvg-id="tvNMovies.my" tvg-name="tvN Movies Asia" tvg-logo="https://i.imgur.com/c4XvwO2.png" group-title="影视娱乐",tvN Movies(Asia)
@@ -159,7 +159,7 @@ http://210.210.155.35/uq2663/h/h21/index.m3u8
 #EXTINF:-1 tvg-id="ROCKAction.sg" tvg-name="ROCK Action" tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="影视娱乐",ROCK Action
 http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 #EXTINF:-1 tvg-id="ROCKEntertainment.sg" tvg-name="ROCK Entertainment" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="影视娱乐",ROCK Entertainment
-https://hls.xhzb.tw/4987/Rockentertain/playlist.m3u8?type=fdc
+https://video.mytvsuper.xyz/live/888cf902e5100d77082109e2e5dd3bee0b855ded1c9d66c56a192e4ade608ff4.m3u8?token=315180859181452
 #EXTINF:-1 tvg-id="ROCKEntertainment.sg" tvg-name="ROCK Entertainment" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="影视娱乐",ROCK Entertainment （ZH-subtitles）
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9229814c629b406f8de98d2f23c968a0:40b9f250455b43b3b2ea6845ab81abca
@@ -169,7 +169,7 @@ http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 #EXTINF:-1 tvg-id="Celestial Movies.my" tvg-name="Celestial Movies.my" tvg-logo="https://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png" group-title="影视娱乐" epg-url="https://epg.pw/api/epg.xml?channel_id=1298",Celestial Movies天映频道
 https://stream1.freetv.fun/df495b640032b8caabb8975837c59ae6b40c74697c8a9039d821f82c1ca18f60.ctv
 #EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thrill" tvg-logo="https://i.imgur.com/Y282owj.png" group-title="影视娱乐",Thrill
-http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+https://video.mytvsuper.xyz/live/0a61386eef99565806ec2a8b21fe9143fa7014b06162250bc97aa9fca6618feb.m3u8?token=315180859181452
 #EXTINF:-1 tvg-id="KIX.hk" tvg-name="KIX" tvg-logo="https://i.imgur.com/zWcUAdb.png" group-title="影视娱乐",KIX
 http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
 #EXTINF:-1 tvg-id="DiscoveryAsia.sg" tvg-name="Discovery Asia" tvg-logo="https://i.imgur.com/foLICwL.png" group-title="科教记录",Discovery Asia
