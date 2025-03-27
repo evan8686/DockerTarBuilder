@@ -166,7 +166,7 @@ http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002139/index.m
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="国际体育",CCTV16
 http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226413/index.m3u8
 #EXTINF:-1 tvg-id="HITS.sg" tvg-name="HITS.sg" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="影视娱乐",HITS.sg
-https://cdn11jtedge.indihometv.com/joss/133/hitsmovie/chunklist_w439004267_b1544100_sleng.m3u8?enc=&uid=&exp=
+https://stream1.freetv.fun/e1ad66a4d3b1c70f9475bb9fb599237739275eadcec1f2837e75832fa4d1eed4.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CinemaWorld.sg" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="影视娱乐",CinemaWorld.sg
 http://108.181.20.197/livehttpplay?channel_id=20047
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CatchPlay電影台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Catchplay_logo.png" group-title="影视娱乐",CatchPlay電影台
@@ -174,21 +174,21 @@ https://4gtv.mytvsuper.xyz/litv/4gtv-4gtv076
 #EXTINF:-1 tvg-id="amc電影台.tw" tvg-name="amc電影台" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@33@1546_20240103152142.jpg" group-title="影视娱乐",amc電影台
 http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" tvg-logo="https://i.imgur.com/c8crJfA.png" group-title="影视娱乐",Cinemax Asia
-https://hls.xhzb.tw/4987/Cinemax/playlist.m3u8?type=fdc
+http://免.l5.ca/daili/Smartv.php?id=Cinemax
 #EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBOAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="影视娱乐",HBOAsia.sg
 http://108.181.20.197/livehttpplay?channel_id=20093
 #EXTINF:-1 tvg-id="HBOSignatureAsia.sg" tvg-name="HBOSignatureAsia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/512px-HBO_Signature_Asia.png" group-title="影视娱乐",HBOSignatureAsia
-http://194.42.205.99:8070/resplice/wdLIS4d9758INyuX/221948
+https://stream1.freetv.fun/87506f962b90c1e6a534a2768eec4e2caa0b75d1453dedd5b28b87f812cd11c4.ctv
 #EXTINF:-1 tvg-id="HBOHitsAsia.sg" tvg-name="HBOHitsAsia.sg" tvg-logo="https://i.imgur.com/CTjmocc.png" group-title="影视娱乐",HBOHitsAsia.sg
 http://108.181.20.197/livehttpplay?channel_id=20091
 #EXTINF:-1 tvg-id="AXN.sg" tvg-name="AXN" tvg-logo="https://i.imgur.com/OO6mWTx.png" group-title="影视娱乐",AXN
-http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
+https://stream1.freetv.fun/f960fb1159da64498caa89659e220366fcc0942cac0cc7c3cb2a8fbf80bbe826.m3u8
 #EXTINF:-1 tvg-id="tvN.hk" tvg-name="tvN.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" group-title="影视娱乐",tvN.hk
 http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 #EXTINF:-1 tvg-id="tvNMovies.my" tvg-name="tvN Movies Asia" tvg-logo="https://i.imgur.com/c4XvwO2.png" group-title="影视娱乐",tvN Movies Asia
 http://210.210.155.35/uq2663/h/h21/index.m3u8
 #EXTINF:-1 tvg-id="ROCKAction.sg" tvg-name="ROCK Action" tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="影视娱乐",ROCK Action
-http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+https://stream1.freetv.fun/cd1fc23b578d1b0fece19b75bcd7bc86eec8f60a53430bbe3ee01649a72c9838.m3u8
 #EXTINF:-1 tvg-id="ROCKEntertainment.sg" tvg-name="ROCK Entertainment" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="影视娱乐",ROCK Entertainment
 https://hls.xhzb.tw/4987/Rockentertain/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-id="ROCKEntertainment.sg" tvg-name="ROCK Entertainment" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="影视娱乐",ROCK Entertainment
@@ -198,9 +198,9 @@ http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 #EXTINF:-1 tvg-id="Celestial Movies.my" tvg-name="Celestial Movies" tvg-logo="https://console.celestialtiger.com/images/upload/66d5b3a35c6a98ba0db94e222271a5a42936ec54.png" group-title="影视娱乐",Celestial Movies
 https://stream1.freetv.fun/df495b640032b8caabb8975837c59ae6b40c74697c8a9039d821f82c1ca18f60.ctv
 #EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thrill" tvg-logo="https://i.imgur.com/Y282owj.png" group-title="影视娱乐",Thrill
-http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+https://stream1.freetv.fun/0d51b3d52347876d092491d24f7ce614e7e3551ff853b7d02ef48261805d6bcf.m3u8
 #EXTINF:-1 tvg-id="KIX.hk" tvg-name="KIX" tvg-logo="https://i.imgur.com/zWcUAdb.png" group-title="影视娱乐",KIX
-http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+https://stream1.freetv.fun/bd3d963655caa17e80ad529c5e7f730cf6a014a27c1700d86c124dddffb2fc90.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Live音樂頻道" tvg-logo="https://i.imgur.com/St5DhAU.png" group-title="影视娱乐",MTV Live音樂頻道
 http://37.27.111.214:8080/live/25/hls.m3u8
 #EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="影视娱乐",MTV
@@ -510,11 +510,11 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=SD&ccode=JP&m=d0:20
 #EXTINF:-1 tvg-id="MUSICONTV.jp" tvg-name="MUSICONTV" tvg-logo="https://cdn-apac.onetrust.com/logos/03c4633d-4033-4b4f-bce8-a6b1fad7dc4f/4fe774f9-6a51-437a-aa51-ba8240efefc7/68a73a3b-b067-40a8-83c3-0bbaafd73632/M-ON!%E3%83%AD%E3%82%B4%E6%A8%AA%E3%82%AB%E3%83%A9%E3%83%BC(%E5%A4%A7).jpg" group-title="港台日韩",MUSICONTV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="新传媒5频道.sg" tvg-name="新传媒5频道.sg" tvg-logo="https://i.imgur.com/9NKp5aV.png" group-title="新马地区",新传媒5频道.sg
-https://hls.xhzb.tw/4987/Mewatch_ch5/playlist.m3u8?type=fdc
+https://stream1.freetv.fun/c8d7d939962df22ef13250f4ad8ac870ff05a18151c63236586ac7698105aab5.m3u8
 #EXTINF:-1 tvg-id="新传媒8频道.sg" tvg-name="新传媒8频道.sg" tvg-logo="https://i.imgur.com/6YPZc24.png" group-title="新马地区",新传媒8频道.sg
-https://hls.xhzb.tw/4987/Mewatch_ch8/playlist.m3u8?type=fdc
+https://stream1.freetv.fun/49c7df7248ea6d56046eaf18d1c039e8248c268ed579660fca9e641d57e802f3.m3u8
 #EXTINF:-1 tvg-id="新传媒u频道.sg" tvg-name="新传媒u频道.sg" tvg-logo="https://i.imgur.com/9MzEjoY.png" group-title="新马地区",新传媒u频道.sg
-https://hls.xhzb.tw/4987/Mewatch_chU/playlist.m3u8?type=fdc
+https://stream1.freetv.fun/0977f368053d0321830a29d8856469ec7c41c8745d685067c3d8b4477ff7126a.m3u8
 #EXTINF:-1 tvg-id="AstroAEC.my" tvg-name="AstroAEC.my" tvg-logo="https://i.postimg.cc/wTQ0nC4r/Astro-AEC.png" group-title="新马地区",AstroAEC.my
 https://hls.xhzb.tw/4987/AEC/playlist.m3u8?type=fdc
 #EXTINF:-1 tvg-id="AstroQJ.my" tvg-name="AstroQJ.my" tvg-logo="https://i.imgur.com/Cyiug9i.png" group-title="新马地区",AstroQJ.my
