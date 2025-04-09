@@ -333,6 +333,8 @@ http://205.185.123.236:50007/4gtv-live112/index.m3u8
 http://205.185.123.236:50007/4gtv-live123/index.m3u8
 #EXTINF:-1 tvg-id="Luxe.tw" tvg-name="LuxeTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/LUXETV_LOGO_BLACK_MONOCHROME.png/960px-LUXETV_LOGO_BLACK_MONOCHROME.png" group-title="科教记录",LuxeTV
 http://205.185.123.236:50007/4gtv-live121/index.m3u8
+#EXTINF:-1 tvg-id="PET CLUB TV寵物頻道.tw" tvg-name="PET CLUB TV寵物頻道" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="科教记录",PET CLUB TV寵物頻道
+http://205.185.123.236:50007/4gtv-live110/index.m3u8
 #EXTINF:-1 tvg-id="BBC Earth.my" tvg-name="BBC Earth.my" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="科教记录",BBC Earth.my
 http://103.244.145.15/live/anita123/anita123/150964.m3u8?token=ShJcU0BbQQNHXVJaU1BWW1sCBQIFUQZVUgFXVVABUQtVAwdTV1EADgQbGBpEF0dcWF1vWQIXXlAEUlsBUUgRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIEwIDBgQBVQBHFRZdTxdQS1dRXG8CUBIIUgdADQsRX14dEltcbFcGVARXUBoNQQQbFRJZQxYXXg9EDg4bRwZaRkNRQFcRCUELUAEBGhtBVlZMXkRCHxdeQ2EqQBtHAUtGVF5HW1xdQQNHVAdND0EZG1BDb0IDRhATVAMPUhdGCRABEhgQXlIbZgZWWlZSAEFQVl5DElwXVUMdQA9YCw1HXUNvRFtXEVkbVw4ADwVWBRtE
 #EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="科教记录",Discovery Channel
