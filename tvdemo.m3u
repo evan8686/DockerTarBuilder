@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jwmzn128mqukpw6my721"
+#EXTINF:-1 tvg-id="地震预警" tvg-name="地震预警" tvg-logo="https://pbs.twimg.com/card_img/1915330234339000320/kh41IKaW?format=png&name=small" group-title="国际新闻",台海地震预警
+https://live.iill.top/youtube/Owke6Quk7T0
 #EXTINF:-1 tvg-id="CCTV13.cn" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="国际新闻",CCTV13
 http://58.254.14.232:808/hls/13/index.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="国际新闻",CGTN
