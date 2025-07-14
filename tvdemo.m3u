@@ -360,7 +360,7 @@ http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet(East)(src01).us" tvg-name="AnimalPlanet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="科教记录",AnimalPlanet
 http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 #EXTINF:-1 tvg-id="TheTravelChannel.us" tvg-name="TravelChannel" tvg-logo="https://i.imgur.com/RmHGeP1.png" group-title="科教记录",TravelChannel
-http://fl2.moveonjoy.com/Travel_Channel/index.m3u8
+https://v1.thetvapp.to/hls/TravelChannelEast/tracks-v1a1/mono.m3u8?token=um7QG4II3FShSBcURed3YA&expires=1752535280&user_id=RTRFS3Bkc3BaOTJ3SXRRbmx6dVV2dHNCTG82bVJ6U0E2dGkxdjByYg==
 #EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Destination_America_logo.svg/512px-Destination_America_logo.svg.png" group-title="科教记录",Destination America
 http://fl3.moveonjoy.com/Destination_America/index.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="科教记录",Investigation Discovery
@@ -384,9 +384,9 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsung
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nickelodeon Asia HD.sg" tvg-logo="https://live.fanmingming.com/tv/Nickelodeon.png" group-title="国际卡通",Nickelodeon Asia HD.sg
 http://108.181.20.197/livehttpplay?channel_id=20089
 #EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="https://live.fanmingming.com/tv/Nickelodeon.png" group-title="国际卡通",Nickelodeon
-http://fl2.moveonjoy.com/NICKELODEON/index.m3u8
+https://v13.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8?token=UqyUfEHuEngbuggvg9C06w&expires=1752535266&user_id=NTd5T3M5cHZOUVhBc3F0ZGtZT2RrWWJkMVdCTTJwbzVuNEZ2MENkOQ==
 #EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png" group-title="国际卡通",Nicktoons
-http://fl2.moveonjoy.com/NICKTOONS/index.m3u8
+https://v12.thetvapp.to/hls/NicktoonsEast/tracks-v1a1/mono.m3u8?token=bKcf-M_AxEq2FBYBMoH7aQ&expires=1752540039&user_id=eHdJaUZnV1FqNmZ1T3FJQlg1NDhsanlSNEZpWmFsekVSN3Q4eDZjRw==
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="国际卡通",Cartoon Network.tw
 http://eja.tv/?05313f65bee0422cdd4a3188b70b40f4.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="国际卡通",Cartoon Network
